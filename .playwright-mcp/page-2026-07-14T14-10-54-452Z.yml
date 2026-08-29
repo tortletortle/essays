@@ -1,0 +1,974 @@
+- generic [ref=f22e2]:
+  - generic [ref=f22e3]:
+    - link "Skip to content" [ref=f22e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=f22e6]:
+      - heading "Navigation Menu" [level=2] [ref=f22e7]
+      - generic [ref=f22e8]:
+        - link "Homepage" [ref=f22e10] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f22e13]:
+          - navigation "Global" [ref=f22e16]:
+            - list [ref=f22e17]:
+              - listitem [ref=f22e18]:
+                - button "Platform" [ref=f22e20] [cursor=pointer]
+              - listitem [ref=f22e23]:
+                - button "Solutions" [ref=f22e25] [cursor=pointer]
+              - listitem [ref=f22e28]:
+                - button "Resources" [ref=f22e30] [cursor=pointer]
+              - listitem [ref=f22e33]:
+                - button "Open Source" [ref=f22e35] [cursor=pointer]
+              - listitem [ref=f22e38]:
+                - button "Enterprise" [ref=f22e40] [cursor=pointer]
+              - listitem [ref=f22e43]:
+                - link "Pricing" [ref=f22e44] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=f22e46]:
+            - button "Search or jump to…" [ref=f22e49] [cursor=pointer]
+            - link "Sign in" [ref=f22e54] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fbedwards%2Fnovel
+            - link "Sign up" [ref=f22e55] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=bedwards%2Fnovel
+            - button "Appearance settings" [ref=f22e58] [cursor=pointer]
+  - main [ref=f22e62]:
+    - generic [ref=f22e63]:
+      - generic [ref=f22e64]:
+        - generic [ref=f22e66]:
+          - link "bedwards" [ref=f22e70] [cursor=pointer]:
+            - /url: /bedwards
+          - generic [ref=f22e71]: /
+          - strong [ref=f22e72]:
+            - link "novel" [ref=f22e73] [cursor=pointer]:
+              - /url: /bedwards/novel
+          - generic [ref=f22e74]: Public
+        - generic [ref=f22e75]:
+          - list:
+            - listitem [ref=f22e76]:
+              - link "You must be signed in to change notification settings" [ref=f22e77] [cursor=pointer]:
+                - /url: /login?return_to=%2Fbedwards%2Fnovel
+                - text: Notifications
+            - listitem [ref=f22e80]:
+              - link "Fork 0" [ref=f22e81] [cursor=pointer]:
+                - /url: /login?return_to=%2Fbedwards%2Fnovel
+                - text: Fork
+                - generic "0" [ref=f22e84]
+            - listitem [ref=f22e85]:
+              - link "You must be signed in to star a repository" [ref=f22e87] [cursor=pointer]:
+                - /url: /login?return_to=%2Fbedwards%2Fnovel
+                - text: Star
+                - generic "0 users starred this repository" [ref=f22e90]: "0"
+      - navigation "Repository" [ref=f22e91]:
+        - list [ref=f22e92]:
+          - listitem [ref=f22e93]:
+            - link "Code" [ref=f22e94] [cursor=pointer]:
+              - /url: /bedwards/novel
+          - listitem [ref=f22e98]:
+            - link "Issues" [ref=f22e99] [cursor=pointer]:
+              - /url: /bedwards/novel/issues
+          - listitem [ref=f22e104]:
+            - link "Pull requests" [ref=f22e105] [cursor=pointer]:
+              - /url: /bedwards/novel/pulls
+          - listitem [ref=f22e109]:
+            - link "Actions" [ref=f22e110] [cursor=pointer]:
+              - /url: /bedwards/novel/actions
+          - listitem [ref=f22e114]:
+            - link "Projects" [ref=f22e115] [cursor=pointer]:
+              - /url: /bedwards/novel/projects
+          - listitem [ref=f22e119]:
+            - link "Security and quality" [ref=f22e120] [cursor=pointer]:
+              - /url: /bedwards/novel/security
+          - listitem [ref=f22e124]:
+            - link "Insights" [ref=f22e125] [cursor=pointer]:
+              - /url: /bedwards/novel/pulse
+    - generic [ref=f22e141]:
+      - heading "bedwards/novel" [level=1] [ref=f22e143]
+      - generic [ref=f22e144]:
+        - generic [ref=f22e147]:
+          - generic [ref=f22e148]:
+            - generic [ref=f22e149]:
+              - button "main branch" [ref=f22e151] [cursor=pointer]:
+                - generic [ref=f22e152]: main
+              - generic [ref=f22e160]:
+                - link "Go to Branches page" [ref=f22e161] [cursor=pointer]:
+                  - /url: /bedwards/novel/branches
+                - link "Go to Tags page" [ref=f22e164] [cursor=pointer]:
+                  - /url: /bedwards/novel/tags
+            - button "Code" [ref=f22e168] [cursor=pointer]
+          - generic [ref=f22e171]:
+            - generic [ref=f22e172]:
+              - heading "Folders and files" [level=2] [ref=f22e173]
+              - table "Folders and files" [ref=f22e174]:
+                - rowgroup:
+                  - row "Name Last commit message Last commit date":
+                    - columnheader "Name"
+                    - columnheader "Last commit message"
+                    - columnheader "Last commit date"
+                - rowgroup [ref=f22e175]:
+                  - row [ref=f22e176]:
+                    - 'cell "Latest commit bedwards commits by bedwards Fix PDF export: remove literal newpage text, add chapter headers Open commit details Commit a10f993 · Nov 23, 20258 months ago History 17 Commits" [ref=f22e177]':
+                      - generic [ref=f22e178]:
+                        - heading "Latest commit" [level=2] [ref=f22e179]
+                        - generic [ref=f22e180]:
+                          - generic [ref=f22e182]:
+                            - link [ref=f22e183] [cursor=pointer]:
+                              - /url: /bedwards
+                              - img "bedwards" [ref=f22e184]
+                            - link "commits by bedwards" [ref=f22e185] [cursor=pointer]:
+                              - /url: /bedwards/novel/commits?author=bedwards
+                              - text: bedwards
+                          - generic [ref=f22e186]:
+                            - 'link "Fix PDF export: remove literal newpage text, add chapter headers" [ref=f22e189] [cursor=pointer]':
+                              - /url: /bedwards/novel/commit/a10f9937d665a38ae7548c7c8084941b3ef88e0d
+                            - button "Open commit details" [ref=f22e190] [cursor=pointer]
+                        - generic [ref=f22e193]:
+                          - generic [ref=f22e195]:
+                            - link "Commit a10f993" [ref=f22e196] [cursor=pointer]:
+                              - /url: /bedwards/novel/commit/a10f9937d665a38ae7548c7c8084941b3ef88e0d
+                              - text: a10f993
+                            - text: ·
+                            - generic "Nov 23, 2025, 22:45 GMT+8" [ref=f22e197]: Nov 23, 20258 months ago
+                          - generic [ref=f22e198]:
+                            - heading "History" [level=2] [ref=f22e199]
+                            - link "17 Commits" [ref=f22e200] [cursor=pointer]:
+                              - /url: /bedwards/novel/commits/main/
+                  - row [ref=f22e203]:
+                    - cell [ref=f22e204]:
+                      - link "framework, (Directory)" [ref=f22e211] [cursor=pointer]:
+                        - /url: /bedwards/novel/tree/main/framework
+                        - text: framework
+                    - cell [ref=f22e212]:
+                      - 'link "Fix PDF export: remove literal newpage text, add chapter headers" [ref=f22e215] [cursor=pointer]':
+                        - /url: /bedwards/novel/commit/a10f9937d665a38ae7548c7c8084941b3ef88e0d
+                    - cell "Nov 23, 20258 months ago" [ref=f22e216]
+                  - row [ref=f22e218]:
+                    - cell [ref=f22e219]:
+                      - link "manuscript, (Directory)" [ref=f22e226] [cursor=pointer]:
+                        - /url: /bedwards/novel/tree/main/manuscript
+                        - text: manuscript
+                    - cell [ref=f22e227]:
+                      - link "Author edits to prologue" [ref=f22e230] [cursor=pointer]:
+                        - /url: /bedwards/novel/commit/a15531c4bf798e50560621cf8a26fa75f169b459
+                    - cell "Nov 23, 20258 months ago" [ref=f22e231]
+                  - row [ref=f22e233]:
+                    - cell [ref=f22e234]:
+                      - link "notes, (Directory)" [ref=f22e241] [cursor=pointer]:
+                        - /url: /bedwards/novel/tree/main/notes
+                        - text: notes
+                    - cell [ref=f22e242]:
+                      - 'link "Set novel title: Lamp Oil by Brian Edwards" [ref=f22e245] [cursor=pointer]':
+                        - /url: /bedwards/novel/commit/1fbdcc6d5f4a226120c6b3b1e2fc1d231d13f854
+                    - cell "Nov 23, 20258 months ago" [ref=f22e246]
+                  - row [ref=f22e248]:
+                    - cell [ref=f22e249]:
+                      - link ".gitignore, (File)" [ref=f22e256] [cursor=pointer]:
+                        - /url: /bedwards/novel/blob/main/.gitignore
+                        - text: .gitignore
+                    - cell [ref=f22e257]:
+                      - link "Add PDF export script for Speechify review" [ref=f22e260] [cursor=pointer]:
+                        - /url: /bedwards/novel/commit/0c078dbf678a7d8e35db50990aa7cd449324db4f
+                    - cell "Nov 23, 20258 months ago" [ref=f22e261]
+                  - row [ref=f22e263]:
+                    - cell [ref=f22e264]:
+                      - link "AGENTS.md, (File)" [ref=f22e271] [cursor=pointer]:
+                        - /url: /bedwards/novel/blob/main/AGENTS.md
+                        - text: AGENTS.md
+                    - cell [ref=f22e272]:
+                      - link "Create complete novel writing framework with AI integration" [ref=f22e275] [cursor=pointer]:
+                        - /url: /bedwards/novel/commit/147d51fc7ce658d94e855bf34aafa5a0c41dd216
+                    - cell "Nov 23, 20258 months ago" [ref=f22e276]
+                  - row [ref=f22e278]:
+                    - cell [ref=f22e279]:
+                      - link "CLAUDE.md, (File)" [ref=f22e286] [cursor=pointer]:
+                        - /url: /bedwards/novel/blob/main/CLAUDE.md
+                        - text: CLAUDE.md
+                    - cell [ref=f22e287]:
+                      - link "Fix final example reference in CLAUDE.md" [ref=f22e290] [cursor=pointer]:
+                        - /url: /bedwards/novel/commit/b0513fda79576b23ece1524fa81ba450c866f29a
+                    - cell "Nov 23, 20258 months ago" [ref=f22e291]
+                  - row [ref=f22e293]:
+                    - cell [ref=f22e294]:
+                      - link "LICENSE, (File)" [ref=f22e301] [cursor=pointer]:
+                        - /url: /bedwards/novel/blob/main/LICENSE
+                        - text: LICENSE
+                    - cell [ref=f22e302]:
+                      - link "Initial commit" [ref=f22e305] [cursor=pointer]:
+                        - /url: /bedwards/novel/commit/993d0174c13f7c1ceaa77b72b5b520e5c82bd0dd
+                    - cell "Nov 23, 20258 months ago" [ref=f22e306]
+                  - row [ref=f22e308]:
+                    - cell [ref=f22e309]:
+                      - link "QUICK-START.md, (File)" [ref=f22e316] [cursor=pointer]:
+                        - /url: /bedwards/novel/blob/main/QUICK-START.md
+                        - text: QUICK-START.md
+                    - cell [ref=f22e317]:
+                      - link "Create complete novel writing framework with AI integration" [ref=f22e320] [cursor=pointer]:
+                        - /url: /bedwards/novel/commit/147d51fc7ce658d94e855bf34aafa5a0c41dd216
+                    - cell "Nov 23, 20258 months ago" [ref=f22e321]
+                  - row [ref=f22e323]:
+                    - cell [ref=f22e324]:
+                      - link "README.md, (File)" [ref=f22e331] [cursor=pointer]:
+                        - /url: /bedwards/novel/blob/main/README.md
+                        - text: README.md
+                    - cell [ref=f22e332]:
+                      - link "Create complete novel writing framework with AI integration" [ref=f22e335] [cursor=pointer]:
+                        - /url: /bedwards/novel/commit/147d51fc7ce658d94e855bf34aafa5a0c41dd216
+                    - cell "Nov 23, 20258 months ago" [ref=f22e336]
+            - generic [ref=f22e339]:
+              - generic [ref=f22e340]:
+                - heading "Repository files navigation" [level=2] [ref=f22e341]
+                - navigation "Repository files" [ref=f22e342]:
+                  - list [ref=f22e343]:
+                    - listitem [ref=f22e344]:
+                      - link "README" [ref=f22e345] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=f22e350]:
+                      - link "AGPL-3.0 license" [ref=f22e351] [cursor=pointer]:
+                        - /url: "#"
+                - button "Outline" [ref=f22e356] [cursor=pointer]
+              - article [ref=f22e360]:
+                - generic [ref=f22e361]:
+                  - heading "Novel Framework" [level=1] [ref=f22e362]
+                  - 'link "Permalink: Novel Framework" [ref=f22e363] [cursor=pointer]':
+                    - /url: "#novel-framework"
+                - paragraph [ref=f22e366]: A lean, AI-powered novel writing framework inspired by Scrivener but built for the command line, git, and Claude AI in OpenCode.
+                - generic [ref=f22e367]:
+                  - heading "What Is This?" [level=2] [ref=f22e368]
+                  - 'link "Permalink: What Is This?" [ref=f22e369] [cursor=pointer]':
+                    - /url: "#what-is-this"
+                - paragraph [ref=f22e372]:
+                  - text: This is not a GUI application or web app. It's a
+                  - strong [ref=f22e373]: structured methodology and file organization system
+                  - text: for writing novels with Claude AI as your creative partner.
+                - paragraph [ref=f22e374]: "Think of it as:"
+                - list [ref=f22e375]:
+                  - listitem [ref=f22e376]: Scrivener's organization + Obsidian's markdown + Git's version control + Claude's intelligence
+                  - listitem [ref=f22e377]: A framework that turns your terminal into a novel-writing IDE
+                  - listitem [ref=f22e378]: A system where Claude maintains consistency, structure, and quality while you focus on creativity
+                - generic [ref=f22e379]:
+                  - heading "Philosophy" [level=2] [ref=f22e380]
+                  - 'link "Permalink: Philosophy" [ref=f22e381] [cursor=pointer]':
+                    - /url: "#philosophy"
+                - list [ref=f22e384]:
+                  - listitem [ref=f22e385]:
+                    - strong [ref=f22e386]: Markdown files in git
+                    - text: "- Future-proof, versionable, tool-agnostic"
+                  - listitem [ref=f22e387]:
+                    - strong [ref=f22e388]: Separation of concerns
+                    - text: "- Manuscript, notes, marketing, and framework stay separate"
+                  - listitem [ref=f22e389]:
+                    - strong [ref=f22e390]: AI as creative partner
+                    - text: "- Claude handles housekeeping, you handle creativity"
+                  - listitem [ref=f22e391]:
+                    - strong [ref=f22e392]: Process over tools
+                    - text: "- The workflow matters more than the software"
+                  - listitem [ref=f22e393]:
+                    - strong [ref=f22e394]: Quality first
+                    - text: "- Based on proven craft principles from master writers"
+                - generic [ref=f22e395]:
+                  - heading "Quick Start" [level=2] [ref=f22e396]
+                  - 'link "Permalink: Quick Start" [ref=f22e397] [cursor=pointer]':
+                    - /url: "#quick-start"
+                - generic [ref=f22e400]:
+                  - heading "1. Fork This Repository" [level=3] [ref=f22e401]
+                  - 'link "Permalink: 1. Fork This Repository" [ref=f22e402] [cursor=pointer]':
+                    - /url: "#1-fork-this-repository"
+                - generic [ref=f22e405]:
+                  - generic [ref=f22e406]: git clone <your-fork-url> cd novel
+                  - button "Copy code to clipboard" [ref=f22e408] [cursor=pointer]
+                - generic [ref=f22e412]:
+                  - heading "2. Run Setup Script" [level=3] [ref=f22e413]
+                  - 'link "Permalink: 2. Run Setup Script" [ref=f22e414] [cursor=pointer]':
+                    - /url: "#2-run-setup-script"
+                - generic [ref=f22e417]:
+                  - generic [ref=f22e418]: ./framework/scripts/setup-new-novel.sh
+                  - button "Copy code to clipboard" [ref=f22e420] [cursor=pointer]
+                - paragraph [ref=f22e424]: This archives the example novel and creates fresh template files for your project.
+                - generic [ref=f22e425]:
+                  - heading "3. Add Writing Samples (REQUIRED)" [level=3] [ref=f22e426]
+                  - 'link "Permalink: 3. Add Writing Samples (REQUIRED)" [ref=f22e427] [cursor=pointer]':
+                    - /url: "#3-add-writing-samples-required"
+                - paragraph [ref=f22e430]:
+                  - text: Add at least 4 samples of your writing to
+                  - code [ref=f22e431]: writing-samples/
+                  - text: ":"
+                - generic [ref=f22e432]:
+                  - generic [ref=f22e433]:
+                    - generic [ref=f22e434]: "# Examples:"
+                    - text: writing-samples/short-story-excerpt.md writing-samples/blog-post.md writing-samples/previous-novel-chapter.md writing-samples/personal-essay.md
+                  - button "Copy code to clipboard" [ref=f22e436] [cursor=pointer]
+                - paragraph [ref=f22e440]:
+                  - strong [ref=f22e441]: Why?
+                  - text: These teach Claude your unique voice and prevent generic AI writing.
+                - generic [ref=f22e442]:
+                  - heading "4. Configure Your Project" [level=3] [ref=f22e443]
+                  - 'link "Permalink: 4. Configure Your Project" [ref=f22e444] [cursor=pointer]':
+                    - /url: "#4-configure-your-project"
+                - paragraph [ref=f22e447]: "Edit these files:"
+                - list [ref=f22e448]:
+                  - listitem [ref=f22e449]:
+                    - code [ref=f22e450]: notes/PROJECT.md
+                    - text: "- Novel title, genre, premise"
+                  - listitem [ref=f22e451]:
+                    - code [ref=f22e452]: notes/plot/outline.md
+                    - text: "- Story structure"
+                  - listitem [ref=f22e453]:
+                    - code [ref=f22e454]: notes/style-guide.md
+                    - text: "- Your stylistic preferences"
+                - generic [ref=f22e455]:
+                  - heading "5. Start Writing with Claude" [level=3] [ref=f22e456]
+                  - 'link "Permalink: 5. Start Writing with Claude" [ref=f22e457] [cursor=pointer]':
+                    - /url: "#5-start-writing-with-claude"
+                - generic [ref=f22e460]:
+                  - generic [ref=f22e461]: opencode
+                  - button "Copy code to clipboard" [ref=f22e463] [cursor=pointer]
+                - paragraph [ref=f22e467]: "Then prompt Claude:"
+                - generic [ref=f22e468]:
+                  - code [ref=f22e470]: Write the opening scene of Chapter 1. Sarah arrives at the abandoned house.
+                  - button "Copy code to clipboard" [ref=f22e472] [cursor=pointer]
+                - paragraph [ref=f22e476]: "Claude will:"
+                - list [ref=f22e477]:
+                  - listitem [ref=f22e478]: Review your outline and character notes
+                  - listitem [ref=f22e479]: Check your writing samples for style
+                  - listitem [ref=f22e480]: Write the scene in your voice
+                  - listitem [ref=f22e481]: Update metadata and organization automatically
+                  - listitem [ref=f22e482]: Structure files appropriately
+                - generic [ref=f22e483]:
+                  - heading "Directory Structure" [level=2] [ref=f22e484]
+                  - 'link "Permalink: Directory Structure" [ref=f22e485] [cursor=pointer]':
+                    - /url: "#directory-structure"
+                - generic [ref=f22e488]:
+                  - code [ref=f22e490]: "novel/ ├── manuscript/ # Your novel's prose (TO BE PUBLISHED) │ ├── acts/ # Act-level notes │ ├── chapters/ # Chapter files │ └── scenes/ # Individual scenes │ ├── notes/ # Private metadata (NOT FOR PUBLICATION) │ ├── characters/ # Character profiles │ ├── settings/ # Location and world details │ ├── plot/ # Outline, plot threads, structure │ ├── themes/ # Thematic notes │ └── research/ # Research and fact-checking │ ├── marketing/ # Publication materials │ ├── synopsis/ # Short and long synopsis │ ├── query-letters/ # Agent query letters │ └── blurbs/ # Back cover copy, etc. │ ├── framework/ # Framework files (DO NOT EDIT NOVELS HERE) │ ├── scripts/ # Utility scripts │ └── templates/ # File templates │ ├── writing-samples/ # Your writing for style reference (gitignored) │ ├── .archive/ # Old versions and deleted content │ ├── CLAUDE.md # Instructions for Claude AI ├── AGENTS.md # Novel-writing principles and best practices └── README.md # This file"
+                  - button "Copy code to clipboard" [ref=f22e492] [cursor=pointer]
+                - generic [ref=f22e496]:
+                  - heading "How It Works" [level=2] [ref=f22e497]
+                  - 'link "Permalink: How It Works" [ref=f22e498] [cursor=pointer]':
+                    - /url: "#how-it-works"
+                - generic [ref=f22e501]:
+                  - heading "The Author's Role (You)" [level=3] [ref=f22e502]
+                  - 'link "Permalink: The Author''s Role (You)" [ref=f22e503] [cursor=pointer]':
+                    - /url: "#the-authors-role-you"
+                - list [ref=f22e506]:
+                  - listitem [ref=f22e507]:
+                    - strong [ref=f22e508]: Provide writing samples
+                    - text: "- At least 4 examples of your prose"
+                  - listitem [ref=f22e509]:
+                    - strong [ref=f22e510]: Set up the story
+                    - text: "- Outline, characters, world in"
+                    - code [ref=f22e511]: notes/
+                  - listitem [ref=f22e512]:
+                    - strong [ref=f22e513]: Prompt for content
+                    - text: "- Ask Claude to write scenes, chapters, dialogue"
+                  - listitem [ref=f22e514]:
+                    - strong [ref=f22e515]: Make creative decisions
+                    - text: "- Approve or revise what Claude writes"
+                  - listitem [ref=f22e516]:
+                    - strong [ref=f22e517]: Guide the vision
+                    - text: "- You're the director; Claude is the assistant"
+                - generic [ref=f22e518]:
+                  - heading "Claude's Role (AI)" [level=3] [ref=f22e519]
+                  - 'link "Permalink: Claude''s Role (AI)" [ref=f22e520] [cursor=pointer]':
+                    - /url: "#claudes-role-ai"
+                - paragraph [ref=f22e523]: "Claude automatically handles:"
+                - list [ref=f22e524]:
+                  - listitem [ref=f22e525]:
+                    - strong [ref=f22e526]: Style matching
+                    - text: "- Writes in YOUR voice using your samples"
+                  - listitem [ref=f22e527]:
+                    - strong [ref=f22e528]: Consistency
+                    - text: "- Reviews outline and notes before writing"
+                  - listitem [ref=f22e529]:
+                    - strong [ref=f22e530]: Metadata maintenance
+                    - text: "- Updates character profiles, plot threads, timeline"
+                  - listitem [ref=f22e531]:
+                    - strong [ref=f22e532]: Organization
+                    - text: "- Structures files, names them appropriately, refactors"
+                  - listitem [ref=f22e533]:
+                    - strong [ref=f22e534]: Quality control
+                    - text: "- Applies craft principles from"
+                    - code [ref=f22e535]: AGENTS.md
+                  - listitem [ref=f22e536]:
+                    - strong [ref=f22e537]: Git workflow
+                    - text: "- Commits and pushes changes to GitHub after each session"
+                  - listitem [ref=f22e538]:
+                    - strong [ref=f22e539]: Housekeeping
+                    - text: "- Tracks continuity, flags issues, maintains order"
+                - paragraph [ref=f22e540]:
+                  - strong [ref=f22e541]: You don't need to ask Claude to do these things.
+                  - text: They happen automatically based on
+                  - code [ref=f22e542]: CLAUDE.md
+                  - text: .
+                - generic [ref=f22e543]:
+                  - heading "Working with Claude" [level=2] [ref=f22e544]
+                  - 'link "Permalink: Working with Claude" [ref=f22e545] [cursor=pointer]':
+                    - /url: "#working-with-claude"
+                - generic [ref=f22e548]:
+                  - heading "Effective Prompts" [level=3] [ref=f22e549]
+                  - 'link "Permalink: Effective Prompts" [ref=f22e550] [cursor=pointer]':
+                    - /url: "#effective-prompts"
+                - paragraph [ref=f22e553]:
+                  - strong [ref=f22e554]: Good prompts
+                  - text: "(focus on what happens):"
+                - generic [ref=f22e555]:
+                  - code [ref=f22e557]: Write the confrontation scene between Sarah and Detective Miller. Sarah discovers the truth about her mother's disappearance. Continue from the last scene. Show the aftermath of the explosion.
+                  - button "Copy code to clipboard" [ref=f22e559] [cursor=pointer]
+                - paragraph [ref=f22e563]:
+                  - strong [ref=f22e564]: Less effective prompts
+                  - text: ":"
+                - generic [ref=f22e565]:
+                  - code [ref=f22e567]: Write in my style... [Claude already does this] Update the character notes... [Claude already does this] Make sure it's consistent... [Claude already does this]
+                  - button "Copy code to clipboard" [ref=f22e569] [cursor=pointer]
+                - generic [ref=f22e573]:
+                  - heading "What Claude Does Automatically" [level=3] [ref=f22e574]
+                  - 'link "Permalink: What Claude Does Automatically" [ref=f22e575] [cursor=pointer]':
+                    - /url: "#what-claude-does-automatically"
+                - paragraph [ref=f22e578]: "Without being asked, Claude will:"
+                - list [ref=f22e579]:
+                  - listitem [ref=f22e580]: Read your outline before writing
+                  - listitem [ref=f22e581]: Review character profiles
+                  - listitem [ref=f22e582]: Check recent scenes for continuity
+                  - listitem [ref=f22e583]: Consult writing samples for style
+                  - listitem [ref=f22e584]: Update notes with new details
+                  - listitem [ref=f22e585]: Organize and structure files
+                  - listitem [ref=f22e586]:
+                    - text: Apply craft principles from
+                    - code [ref=f22e587]: AGENTS.md
+                  - listitem [ref=f22e588]: Track unresolved plot threads
+                  - listitem [ref=f22e589]: Flag inconsistencies
+                  - listitem [ref=f22e590]: Commit and push changes to GitHub
+                - generic [ref=f22e591]:
+                  - heading "Trust the Process" [level=3] [ref=f22e592]
+                  - 'link "Permalink: Trust the Process" [ref=f22e593] [cursor=pointer]':
+                    - /url: "#trust-the-process"
+                - paragraph [ref=f22e596]:
+                  - text: You focus on
+                  - strong [ref=f22e597]: creativity and story decisions
+                  - text: . Claude handles
+                  - strong [ref=f22e598]: consistency and organization
+                  - text: .
+                - generic [ref=f22e599]:
+                  - heading "Key Features" [level=2] [ref=f22e600]
+                  - 'link "Permalink: Key Features" [ref=f22e601] [cursor=pointer]':
+                    - /url: "#key-features"
+                - generic [ref=f22e604]:
+                  - heading "1. Automatic Metadata Management" [level=3] [ref=f22e605]
+                  - 'link "Permalink: 1. Automatic Metadata Management" [ref=f22e606] [cursor=pointer]':
+                    - /url: "#1-automatic-metadata-management"
+                - paragraph [ref=f22e609]: "When you write a scene, Claude updates:"
+                - list [ref=f22e610]:
+                  - listitem [ref=f22e611]: Character profiles with new details
+                  - listitem [ref=f22e612]: Plot outline with progress
+                  - listitem [ref=f22e613]: Setting notes with new locations
+                  - listitem [ref=f22e614]: Timeline with events
+                  - listitem [ref=f22e615]: Research questions that emerge
+                - generic [ref=f22e616]:
+                  - heading "2. Style Matching" [level=3] [ref=f22e617]
+                  - 'link "Permalink: 2. Style Matching" [ref=f22e618] [cursor=pointer]':
+                    - /url: "#2-style-matching"
+                - paragraph [ref=f22e621]: "Your writing samples teach Claude:"
+                - list [ref=f22e622]:
+                  - listitem [ref=f22e623]: Sentence rhythm and structure
+                  - listitem [ref=f22e624]: Vocabulary level
+                  - listitem [ref=f22e625]: Descriptive density
+                  - listitem [ref=f22e626]: Dialogue style
+                  - listitem [ref=f22e627]: POV preferences
+                - generic [ref=f22e628]:
+                  - heading "3. Craft Principles Built-In" [level=3] [ref=f22e629]
+                  - 'link "Permalink: 3. Craft Principles Built-In" [ref=f22e630] [cursor=pointer]':
+                    - /url: "#3-craft-principles-built-in"
+                - paragraph [ref=f22e633]: "Claude follows best practices from:"
+                - list [ref=f22e634]:
+                  - listitem [ref=f22e635]:
+                    - text: Anne Lamott (
+                    - emphasis [ref=f22e636]: Bird by Bird
+                    - text: )
+                  - listitem [ref=f22e637]:
+                    - text: Stephen King (
+                    - emphasis [ref=f22e638]: On Writing
+                    - text: )
+                  - listitem [ref=f22e639]: Dean Koontz
+                  - listitem [ref=f22e640]: Other master craftspeople
+                - paragraph [ref=f22e641]:
+                  - text: See
+                  - code [ref=f22e642]: AGENTS.md
+                  - text: for details.
+                - generic [ref=f22e643]:
+                  - heading "4. Automatic Version Control" [level=3] [ref=f22e644]
+                  - 'link "Permalink: 4. Automatic Version Control" [ref=f22e645] [cursor=pointer]':
+                    - /url: "#4-automatic-version-control"
+                - paragraph [ref=f22e648]: "Claude automatically commits and pushes your work to GitHub after each writing session. Your novel is always:"
+                - list [ref=f22e649]:
+                  - listitem [ref=f22e650]: Version-controlled with full history
+                  - listitem [ref=f22e651]: Backed up to GitHub
+                  - listitem [ref=f22e652]: Portable and future-proof
+                  - listitem [ref=f22e653]: Accessible from any device
+                - paragraph [ref=f22e654]: "You can also manually commit:"
+                - generic [ref=f22e655]:
+                  - generic [ref=f22e656]:
+                    - text: git add manuscript/ git commit -m
+                    - generic [ref=f22e657]: "\"Completed Chapter 3\""
+                    - text: git push
+                  - button "Copy code to clipboard" [ref=f22e659] [cursor=pointer]
+                - generic [ref=f22e663]:
+                  - heading "5. Scrivener-Inspired Organization" [level=3] [ref=f22e664]
+                  - 'link "Permalink: 5. Scrivener-Inspired Organization" [ref=f22e665] [cursor=pointer]':
+                    - /url: "#5-scrivener-inspired-organization"
+                - paragraph [ref=f22e668]: "Like Scrivener, you can:"
+                - list [ref=f22e669]:
+                  - listitem [ref=f22e670]: Break chapters into scenes
+                  - listitem [ref=f22e671]: Reorganize easily (they're just files)
+                  - listitem [ref=f22e672]: Keep research and notes separate from manuscript
+                  - listitem [ref=f22e673]: Export in different formats
+                  - listitem [ref=f22e674]: Track metadata separately
+                - paragraph [ref=f22e675]: "Unlike Scrivener:"
+                - list [ref=f22e676]:
+                  - listitem [ref=f22e677]: No proprietary file format
+                  - listitem [ref=f22e678]: No vendor lock-in
+                  - listitem [ref=f22e679]: Works on any platform
+                  - listitem [ref=f22e680]: Integrates with any text editor
+                  - listitem [ref=f22e681]: Free and open source
+                - generic [ref=f22e682]:
+                  - heading "Utility Scripts" [level=2] [ref=f22e683]
+                  - 'link "Permalink: Utility Scripts" [ref=f22e684] [cursor=pointer]':
+                    - /url: "#utility-scripts"
+                - generic [ref=f22e687]:
+                  - heading "Setup New Novel" [level=3] [ref=f22e688]
+                  - 'link "Permalink: Setup New Novel" [ref=f22e689] [cursor=pointer]':
+                    - /url: "#setup-new-novel"
+                - generic [ref=f22e692]:
+                  - generic [ref=f22e693]: ./framework/scripts/setup-new-novel.sh
+                  - button "Copy code to clipboard" [ref=f22e695] [cursor=pointer]
+                - paragraph [ref=f22e699]: Archives existing content and creates fresh templates.
+                - generic [ref=f22e700]:
+                  - heading "Word Count" [level=3] [ref=f22e701]
+                  - 'link "Permalink: Word Count" [ref=f22e702] [cursor=pointer]':
+                    - /url: "#word-count"
+                - generic [ref=f22e705]:
+                  - generic [ref=f22e706]: ./framework/scripts/wordcount.sh
+                  - button "Copy code to clipboard" [ref=f22e708] [cursor=pointer]
+                - paragraph [ref=f22e712]: Counts words in manuscript, by chapter, total, etc.
+                - generic [ref=f22e713]:
+                  - heading "Export" [level=3] [ref=f22e714]
+                  - 'link "Permalink: Export" [ref=f22e715] [cursor=pointer]':
+                    - /url: "#export"
+                - generic [ref=f22e718]:
+                  - generic [ref=f22e719]: ./framework/scripts/export.sh
+                  - button "Copy code to clipboard" [ref=f22e721] [cursor=pointer]
+                - paragraph [ref=f22e725]: Compiles manuscript into single markdown file for conversion to other formats.
+                - generic [ref=f22e726]:
+                  - heading "Consistency Check" [level=3] [ref=f22e727]
+                  - 'link "Permalink: Consistency Check" [ref=f22e728] [cursor=pointer]':
+                    - /url: "#consistency-check"
+                - generic [ref=f22e731]:
+                  - generic [ref=f22e732]: ./framework/scripts/consistency-check.sh
+                  - button "Copy code to clipboard" [ref=f22e734] [cursor=pointer]
+                - paragraph [ref=f22e738]: Scans for common issues (character name variations, timeline problems, etc.)
+                - generic [ref=f22e739]:
+                  - heading "Writing Process" [level=2] [ref=f22e740]
+                  - 'link "Permalink: Writing Process" [ref=f22e741] [cursor=pointer]':
+                    - /url: "#writing-process"
+                - generic [ref=f22e744]:
+                  - heading "Typical Workflow" [level=3] [ref=f22e745]
+                  - 'link "Permalink: Typical Workflow" [ref=f22e746] [cursor=pointer]':
+                    - /url: "#typical-workflow"
+                - list [ref=f22e749]:
+                  - listitem [ref=f22e750]:
+                    - strong [ref=f22e751]: Plan
+                    - text: "- Update"
+                    - code [ref=f22e752]: notes/plot/outline.md
+                    - text: with what happens next
+                  - listitem [ref=f22e753]:
+                    - strong [ref=f22e754]: Prompt
+                    - text: "- Ask Claude to write the next scene"
+                  - listitem [ref=f22e755]:
+                    - strong [ref=f22e756]: Review
+                    - text: "- Read what Claude wrote"
+                  - listitem [ref=f22e757]:
+                    - strong [ref=f22e758]: Revise
+                    - text: "- Make changes or ask Claude to revise"
+                  - listitem [ref=f22e759]:
+                    - strong [ref=f22e760]: Continue
+                    - text: "- Move to next scene"
+                - generic [ref=f22e761]:
+                  - heading "Scene-by-Scene Method" [level=3] [ref=f22e762]
+                  - 'link "Permalink: Scene-by-Scene Method" [ref=f22e763] [cursor=pointer]':
+                    - /url: "#scene-by-scene-method"
+                - paragraph [ref=f22e766]:
+                  - text: Write each scene as a separate file in
+                  - code [ref=f22e767]: manuscript/scenes/
+                  - text: ":"
+                - generic [ref=f22e768]:
+                  - code [ref=f22e770]: scenes/ ├── 01-sarah-arrives.md ├── 02-finding-the-letter.md ├── 03-confrontation.md └── 04-revelation.md
+                  - button "Copy code to clipboard" [ref=f22e772] [cursor=pointer]
+                - paragraph [ref=f22e776]: Later, organize them into chapters or combine as needed.
+                - generic [ref=f22e777]:
+                  - heading "Chapter-by-Chapter Method" [level=3] [ref=f22e778]
+                  - 'link "Permalink: Chapter-by-Chapter Method" [ref=f22e779] [cursor=pointer]':
+                    - /url: "#chapter-by-chapter-method"
+                - paragraph [ref=f22e782]: "Write directly in chapter files:"
+                - generic [ref=f22e783]:
+                  - code [ref=f22e785]: chapters/ ├── ch-01.md ├── ch-02.md └── ch-03.md
+                  - button "Copy code to clipboard" [ref=f22e787] [cursor=pointer]
+                - generic [ref=f22e791]:
+                  - heading "Hybrid Method" [level=3] [ref=f22e792]
+                  - 'link "Permalink: Hybrid Method" [ref=f22e793] [cursor=pointer]':
+                    - /url: "#hybrid-method"
+                - paragraph [ref=f22e796]: Some chapters are single files, others link to multiple scenes. Use what works for your process.
+                - generic [ref=f22e797]:
+                  - heading "Best Practices" [level=2] [ref=f22e798]
+                  - 'link "Permalink: Best Practices" [ref=f22e799] [cursor=pointer]':
+                    - /url: "#best-practices"
+                - generic [ref=f22e802]:
+                  - heading "Do This" [level=3] [ref=f22e803]
+                  - 'link "Permalink: Do This" [ref=f22e804] [cursor=pointer]':
+                    - /url: "#do-this"
+                - list [ref=f22e807]:
+                  - listitem [ref=f22e808]: ✅ Provide 4+ writing samples
+                  - listitem [ref=f22e809]: ✅ Keep outline updated (Claude helps with this)
+                  - listitem [ref=f22e810]: ✅ Review character profiles periodically
+                  - listitem [ref=f22e811]: ✅ Commit to git regularly
+                  - listitem [ref=f22e812]: ✅ Trust Claude to handle consistency
+                  - listitem [ref=f22e813]: ✅ Focus prompts on story events
+                  - listitem [ref=f22e814]: ✅ Let scenes breathe; don't rush
+                - generic [ref=f22e815]:
+                  - heading "Avoid This" [level=3] [ref=f22e816]
+                  - 'link "Permalink: Avoid This" [ref=f22e817] [cursor=pointer]':
+                    - /url: "#avoid-this"
+                - list [ref=f22e820]:
+                  - listitem [ref=f22e821]: ❌ Writing without providing samples first
+                  - listitem [ref=f22e822]: ❌ Trying to control every detail in prompts
+                  - listitem [ref=f22e823]: ❌ Asking Claude to do things it already does automatically
+                  - listitem [ref=f22e824]: ❌ Rushing through scenes
+                  - listitem [ref=f22e825]:
+                    - text: ❌ Ignoring the craft principles in
+                    - code [ref=f22e826]: AGENTS.md
+                  - listitem [ref=f22e827]: ❌ Editing files manually without telling Claude
+                - generic [ref=f22e828]:
+                  - heading "Advanced Features" [level=2] [ref=f22e829]
+                  - 'link "Permalink: Advanced Features" [ref=f22e830] [cursor=pointer]':
+                    - /url: "#advanced-features"
+                - generic [ref=f22e833]:
+                  - heading "Multiple POV Characters" [level=3] [ref=f22e834]
+                  - 'link "Permalink: Multiple POV Characters" [ref=f22e835] [cursor=pointer]':
+                    - /url: "#multiple-pov-characters"
+                - paragraph [ref=f22e838]:
+                  - text: Track POV in
+                  - code [ref=f22e839]: notes/style-guide.md
+                  - text: and create character profiles for each POV character. Claude will maintain distinct voices.
+                - generic [ref=f22e840]:
+                  - heading "Non-Linear Writing" [level=3] [ref=f22e841]
+                  - 'link "Permalink: Non-Linear Writing" [ref=f22e842] [cursor=pointer]':
+                    - /url: "#non-linear-writing"
+                - paragraph [ref=f22e845]: Write scenes out of order. Claude tracks chronology in outline and can help you organize later.
+                - generic [ref=f22e846]:
+                  - heading "Research Integration" [level=3] [ref=f22e847]
+                  - 'link "Permalink: Research Integration" [ref=f22e848] [cursor=pointer]':
+                    - /url: "#research-integration"
+                - paragraph [ref=f22e851]:
+                  - text: Add research notes to
+                  - code [ref=f22e852]: notes/research/
+                  - text: . Claude will reference them when writing relevant scenes.
+                - generic [ref=f22e853]:
+                  - heading "Theme Tracking" [level=3] [ref=f22e854]
+                  - 'link "Permalink: Theme Tracking" [ref=f22e855] [cursor=pointer]':
+                    - /url: "#theme-tracking"
+                - paragraph [ref=f22e858]:
+                  - text: Document themes in
+                  - code [ref=f22e859]: notes/themes/
+                  - text: . Claude can weave them subtly throughout the narrative.
+                - generic [ref=f22e860]:
+                  - heading "Troubleshooting" [level=2] [ref=f22e861]
+                  - 'link "Permalink: Troubleshooting" [ref=f22e862] [cursor=pointer]':
+                    - /url: "#troubleshooting"
+                - generic [ref=f22e865]:
+                  - heading "Claude's writing sounds generic" [level=3] [ref=f22e866]
+                  - 'link "Permalink: Claude''s writing sounds generic" [ref=f22e867] [cursor=pointer]':
+                    - /url: "#claudes-writing-sounds-generic"
+                - paragraph [ref=f22e870]:
+                  - strong [ref=f22e871]: Solution
+                  - text: ": Add more writing samples. Minimum 4, but 6-8 is better."
+                - generic [ref=f22e872]:
+                  - heading "Continuity errors" [level=3] [ref=f22e873]
+                  - 'link "Permalink: Continuity errors" [ref=f22e874] [cursor=pointer]':
+                    - /url: "#continuity-errors"
+                - paragraph [ref=f22e877]:
+                  - strong [ref=f22e878]: Solution
+                  - text: ": Ask Claude to review recent chapters and flag inconsistencies. Update notes to resolve."
+                - generic [ref=f22e879]:
+                  - heading "Lost track of plot threads" [level=3] [ref=f22e880]
+                  - 'link "Permalink: Lost track of plot threads" [ref=f22e881] [cursor=pointer]':
+                    - /url: "#lost-track-of-plot-threads"
+                - paragraph [ref=f22e884]:
+                  - strong [ref=f22e885]: Solution
+                  - text: ": Review"
+                  - code [ref=f22e886]: notes/plot/outline.md
+                  - text: . Ask Claude to update it with current status.
+                - generic [ref=f22e887]:
+                  - heading "Characters feel inconsistent" [level=3] [ref=f22e888]
+                  - 'link "Permalink: Characters feel inconsistent" [ref=f22e889] [cursor=pointer]':
+                    - /url: "#characters-feel-inconsistent"
+                - paragraph [ref=f22e892]:
+                  - strong [ref=f22e893]: Solution
+                  - text: ": Review character profiles in"
+                  - code [ref=f22e894]: notes/characters/
+                  - text: . Make sure personality and motivation are clear.
+                - generic [ref=f22e895]:
+                  - heading "Scenes feel rushed" [level=3] [ref=f22e896]
+                  - 'link "Permalink: Scenes feel rushed" [ref=f22e897] [cursor=pointer]':
+                    - /url: "#scenes-feel-rushed"
+                - paragraph [ref=f22e900]:
+                  - strong [ref=f22e901]: Solution
+                  - text: ": Remind Claude to slow down. Novel pace is deliberate, not rushed."
+                - generic [ref=f22e902]:
+                  - heading "Exporting and Publishing" [level=2] [ref=f22e903]
+                  - 'link "Permalink: Exporting and Publishing" [ref=f22e904] [cursor=pointer]':
+                    - /url: "#exporting-and-publishing"
+                - generic [ref=f22e907]:
+                  - heading "Convert to Other Formats" [level=3] [ref=f22e908]
+                  - 'link "Permalink: Convert to Other Formats" [ref=f22e909] [cursor=pointer]':
+                    - /url: "#convert-to-other-formats"
+                - paragraph [ref=f22e912]: "Use Pandoc to convert to various formats:"
+                - generic [ref=f22e913]:
+                  - generic [ref=f22e914]:
+                    - generic [ref=f22e915]: "# Export to Word"
+                    - text: pandoc manuscript/compiled.md -o novel.docx
+                    - generic [ref=f22e916]: "# Export to PDF"
+                    - text: pandoc manuscript/compiled.md -o novel.pdf
+                    - generic [ref=f22e917]: "# Export to EPUB"
+                    - text: pandoc manuscript/compiled.md -o novel.epub
+                  - button "Copy code to clipboard" [ref=f22e919] [cursor=pointer]
+                - generic [ref=f22e923]:
+                  - heading "Compile Manuscript" [level=3] [ref=f22e924]
+                  - 'link "Permalink: Compile Manuscript" [ref=f22e925] [cursor=pointer]':
+                    - /url: "#compile-manuscript"
+                - generic [ref=f22e928]:
+                  - generic [ref=f22e929]: ./framework/scripts/export.sh
+                  - button "Copy code to clipboard" [ref=f22e931] [cursor=pointer]
+                - paragraph [ref=f22e935]: Creates a single markdown file with all chapters in order.
+                - generic [ref=f22e936]:
+                  - heading "FAQ" [level=2] [ref=f22e937]
+                  - 'link "Permalink: FAQ" [ref=f22e938] [cursor=pointer]':
+                    - /url: "#faq"
+                - generic [ref=f22e941]:
+                  - heading "Is this really as good as Scrivener?" [level=3] [ref=f22e942]
+                  - 'link "Permalink: Is this really as good as Scrivener?" [ref=f22e943] [cursor=pointer]':
+                    - /url: "#is-this-really-as-good-as-scrivener"
+                - paragraph [ref=f22e946]: Different, not better or worse. Scrivener has a rich GUI. This has git, AI, and markdown. Choose based on your workflow preferences.
+                - generic [ref=f22e947]:
+                  - heading "Do I need to know how to code?" [level=3] [ref=f22e948]
+                  - 'link "Permalink: Do I need to know how to code?" [ref=f22e949] [cursor=pointer]':
+                    - /url: "#do-i-need-to-know-how-to-code"
+                - paragraph [ref=f22e952]: "No. You need to:"
+                - list [ref=f22e953]:
+                  - listitem [ref=f22e954]: Use a terminal (basic commands)
+                  - listitem [ref=f22e955]: Edit markdown files
+                  - listitem [ref=f22e956]: Use git (or learn the basics)
+                  - listitem [ref=f22e957]: Work with Claude in OpenCode
+                - generic [ref=f22e958]:
+                  - heading "Can I use a different AI?" [level=3] [ref=f22e959]
+                  - 'link "Permalink: Can I use a different AI?" [ref=f22e960] [cursor=pointer]':
+                    - /url: "#can-i-use-a-different-ai"
+                - paragraph [ref=f22e963]:
+                  - text: The framework works with any AI, but
+                  - code [ref=f22e964]: CLAUDE.md
+                  - text: is optimized for Claude. You'd need to adapt instructions for other models.
+                - generic [ref=f22e965]:
+                  - heading "Can I still use my regular text editor?" [level=3] [ref=f22e966]
+                  - 'link "Permalink: Can I still use my regular text editor?" [ref=f22e967] [cursor=pointer]':
+                    - /url: "#can-i-still-use-my-regular-text-editor"
+                - paragraph [ref=f22e970]: Yes! Edit files in VSCode, Vim, Obsidian, whatever you prefer. OpenCode runs alongside your editor.
+                - generic [ref=f22e971]:
+                  - heading "What if I want to switch to traditional software later?" [level=3] [ref=f22e972]
+                  - 'link "Permalink: What if I want to switch to traditional software later?" [ref=f22e973] [cursor=pointer]':
+                    - /url: "#what-if-i-want-to-switch-to-traditional-software-later"
+                - paragraph [ref=f22e976]: Everything is markdown. Import into Scrivener, Ulysses, or any tool that supports markdown.
+                - generic [ref=f22e977]:
+                  - heading "How do I collaborate with other writers?" [level=3] [ref=f22e978]
+                  - 'link "Permalink: How do I collaborate with other writers?" [ref=f22e979] [cursor=pointer]':
+                    - /url: "#how-do-i-collaborate-with-other-writers"
+                - paragraph [ref=f22e982]: Use git branches, pull requests, and merge workflows. Each author can work in their own branch.
+                - generic [ref=f22e983]:
+                  - heading "Philosophy and Principles" [level=2] [ref=f22e984]
+                  - 'link "Permalink: Philosophy and Principles" [ref=f22e985] [cursor=pointer]':
+                    - /url: "#philosophy-and-principles"
+                - paragraph [ref=f22e988]: "This framework embodies several key beliefs:"
+                - list [ref=f22e989]:
+                  - listitem [ref=f22e990]:
+                    - strong [ref=f22e991]: Writers write, tools serve
+                    - text: "- The framework stays out of your way"
+                  - listitem [ref=f22e992]:
+                    - strong [ref=f22e993]: AI augments, doesn't replace
+                    - text: "- You're the author; Claude is the assistant"
+                  - listitem [ref=f22e994]:
+                    - strong [ref=f22e995]: Quality over quantity
+                    - text: "- Craft matters more than word count"
+                  - listitem [ref=f22e996]:
+                    - strong [ref=f22e997]: Process enables creativity
+                    - text: "- Good structure frees you to create"
+                  - listitem [ref=f22e998]:
+                    - strong [ref=f22e999]: Open beats proprietary
+                    - text: "- Markdown and git outlast any commercial software"
+                - generic [ref=f22e1000]:
+                  - heading "Credits and Inspiration" [level=2] [ref=f22e1001]
+                  - 'link "Permalink: Credits and Inspiration" [ref=f22e1002] [cursor=pointer]':
+                    - /url: "#credits-and-inspiration"
+                - generic [ref=f22e1005]:
+                  - heading "Inspired By" [level=3] [ref=f22e1006]
+                  - 'link "Permalink: Inspired By" [ref=f22e1007] [cursor=pointer]':
+                    - /url: "#inspired-by"
+                - list [ref=f22e1010]:
+                  - listitem [ref=f22e1011]:
+                    - strong [ref=f22e1012]: Scrivener
+                    - text: "- Organization and metadata concepts"
+                  - listitem [ref=f22e1013]:
+                    - strong [ref=f22e1014]: Obsidian
+                    - text: "- Markdown-based, interconnected notes"
+                  - listitem [ref=f22e1015]:
+                    - strong [ref=f22e1016]: Git
+                    - text: "- Version control for writing"
+                  - listitem [ref=f22e1017]:
+                    - strong [ref=f22e1018]: Anne Lamott
+                    - text: "-"
+                    - emphasis [ref=f22e1019]: Bird by Bird
+                  - listitem [ref=f22e1020]:
+                    - strong [ref=f22e1021]: Stephen King
+                    - text: "-"
+                    - emphasis [ref=f22e1022]: On Writing
+                  - listitem [ref=f22e1023]:
+                    - strong [ref=f22e1024]: Dean Koontz
+                    - text: "- Craft and structure insights"
+                - generic [ref=f22e1025]:
+                  - heading "Built With" [level=3] [ref=f22e1026]
+                  - 'link "Permalink: Built With" [ref=f22e1027] [cursor=pointer]':
+                    - /url: "#built-with"
+                - list [ref=f22e1030]:
+                  - listitem [ref=f22e1031]: Markdown
+                  - listitem [ref=f22e1032]: Git
+                  - listitem [ref=f22e1033]: Bash scripts
+                  - listitem [ref=f22e1034]: Claude AI (via OpenCode)
+                  - listitem [ref=f22e1035]: Your creativity
+                - generic [ref=f22e1036]:
+                  - heading "License" [level=2] [ref=f22e1037]
+                  - 'link "Permalink: License" [ref=f22e1038] [cursor=pointer]':
+                    - /url: "#license"
+                - paragraph [ref=f22e1041]: MIT License - Fork, modify, share freely.
+                - generic [ref=f22e1042]:
+                  - heading "Contributing" [level=2] [ref=f22e1043]
+                  - 'link "Permalink: Contributing" [ref=f22e1044] [cursor=pointer]':
+                    - /url: "#contributing"
+                - paragraph [ref=f22e1047]: "This is a personal framework, but if you fork and improve it:"
+                - list [ref=f22e1048]:
+                  - listitem [ref=f22e1049]: Share your enhancements
+                  - listitem [ref=f22e1050]: Document your workflow variations
+                  - listitem [ref=f22e1051]: Help other writers
+                - generic [ref=f22e1052]:
+                  - heading "Support" [level=2] [ref=f22e1053]
+                  - 'link "Permalink: Support" [ref=f22e1054] [cursor=pointer]':
+                    - /url: "#support"
+                - paragraph [ref=f22e1057]: This is a free, open-source framework. Support comes from the community.
+                - generic [ref=f22e1058]:
+                  - heading "Getting Started Now" [level=2] [ref=f22e1059]
+                  - 'link "Permalink: Getting Started Now" [ref=f22e1060] [cursor=pointer]':
+                    - /url: "#getting-started-now"
+                - list [ref=f22e1063]:
+                  - listitem [ref=f22e1064]:
+                    - text: Run
+                    - code [ref=f22e1065]: ./framework/scripts/setup-new-novel.sh
+                  - listitem [ref=f22e1066]:
+                    - text: Add writing samples to
+                    - code [ref=f22e1067]: writing-samples/
+                  - listitem [ref=f22e1068]:
+                    - text: Edit
+                    - code [ref=f22e1069]: notes/PROJECT.md
+                  - listitem [ref=f22e1070]:
+                    - text: "Open OpenCode:"
+                    - code [ref=f22e1071]: opencode
+                  - listitem [ref=f22e1072]: "Prompt Claude: \"Let's start writing. I'll provide the first scene setup...\""
+                - paragraph [ref=f22e1073]:
+                  - strong [ref=f22e1074]: Happy writing!
+        - generic [ref=f22e1078]:
+          - generic [ref=f22e1081]:
+            - heading "About" [level=2] [ref=f22e1082]
+            - generic [ref=f22e1083]: No description, website, or topics provided.
+            - heading "Resources" [level=3] [ref=f22e1084]
+            - link "Readme" [ref=f22e1086] [cursor=pointer]:
+              - /url: "#readme-ov-file"
+            - heading "License" [level=3] [ref=f22e1089]
+            - link "AGPL-3.0 license" [ref=f22e1091] [cursor=pointer]:
+              - /url: "#AGPL-3.0-1-ov-file"
+            - link "Activity" [ref=f22e1095] [cursor=pointer]:
+              - /url: /bedwards/novel/activity
+            - heading "Stars" [level=3] [ref=f22e1098]
+            - generic [ref=f22e1100]:
+              - strong [ref=f22e1103]: "0"
+              - text: stars
+            - heading "Watchers" [level=3] [ref=f22e1104]
+            - generic [ref=f22e1106]:
+              - strong [ref=f22e1109]: "0"
+              - text: watching
+            - heading "Forks" [level=3] [ref=f22e1110]
+            - link [ref=f22e1112] [cursor=pointer]:
+              - /url: /bedwards/novel/forks
+              - strong [ref=f22e1115]: "0"
+              - text: forks
+            - link "Report repository" [ref=f22e1117] [cursor=pointer]:
+              - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fbedwards%2Fnovel&report=bedwards+%28user%29
+          - generic [ref=f22e1119]:
+            - heading [level=2] [ref=f22e1120]:
+              - link "Releases" [ref=f22e1121] [cursor=pointer]:
+                - /url: /bedwards/novel/releases
+            - generic [ref=f22e1122]: No releases published
+          - generic "Loading latest packages" [ref=f22e1125]:
+            - heading [level=2] [ref=f22e1126]:
+              - link "Packages" [ref=f22e1127] [cursor=pointer]:
+                - /url: /users/bedwards/packages?repo_name=novel
+          - generic "Loading contributors" [ref=f22e1139]:
+            - generic:
+              - heading [level=2] [ref=f22e1140]:
+                - link "Contributors" [ref=f22e1141] [cursor=pointer]:
+                  - /url: /bedwards/novel/graphs/contributors
+              - list [ref=f22e1142]:
+                - listitem [ref=f22e1143]
+                - listitem [ref=f22e1145]
+                - listitem [ref=f22e1147]
+          - generic [ref=f22e1150]:
+            - heading "Languages" [level=2] [ref=f22e1151]
+            - list [ref=f22e1155]:
+              - listitem [ref=f22e1156]:
+                - link "Shell 100.0%" [ref=f22e1157] [cursor=pointer]:
+                  - /url: /bedwards/novel/search?l=shell
+                  - generic [ref=f22e1160]: Shell
+                  - generic [ref=f22e1161]: 100.0%
+  - contentinfo [ref=f22e1163]:
+    - heading "Footer" [level=2] [ref=f22e1164]
+    - generic [ref=f22e1165]:
+      - generic [ref=f22e1166]:
+        - link "GitHub Homepage" [ref=f22e1167] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=f22e1170]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f22e1171]:
+        - heading "Footer navigation" [level=3] [ref=f22e1172]
+        - list "Footer navigation" [ref=f22e1173]:
+          - listitem [ref=f22e1174]:
+            - link "Terms" [ref=f22e1175] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f22e1176]:
+            - link "Privacy" [ref=f22e1177] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f22e1178]:
+            - link "Security" [ref=f22e1179] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f22e1180]:
+            - link "Status" [ref=f22e1181] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f22e1182]:
+            - link "Community" [ref=f22e1183] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f22e1184]:
+            - link "Docs" [ref=f22e1185] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f22e1186]:
+            - link "Contact" [ref=f22e1187] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f22e1188]:
+            - button "Manage cookies" [ref=f22e1190] [cursor=pointer]
+          - listitem [ref=f22e1191]:
+            - button "Do not share my personal information" [ref=f22e1193] [cursor=pointer]

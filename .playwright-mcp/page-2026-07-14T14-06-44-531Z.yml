@@ -1,0 +1,299 @@
+- generic [active] [ref=f8e1]:
+  - generic:
+    - generic:
+      - link "跳到主要内容" [ref=f8e2] [cursor=pointer]
+      - link "无障碍功能帮助" [ref=f8e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=zh-CN
+  - generic [ref=f8e8]:
+    - search [ref=f8e9]:
+      - generic [ref=f8e11]:
+        - link [ref=f8e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=zh-CN&ictx=2&sa=X&ved=0ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0QPQgK
+          - img "2026 年世界杯：蝎子摆尾绝技" [ref=f8e14]
+        - generic [ref=f8e15]:
+          - generic [ref=f8e16]:
+            - combobox "搜索" [ref=f8e19]: site:github.com AI novel writing workflow Claude Code Obsidian site:github.com AI novel writing workflow Claude Code Obsidian
+            - generic [ref=f8e20]:
+              - button "清除" [ref=f8e22] [cursor=pointer]
+              - generic [ref=f8e27]:
+                - button "按语音搜索" [ref=f8e28] [cursor=pointer]
+                - button "按图搜索" [ref=f8e31] [cursor=pointer]
+          - button "搜索" [ref=f8e34] [cursor=pointer]
+    - generic [ref=f8e39]:
+      - button "设置" [ref=f8e41] [cursor=pointer]
+      - button "分享" [ref=f8e47] [cursor=pointer]
+      - generic [ref=f8e53]:
+        - button "Google 应用" [ref=f8e55] [cursor=pointer]
+        - link "登录" [ref=f8e60] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=zh-CN&passive=true&continue=https://www.google.com/search%3Fq%3Dsite%253Agithub.com%2BAI%2Bnovel%2Bwriting%2Bworkflow%2BClaude%2BCode%2BObsidian&ec=futura_srp_og_si_72236_p
+  - generic [ref=f8e62]:
+    - navigation [ref=f8e68]:
+      - generic [ref=f8e74]:
+        - list [ref=f8e75]:
+          - listitem [ref=f8e76]:
+            - link "AI 模式" [ref=f8e79] [cursor=pointer]:
+              - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&udm=50&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQptRTkPmeI3L39F3xC_zgkMv2xZlCJJpkBtrBrZtABvrcsM3os76g-NU3uBnBTKJ6wtVXOPWhmsbE2zAUwxpnoSNXEX_6tYeAasIL6YHLxhXe4XgXVNQJooGiW3uz73wT0eKtfbnqIAdLsAqNqgeHLp3tDAEAg&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q2J8OegQIDxAD
+          - listitem [ref=f8e83]:
+            - link "全部" [disabled] [ref=f8e84]
+          - listitem [ref=f8e87]:
+            - link "图片" [ref=f8e88] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=2&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQptRTkPmeI3L39F3xC_zgkMv2xZlCJJpkBtrBrZtABvrcsM3os76g-NU3uBnBTKJ6wtVXOPWhmsbE2zAUwxpnoSNXEX_6tYeAasIL6YHLxhXe4XgXVNQJooGiW3uz73wT0eKtfbnqIAdLsAqNqgeHLp3tDAEAg&q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sa=X&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0QtKgLegQIFRAB
+          - listitem [ref=f8e91]:
+            - link "视频" [ref=f8e92] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=7&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQptRTkPmeI3L39F3xC_zgkMv2xZlCJJpkBtrBrZtABvrcsM3os76g-NU3uBnBTKJ6wtVXOPWhmsbE2zAUwxpnoSNXEX_6tYeAasIL6YHLxhXe4XgXVNQJooGiW3uz73wT0eKtfbnqIAdLsAqNqgeHLp3tDAEAg&q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sa=X&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0QtKgLegQIFBAB
+          - listitem [ref=f8e95]:
+            - link "购物" [ref=f8e96] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=28&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQptRTkPmeI3L39F3xC_zgkMv2xZlCJJpkBtrBrZtABvrcsM3os76g-NU3uBnBTKJ6wtVXOPWhmsbE2zAUwxpnoSNXEX_6tYeAasIL6YHLxhXe4XgXVNQJooGiW3uz73wT0eKtfbnqIAdLsAqNqgeHLp3tDAEAg&q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&ved=1t:220175&ictx=111
+          - listitem [ref=f8e99]:
+            - link "短视频" [ref=f8e100] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=39&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQptRTkPmeI3L39F3xC_zgkMv2xZlCJJpkBtrBrZtABvrcsM3os76g-NU3uBnBTKJ6wtVXOPWhmsbE2zAUwxpnoSNXEX_6tYeAasIL6YHLxhXe4XgXVNQJooGiW3uz73wT0eKtfbnqIAdLsAqNqgeHLp3tDAEAg&q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sa=X&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Qs6gLegQIExAB
+          - listitem [ref=f8e103]:
+            - link "新闻" [ref=f8e104] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&tbm=nws&source=lnms&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQptRTkPmeI3L39F3xC_zgkMv2xZlCJJpkBtrBrZtABvrcsM3os76g-NU3uBnBTKJ6wtVXOPWhmsbE2zAUwxpnoSNXEX_6tYeAasIL6YHLxhXe4XgXVNQJooGiW3uz73wT0eKtfbnqIAdLsAqNqgeHLp3tDAEAg&sa=X&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q0pQJegQIEhAB
+          - listitem [ref=f8e107]:
+            - button [ref=f8e108] [cursor=pointer]:
+              - generic "更多过滤条件" [ref=f8e109]: 更多
+        - button "工具" [ref=f8e116] [cursor=pointer]
+    - heading "搜索结果" [level=1] [ref=f8e123]
+    - main [ref=f8e129]:
+      - generic [ref=f8e133]:
+        - generic [ref=f8e136]:
+          - heading "Web results" [level=2] [ref=f8e137]
+          - generic [ref=f8e138]:
+            - generic [ref=f8e141]:
+              - link "Self-Organizing AI Second Brain for Obsidian + Claude Code GitHub https://github.com › AgriciDaniel › claude-o..." [ref=f8e143] [cursor=pointer]:
+                - /url: https://github.com/AgriciDaniel/claude-obsidian
+                - heading "Self-Organizing AI Second Brain for Obsidian + Claude Code" [level=3] [ref=f8e144]
+                - generic [ref=f8e150]:
+                  - generic [ref=f8e151]: GitHub
+                  - generic [ref=f8e153]: https://github.com › AgriciDaniel › claude-o...
+              - generic [ref=f8e155]:
+                - generic [ref=f8e156]: ·
+                - link "翻译此页" [ref=f8e157] [cursor=pointer]:
+                  - /url: https://translate.google.com/translate?u=https://github.com/AgriciDaniel/claude-obsidian&hl=zh-CN&sl=en&tl=zh-CN&client=search
+              - button "关于这条结果的详细信息" [ref=f8e160] [cursor=pointer]
+            - generic [ref=f8e167]:
+              - text: Open-source Obsidian AI plugin for AI note-taking, personal kno
+              - emphasis [ref=f8e168]: w
+              - text: ledge management (PKM), second-brain workflows, and a private Notion alternative. 15 Claude Code ...
+        - generic [ref=f8e172]:
+          - generic [ref=f8e175]:
+            - link "Obsidian workflow template for Claude Code GitHub https://github.com › ashish141199 › obsidia..." [ref=f8e177] [cursor=pointer]:
+              - /url: https://github.com/ashish141199/obsidian-claude-code
+              - heading "Obsidian workflow template for Claude Code" [level=3] [ref=f8e178]
+              - generic [ref=f8e184]:
+                - generic [ref=f8e185]: GitHub
+                - generic [ref=f8e187]: https://github.com › ashish141199 › obsidia...
+            - generic [ref=f8e189]:
+              - generic [ref=f8e190]: ·
+              - link "翻译此页" [ref=f8e191] [cursor=pointer]:
+                - /url: https://translate.google.com/translate?u=https://github.com/ashish141199/obsidian-claude-code&hl=zh-CN&sl=en&tl=zh-CN&client=search
+            - button "关于这条结果的详细信息" [ref=f8e194] [cursor=pointer]
+          - generic [ref=f8e201]:
+            - text: This template emerged from building personal knowledge management workflows integrated with
+            - emphasis [ref=f8e202]: AI
+            - text: tools like
+            - emphasis [ref=f8e203]: Claude Code
+            - text: to maximize productivity and networked ...
+        - generic [ref=f8e207]:
+          - generic [ref=f8e210]:
+            - 'link "tuan3w/obsidian-vault-agent: Claude Code plugin GitHub https://github.com › obsidian-vault-agent" [ref=f8e212] [cursor=pointer]':
+              - /url: https://github.com/tuan3w/obsidian-vault-agent
+              - 'heading "tuan3w/obsidian-vault-agent: Claude Code plugin" [level=3] [ref=f8e213]'
+              - generic [ref=f8e219]:
+                - generic [ref=f8e220]: GitHub
+                - generic [ref=f8e222]: https://github.com › obsidian-vault-agent
+            - generic [ref=f8e224]:
+              - generic [ref=f8e225]: ·
+              - link "翻译此页" [ref=f8e226] [cursor=pointer]:
+                - /url: https://translate.google.com/translate?u=https://github.com/tuan3w/obsidian-vault-agent&hl=zh-CN&sl=en&tl=zh-CN&client=search
+            - button "关于这条结果的详细信息" [ref=f8e229] [cursor=pointer]
+          - generic [ref=f8e236]:
+            - text: A Claude Code plugin that gives your Obsidian vault specialized skills —
+            - emphasis [ref=f8e237]: process entire books
+            - text: ", take notes on full courses, create presentations, ..."
+        - generic [ref=f8e241]:
+          - generic [ref=f8e244]:
+            - link "A Simple Second Brain With Claude or ChatGPT GitHub https://gist.github.com › adamcee" [ref=f8e246] [cursor=pointer]:
+              - /url: https://gist.github.com/adamcee/8e7d373f8a544d228b8163d17d6d7dfa
+              - heading "A Simple Second Brain With Claude or ChatGPT" [level=3] [ref=f8e247]
+              - generic [ref=f8e253]:
+                - generic [ref=f8e254]: GitHub
+                - generic [ref=f8e256]: https://gist.github.com › adamcee
+            - generic [ref=f8e258]:
+              - generic [ref=f8e259]: ·
+              - link "翻译此页" [ref=f8e260] [cursor=pointer]:
+                - /url: https://translate.google.com/translate?u=https://gist.github.com/adamcee/8e7d373f8a544d228b8163d17d6d7dfa&hl=zh-CN&sl=en&tl=zh-CN&client=search
+            - button "关于这条结果的详细信息" [ref=f8e263] [cursor=pointer]
+          - generic [ref=f8e269]:
+            - generic [ref=f8e270]: 2026年3月4日 —
+            - generic [ref=f8e271]:
+              - text: Text files are easy for Claude
+              - emphasis [ref=f8e272]: Code
+              - text: or any other command-line agentic AI tool to search, read, and write to. And Obsidian is designed to help ...
+        - generic [ref=f8e276]:
+          - generic [ref=f8e279]:
+            - 'link "kepano/obsidian-skills: Agent skills for ... GitHub https://github.com › kepano › obsidian-skills" [ref=f8e281] [cursor=pointer]':
+              - /url: https://github.com/kepano/obsidian-skills
+              - 'heading "kepano/obsidian-skills: Agent skills for ..." [level=3] [ref=f8e282]'
+              - generic [ref=f8e288]:
+                - generic [ref=f8e289]: GitHub
+                - generic [ref=f8e291]: https://github.com › kepano › obsidian-skills
+            - generic [ref=f8e293]:
+              - generic [ref=f8e294]: ·
+              - link "翻译此页" [ref=f8e295] [cursor=pointer]:
+                - /url: https://translate.google.com/translate?u=https://github.com/kepano/obsidian-skills&hl=zh-CN&sl=en&tl=zh-CN&client=search
+            - button "关于这条结果的详细信息" [ref=f8e298] [cursor=pointer]
+          - generic [ref=f8e305]:
+            - emphasis [ref=f8e306]: Agent Skills for use with Obsidian
+            - text: . These skills follow the Agent Skills specification so they can be used by any skills-compatible agent, including Claude Code ...
+        - generic [ref=f8e310]:
+          - generic [ref=f8e313]:
+            - 'link "hesreallyhim/awesome-claude-code: A hand-picked ... GitHub https://github.com › hesreallyhim › awesome..." [ref=f8e315] [cursor=pointer]':
+              - /url: https://github.com/hesreallyhim/awesome-claude-code
+              - 'heading "hesreallyhim/awesome-claude-code: A hand-picked ..." [level=3] [ref=f8e316]'
+              - generic [ref=f8e322]:
+                - generic [ref=f8e323]: GitHub
+                - generic [ref=f8e325]: https://github.com › hesreallyhim › awesome...
+            - generic [ref=f8e327]:
+              - generic [ref=f8e328]: ·
+              - link "翻译此页" [ref=f8e329] [cursor=pointer]:
+                - /url: https://translate.google.com/translate?u=https://github.com/hesreallyhim/awesome-claude-code&hl=zh-CN&sl=en&tl=zh-CN&client=search
+            - button "关于这条结果的详细信息" [ref=f8e332] [cursor=pointer]
+          - generic [ref=f8e339]:
+            - emphasis [ref=f8e340]: AI
+            - text: Research Skills by Wenyu Chiou - A catalog of 15
+            - emphasis [ref=f8e341]: Claude Code
+            - text: skills mapped to 8 research-
+            - emphasis [ref=f8e342]: workflow
+            - text: stages (literature → gap analysis → design → drafting → ...
+        - generic [ref=f8e346]:
+          - generic [ref=f8e349]:
+            - 'link "eugeniughelbur/obsidian-second-brain: Cross-CLI ... GitHub https://github.com › eugeniughelbur › obsidi..." [ref=f8e351] [cursor=pointer]':
+              - /url: https://github.com/eugeniughelbur/obsidian-second-brain
+              - 'heading "eugeniughelbur/obsidian-second-brain: Cross-CLI ..." [level=3] [ref=f8e352]'
+              - generic [ref=f8e358]:
+                - generic [ref=f8e359]: GitHub
+                - generic [ref=f8e361]: https://github.com › eugeniughelbur › obsidi...
+            - generic [ref=f8e363]:
+              - generic [ref=f8e364]: ·
+              - link "翻译此页" [ref=f8e365] [cursor=pointer]:
+                - /url: https://translate.google.com/translate?u=https://github.com/eugeniughelbur/obsidian-second-brain&hl=zh-CN&sl=en&tl=zh-CN&client=search
+            - button "关于这条结果的详细信息" [ref=f8e368] [cursor=pointer]
+          - generic [ref=f8e374]:
+            - generic [ref=f8e375]: 2天前 —
+            - generic [ref=f8e376]:
+              - emphasis [ref=f8e377]: Cross-CLI skill for Obsidian
+              - text: ": turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, OpenCode, Hermes, ..."
+        - generic [ref=f8e381]:
+          - generic [ref=f8e384]:
+            - link "bedwards/novel GitHub https://github.com › bedwards › novel" [ref=f8e386] [cursor=pointer]:
+              - /url: https://github.com/bedwards/novel
+              - heading "bedwards/novel" [level=3] [ref=f8e387]
+              - generic [ref=f8e393]:
+                - generic [ref=f8e394]: GitHub
+                - generic [ref=f8e396]: https://github.com › bedwards › novel
+            - generic [ref=f8e398]:
+              - generic [ref=f8e399]: ·
+              - link "翻译此页" [ref=f8e400] [cursor=pointer]:
+                - /url: https://translate.google.com/translate?u=https://github.com/bedwards/novel&hl=zh-CN&sl=en&tl=zh-CN&client=search
+            - button "关于这条结果的详细信息" [ref=f8e403] [cursor=pointer]
+          - generic [ref=f8e410]:
+            - text: A lean,
+            - emphasis [ref=f8e411]: AI
+            - text: "-powered"
+            - emphasis [ref=f8e412]: novel writing
+            - text: framework inspired by Scrivener but built for the command line, git, and
+            - emphasis [ref=f8e413]: Claude AI
+            - text: in OpenCode. What Is This? This is not a GUI ...
+        - generic [ref=f8e417]:
+          - generic [ref=f8e420]:
+            - 'link "glebis/claude-skills: Collection of Claude Code skills for ... GitHub https://github.com › glebis › claude-skills" [ref=f8e422] [cursor=pointer]':
+              - /url: https://github.com/glebis/claude-skills
+              - 'heading "glebis/claude-skills: Collection of Claude Code skills for ..." [level=3] [ref=f8e423]'
+              - generic [ref=f8e429]:
+                - generic [ref=f8e430]: GitHub
+                - generic [ref=f8e432]: https://github.com › glebis › claude-skills
+            - generic [ref=f8e434]:
+              - generic [ref=f8e435]: ·
+              - link "翻译此页" [ref=f8e436] [cursor=pointer]:
+                - /url: https://translate.google.com/translate?u=https://github.com/glebis/claude-skills&hl=zh-CN&sl=en&tl=zh-CN&client=search
+            - button "关于这条结果的详细信息" [ref=f8e439] [cursor=pointer]
+          - generic [ref=f8e446]:
+            - text: A collection of skills for
+            - emphasis [ref=f8e447]: Claude Code
+            - text: that extend
+            - emphasis [ref=f8e448]: AI
+            - text: capabilities with specialized workflows, tools, and domain expertise. Intro from author. Gleb is a Berlin- ...
+        - generic [ref=f8e452]:
+          - generic [ref=f8e455]:
+            - link "Auto-claude-code-research-in-sleep (ARIS ⚔️🌙) GitHub https://github.com › wanshuiyin › auto-clau..." [ref=f8e457] [cursor=pointer]:
+              - /url: https://github.com/wanshuiyin/auto-claude-code-research-in-sleep
+              - heading "Auto-claude-code-research-in-sleep (ARIS ⚔️🌙)" [level=3] [ref=f8e458]
+              - generic [ref=f8e464]:
+                - generic [ref=f8e465]: GitHub
+                - generic [ref=f8e467]: https://github.com › wanshuiyin › auto-clau...
+            - generic [ref=f8e469]:
+              - generic [ref=f8e470]: ·
+              - link "翻译此页" [ref=f8e471] [cursor=pointer]:
+                - /url: https://translate.google.com/translate?u=https://github.com/wanshuiyin/auto-claude-code-research-in-sleep&hl=zh-CN&sl=en&tl=zh-CN&client=search
+            - button "关于这条结果的详细信息" [ref=f8e474] [cursor=pointer]
+          - generic [ref=f8e480]:
+            - generic [ref=f8e481]: 2天前 —
+            - generic [ref=f8e482]:
+              - emphasis [ref=f8e483]: Use ARIS as a skill-based workflow in Claude Code
+              - text: / Codex CLI / Cursor / Trae / Antigravity / GitHub Copilot CLI / OpenClaw, or get the full ...
+      - navigation [ref=f8e486]:
+        - heading "网页导航" [level=1] [ref=f8e487]
+        - text: "1"
+        - link "Page 2" [ref=f8e490] [cursor=pointer]:
+          - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&ei=dEJWat2sBobBkPIP8qLh6Q8&start=10&sa=N&sstk=AU9db-AcFzaEy-7miD5opwGFph38JvCeLVPkluBcVx6G8tIPErt17cDp7_kt4dvuh_Gw6bmXtwsREBzxRtxd4NvofO9C1EJ1n2lbcw&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q8tMDegQIKBAE
+          - text: "2"
+        - link "Page 3" [ref=f8e492] [cursor=pointer]:
+          - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&ei=dEJWat2sBobBkPIP8qLh6Q8&start=20&sa=N&sstk=AU9db-AcFzaEy-7miD5opwGFph38JvCeLVPkluBcVx6G8tIPErt17cDp7_kt4dvuh_Gw6bmXtwsREBzxRtxd4NvofO9C1EJ1n2lbcw&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q8tMDegQIKBAG
+          - text: "3"
+        - link "Page 4" [ref=f8e494] [cursor=pointer]:
+          - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&ei=dEJWat2sBobBkPIP8qLh6Q8&start=30&sa=N&sstk=AU9db-AcFzaEy-7miD5opwGFph38JvCeLVPkluBcVx6G8tIPErt17cDp7_kt4dvuh_Gw6bmXtwsREBzxRtxd4NvofO9C1EJ1n2lbcw&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q8tMDegQIKBAI
+          - text: "4"
+        - link "Page 5" [ref=f8e496] [cursor=pointer]:
+          - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&ei=dEJWat2sBobBkPIP8qLh6Q8&start=40&sa=N&sstk=AU9db-AcFzaEy-7miD5opwGFph38JvCeLVPkluBcVx6G8tIPErt17cDp7_kt4dvuh_Gw6bmXtwsREBzxRtxd4NvofO9C1EJ1n2lbcw&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q8tMDegQIKBAK
+          - text: "5"
+        - link "Page 6" [ref=f8e498] [cursor=pointer]:
+          - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&ei=dEJWat2sBobBkPIP8qLh6Q8&start=50&sa=N&sstk=AU9db-AcFzaEy-7miD5opwGFph38JvCeLVPkluBcVx6G8tIPErt17cDp7_kt4dvuh_Gw6bmXtwsREBzxRtxd4NvofO9C1EJ1n2lbcw&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q8tMDegQIKBAM
+          - text: "6"
+        - link "Page 7" [ref=f8e500] [cursor=pointer]:
+          - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&ei=dEJWat2sBobBkPIP8qLh6Q8&start=60&sa=N&sstk=AU9db-AcFzaEy-7miD5opwGFph38JvCeLVPkluBcVx6G8tIPErt17cDp7_kt4dvuh_Gw6bmXtwsREBzxRtxd4NvofO9C1EJ1n2lbcw&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q8tMDegQIKBAO
+          - text: "7"
+        - link "Page 8" [ref=f8e502] [cursor=pointer]:
+          - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&ei=dEJWat2sBobBkPIP8qLh6Q8&start=70&sa=N&sstk=AU9db-AcFzaEy-7miD5opwGFph38JvCeLVPkluBcVx6G8tIPErt17cDp7_kt4dvuh_Gw6bmXtwsREBzxRtxd4NvofO9C1EJ1n2lbcw&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q8tMDegQIKBAQ
+          - text: "8"
+        - link "Page 9" [ref=f8e504] [cursor=pointer]:
+          - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&ei=dEJWat2sBobBkPIP8qLh6Q8&start=80&sa=N&sstk=AU9db-AcFzaEy-7miD5opwGFph38JvCeLVPkluBcVx6G8tIPErt17cDp7_kt4dvuh_Gw6bmXtwsREBzxRtxd4NvofO9C1EJ1n2lbcw&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q8tMDegQIKBAS
+          - text: "9"
+        - link "Page 10" [ref=f8e506] [cursor=pointer]:
+          - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&ei=dEJWat2sBobBkPIP8qLh6Q8&start=90&sa=N&sstk=AU9db-AcFzaEy-7miD5opwGFph38JvCeLVPkluBcVx6G8tIPErt17cDp7_kt4dvuh_Gw6bmXtwsREBzxRtxd4NvofO9C1EJ1n2lbcw&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q8tMDegQIKBAU
+          - text: "10"
+        - heading [level=2] [ref=f8e508]:
+          - link "下一页" [ref=f8e509] [cursor=pointer]:
+            - /url: /search?q=site:github.com+AI+novel+writing+workflow+Claude+Code+Obsidian&sca_esv=114ce2f88324942a&ei=dEJWat2sBobBkPIP8qLh6Q8&start=10&sa=N&sstk=AU9db-AcFzaEy-7miD5opwGFph38JvCeLVPkluBcVx6G8tIPErt17cDp7_kt4dvuh_Gw6bmXtwsREBzxRtxd4NvofO9C1EJ1n2lbcw&ved=2ahUKEwjdtoC8q9KVAxWGIEQIHXJROP0Q8NMDegQIKBAW
+      - navigation
+    - contentinfo [ref=f8e512]:
+      - heading "页脚链接" [level=1] [ref=f8e513]
+      - generic [ref=f8e517]:
+        - generic [ref=f8e521]:
+          - button "洛杉矶 加利福尼亚 - 是根据您的 IP 地址推断出来的" [ref=f8e523] [cursor=pointer]:
+            - generic [ref=f8e524]: 洛杉矶 加利福尼亚
+            - generic [ref=f8e526]:
+              - text: "-"
+              - generic [ref=f8e527]: 是根据您的 IP 地址推断出来的
+          - text: "-"
+          - button "更新位置信息" [ref=f8e529] [cursor=pointer]
+        - generic [ref=f8e532]:
+          - link "帮助" [ref=f8e533] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=zh-CN&fg=1
+          - link "发送反馈" [ref=f8e534] [cursor=pointer]:
+            - /url: "#"
+          - link "隐私权" [ref=f8e535] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=zh-CN&fg=1
+          - link "条款" [ref=f8e536] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=zh-CN&fg=1

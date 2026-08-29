@@ -1,0 +1,493 @@
+- generic [active] [ref=f2e1]:
+  - generic:
+    - generic:
+      - link "跳到主要内容" [ref=f2e2] [cursor=pointer]
+      - link "无障碍功能帮助" [ref=f2e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=zh-CN
+  - generic [ref=f2e8]:
+    - search [ref=f2e9]:
+      - generic [ref=f2e11]:
+        - link [ref=f2e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=zh-CN&ictx=2&sa=X&ved=0ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQPQgK
+          - img "2026 年世界杯：蝎子摆尾绝技" [ref=f2e14]
+        - generic [ref=f2e15]:
+          - generic [ref=f2e16]:
+            - combobox "搜索" [ref=f2e19]: 成熟 AI 小说写作 工作流 Obsidian Novelcrafter Sudowrite 2026 成熟 AI 小说写作 工作流 Obsidian Novelcrafter Sudowrite 2026
+            - generic [ref=f2e20]:
+              - button "清除" [ref=f2e22] [cursor=pointer]
+              - generic [ref=f2e27]:
+                - button "按语音搜索" [ref=f2e28] [cursor=pointer]
+                - button "按图搜索" [ref=f2e31] [cursor=pointer]
+          - button "搜索" [ref=f2e34] [cursor=pointer]
+    - generic [ref=f2e39]:
+      - button "设置" [ref=f2e41] [cursor=pointer]
+      - button "分享" [ref=f2e47] [cursor=pointer]
+      - generic [ref=f2e53]:
+        - button "Google 应用" [ref=f2e55] [cursor=pointer]
+        - link "登录" [ref=f2e60] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=zh-CN&passive=true&continue=https://www.google.com/search%3Fq%3D%25E6%2588%2590%25E7%2586%259F%2BAI%2B%25E5%25B0%258F%25E8%25AF%25B4%25E5%2586%2599%25E4%25BD%259C%2B%25E5%25B7%25A5%25E4%25BD%259C%25E6%25B5%2581%2BObsidian%2BNovelcrafter%2BSudowrite%2B2026%26sei%3DP0JWavXPMaqQvMcPnayL-As&ec=futura_srp_og_si_72236_p
+  - generic [ref=f2e62]:
+    - navigation [ref=f2e68]:
+      - generic [ref=f2e74]:
+        - list [ref=f2e75]:
+          - listitem [ref=f2e76]:
+            - link "AI 模式" [ref=f2e79] [cursor=pointer]:
+              - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&udm=50&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMZmOhT8Puqr9lb82uwzTyQsHCmP9n-xiYebZxSYKrOiUzEhE8bc8zu_tnP36abWXmQDpgl1I0XAI80Lw997gJwuB4bxKijj6UnCXgBzMGeTRrW2FVokJz-53DCVam-eHOq0sIp-WgJ_HaPsbaQk1sIvaYir6Q&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ2J8OegQIFBAD
+          - listitem [ref=f2e83]:
+            - link "全部" [disabled] [ref=f2e84]
+          - listitem [ref=f2e87]:
+            - link "视频" [ref=f2e88] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=7&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMZmOhT8Puqr9lb82uwzTyQsHCmP9n-xiYebZxSYKrOiUzEhE8bc8zu_tnP36abWXmQDpgl1I0XAI80Lw997gJwuB4bxKijj6UnCXgBzMGeTRrW2FVokJz-53DCVam-eHOq0sIp-WgJ_HaPsbaQk1sIvaYir6Q&q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQtKgLegQIGhAB
+          - listitem [ref=f2e91]:
+            - link "图片" [ref=f2e92] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=2&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMZmOhT8Puqr9lb82uwzTyQsHCmP9n-xiYebZxSYKrOiUzEhE8bc8zu_tnP36abWXmQDpgl1I0XAI80Lw997gJwuB4bxKijj6UnCXgBzMGeTRrW2FVokJz-53DCVam-eHOq0sIp-WgJ_HaPsbaQk1sIvaYir6Q&q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQtKgLegQIGRAB
+          - listitem [ref=f2e95]:
+            - link "购物" [ref=f2e96] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=28&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMZmOhT8Puqr9lb82uwzTyQsHCmP9n-xiYebZxSYKrOiUzEhE8bc8zu_tnP36abWXmQDpgl1I0XAI80Lw997gJwuB4bxKijj6UnCXgBzMGeTRrW2FVokJz-53DCVam-eHOq0sIp-WgJ_HaPsbaQk1sIvaYir6Q&q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&ved=1t:220175&ictx=111
+          - listitem [ref=f2e99]:
+            - link "短视频" [ref=f2e100] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=39&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMZmOhT8Puqr9lb82uwzTyQsHCmP9n-xiYebZxSYKrOiUzEhE8bc8zu_tnP36abWXmQDpgl1I0XAI80Lw997gJwuB4bxKijj6UnCXgBzMGeTRrW2FVokJz-53DCVam-eHOq0sIp-WgJ_HaPsbaQk1sIvaYir6Q&q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQs6gLegQIFxAB
+          - listitem [ref=f2e103]:
+            - link "新闻" [ref=f2e104] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&tbm=nws&source=lnms&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgO5pJ2ROERAFrb15qpZFNMhsRSmp6-hFETunnF8nx8jMZmOhT8Puqr9lb82uwzTyQsHCmP9n-xiYebZxSYKrOiUzEhE8bc8zu_tnP36abWXmQDpgl1I0XAI80Lw997gJwuB4bxKijj6UnCXgBzMGeTRrW2FVokJz-53DCVam-eHOq0sIp-WgJ_HaPsbaQk1sIvaYir6Q&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ0pQJegQIGBAB
+          - listitem [ref=f2e107]:
+            - button [ref=f2e108] [cursor=pointer]:
+              - generic "更多过滤条件" [ref=f2e109]: 更多
+        - button "工具" [ref=f2e116] [cursor=pointer]
+    - heading "搜索结果" [level=1] [ref=f2e123]
+    - generic [ref=f2e128]:
+      - generic [ref=f2e147]:
+        - generic [ref=f2e149]:
+          - generic [ref=f2e151]:
+            - heading "AI 概览" [level=2] [ref=f2e155]
+            - button "关于这条结果的详细信息" [ref=f2e159]
+          - generic [ref=f2e181]:
+            - generic [ref=f2e184]:
+              - generic [ref=f2e185]:
+                - text: 当前成熟的小说 AI 写作工作流通常采用
+                - strong [ref=f2e186]: “双核联动”
+                - text: 模式：以
+                - strong [ref=f2e187]: Obsidian
+                - text: 为“知识库与大纲脑图引擎”，管理世界观与背景设定；以
+                - strong [ref=f2e188]: Novelcrafter
+                - text: 或
+                - strong [ref=f2e189]: Sudowrite
+                - text: 为“AI 生成与骨肉填充引擎”，主导高阶文本润色与章节扩写。
+              - generic [ref=f2e190]: 具体工具的分工与核心用法如下：
+              - heading "1. Obsidian：世界观与大纲引擎" [level=3] [ref=f2e192]
+              - generic [ref=f2e193]: 作为本地离线笔记软件，它承担着“故事圣经（Story Bible）”的作用。
+              - list [ref=f2e196]:
+                - listitem [ref=f2e197]:
+                  - generic [ref=f2e198]:
+                    - strong [ref=f2e199]: 角色设定
+                    - text: ：使用卡片笔记法为每个角色建立独立档案（外貌、性格、动机、人际关系）。
+                - listitem [ref=f2e200]:
+                  - generic [ref=f2e201]:
+                    - strong [ref=f2e202]: 世界观构建
+                    - text: ：利用
+                    - code [ref=f2e203]: Dataview
+                    - text: 插件和网状链接（Graph View）构建力量体系、地理位置、势力分布。
+                - listitem [ref=f2e204]:
+                  - generic [ref=f2e205]:
+                    - strong [ref=f2e206]: 大纲推演
+                    - text: ：利用
+                    - code [ref=f2e207]: Canvas
+                    - text: （画布）功能，以可视化的方式拖拽卡片，构建情节脉络、核心冲突与节拍表（Beat Sheet）。
+              - heading [level=3] [ref=f2e209]: 2. Novelcrafter：高阶引擎与 API 中枢
+              - generic [ref=f2e211]:
+                - text: 这是目前备受高阶作者推崇的底层写作平台
+                - link [ref=f2e213] [cursor=pointer]:
+                  - /url: https://www.novelcrafter.com/
+                  - text: Novelcrafter
+                - text: ，核心优势在于
+                - strong [ref=f2e214]: 灵活性与上下文控制
+                - text: 。
+                - generic [ref=f2e216]:
+                  - link [ref=f2e217] [cursor=pointer]:
+                    - /url: https://www.novelcrafter.com/
+                  - button [ref=f2e218] [cursor=pointer]:
+                    - generic [ref=f2e220]:
+                      - generic [ref=f2e221]: Novelcrafter
+                      - generic [ref=f2e222]: "+2"
+              - list [ref=f2e228]:
+                - listitem [ref=f2e229]:
+                  - generic [ref=f2e230]:
+                    - strong [ref=f2e231]: 模块化卡片
+                    - text: ：将章节拆分为微观场景（Scene Cards），逐一进行情节填充与冲突设计。
+                - listitem [ref=f2e232]:
+                  - generic [ref=f2e233]:
+                    - strong [ref=f2e234]: 自带 Codex 体系
+                    - text: ：将 Obsidian 中的设定文档导入其 Codex 中，让 AI 在生成时随时调用背景设定。
+                - listitem [ref=f2e235]:
+                  - generic [ref=f2e236]:
+                    - strong [ref=f2e237]: API自由度
+                    - text: ：支持接入各种主流或开源大模型（如 Claude 3.5 Sonnet, GPT-4o 等），创作成本较低。
+                  - generic [ref=f2e239]:
+                    - link [ref=f2e240] [cursor=pointer]:
+                      - /url: https://sudowrite.com/blog/best-ai-writing-software-for-fiction-writers-2026/
+                    - button [ref=f2e241] [cursor=pointer]:
+                      - generic [ref=f2e243]:
+                        - generic [ref=f2e244]: Sudowrite
+                        - generic [ref=f2e245]: "+1"
+              - heading [level=3] [ref=f2e251]: 3. Sudowrite：文风润色与创意辅助
+              - generic [ref=f2e253]:
+                - text: 专为文学长文本设计，拥有优秀的类脑思考与文笔渲染功能。
+                - generic [ref=f2e255]:
+                  - link [ref=f2e256] [cursor=pointer]:
+                    - /url: https://www.laterpress.com/craft-of-writing/best-ai-writing-tools-for-fiction
+                  - button [ref=f2e257] [cursor=pointer]:
+                    - generic [ref=f2e259]:
+                      - generic [ref=f2e260]: Laterpress
+                      - generic [ref=f2e261]: "+1"
+              - list [ref=f2e267]:
+                - listitem [ref=f2e268]:
+                  - generic [ref=f2e269]:
+                    - strong [ref=f2e270]: 长文本 Story Engine
+                    - text: ：输入大纲后，可直接生成百万字的架构与章节。
+                - listitem [ref=f2e271]:
+                  - generic [ref=f2e272]:
+                    - strong [ref=f2e273]: 智能扩写 (Expand & Describe)
+                    - text: ：弥补 AI 原文“干瘪”的通病，自动增加五感细节、心理活动及肢体动作。
+                - listitem [ref=f2e274]:
+                  - generic [ref=f2e275]:
+                    - strong [ref=f2e276]: 重写 (Rewrite)
+                    - text: ：提供多种语气、冲突强化选项，非常适合在初稿完成后进行局部的精修与文学性拔高。
+                  - generic [ref=f2e278]:
+                    - link [ref=f2e279] [cursor=pointer]:
+                      - /url: https://www.laterpress.com/craft-of-writing/best-ai-writing-tools-for-fiction
+                    - button [ref=f2e280] [cursor=pointer]:
+                      - generic [ref=f2e282]:
+                        - generic [ref=f2e283]: Laterpress
+                        - generic [ref=f2e284]: "+1"
+              - heading [level=3] [ref=f2e290]: 🚀 成熟流水线工作流推荐
+              - list [ref=f2e292]:
+                - listitem [ref=f2e293]:
+                  - generic [ref=f2e294]:
+                    - strong [ref=f2e295]: 准备阶段 (World Building)
+                    - text: ：在
+                    - strong [ref=f2e296]: Obsidian
+                    - text: 中完成 100% 的世界观、人物弧光与粗略大纲设定。
+                - listitem [ref=f2e297]:
+                  - generic [ref=f2e298]:
+                    - strong [ref=f2e299]: 大纲阶段 (Plotting)
+                    - text: ：将设定文档导入
+                    - strong [ref=f2e300]: Novelcrafter
+                    - text: 的 Codex，并在平台上利用 AI 丰富章节的微观节拍（Begin-Middle-End）。
+                - listitem [ref=f2e301]:
+                  - generic [ref=f2e302]:
+                    - strong [ref=f2e303]: 生成初稿 (Drafting)
+                    - text: ：使用
+                    - strong [ref=f2e304]: Novelcrafter
+                    - text: (搭配强大的外接大模型如 Claude) 或
+                    - strong [ref=f2e305]: Sudowrite
+                    - text: 的 Story Engine 逐章生成初稿。
+                - listitem [ref=f2e306]:
+                  - generic [ref=f2e307]:
+                    - strong [ref=f2e308]: 精修润色 (Polishing)
+                    - text: ：将生成的文字丢进
+                    - strong [ref=f2e309]: Sudowrite
+                    - text: ，使用“Expand”增加感官细节，或使用“Rewrite”进行对白 cadence 与情绪渲染。
+                  - generic [ref=f2e311]:
+                    - link [ref=f2e312] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/WritingWithAI/comments/1sczcs4/sudowrite_is_better_than_novelcrafter/
+                    - button [ref=f2e313] [cursor=pointer]:
+                      - generic [ref=f2e315]:
+                        - generic [ref=f2e316]: Reddit
+                        - generic [ref=f2e317]: "+2"
+              - generic [ref=f2e323]:
+                - generic [ref=f2e324]: 如果想更具针对性地搭建，请问：
+                - list [ref=f2e325]:
+                  - listitem [ref=f2e326]:
+                    - generic [ref=f2e327]:
+                      - text: 您主要写
+                      - strong [ref=f2e328]: 哪个题材
+                      - text: （如科幻、悬疑、都市言情、奇幻）？
+                  - listitem [ref=f2e329]:
+                    - generic [ref=f2e330]:
+                      - text: 您目前习惯用英文创作，还是需要处理
+                      - strong [ref=f2e331]: 中文本土化
+                      - text: 的语料？
+                - generic [ref=f2e332]: 我可以为您提供更具体的提示词模板（Prompt）和插件配置方案。
+            - generic [ref=f2e337]:
+              - generic [ref=f2e339]:
+                - button [ref=f2e340] [cursor=pointer]:
+                  - generic [ref=f2e348]: 7 个网站
+                - button [ref=f2e354] [cursor=pointer]
+              - list [ref=f2e359]:
+                - listitem [ref=f2e360]:
+                  - generic [ref=f2e361]:
+                    - link [ref=f2e362] [cursor=pointer]:
+                      - /url: https://www.novelcrafter.com/
+                    - generic [ref=f2e363]:
+                      - generic [ref=f2e365]:
+                        - generic [ref=f2e366]: "Novelcrafter: Your Novel Writing Software"
+                        - generic [ref=f2e367]: Novelcrafter is your writing platform for all genres, forms ...
+                      - generic [ref=f2e369]:
+                        - generic [ref=f2e372]: Novelcrafter
+                        - button [ref=f2e378] [cursor=pointer]
+                - listitem [ref=f2e384]:
+                  - generic [ref=f2e385]:
+                    - link [ref=f2e386] [cursor=pointer]:
+                      - /url: https://www.laterpress.com/craft-of-writing/best-ai-writing-tools-for-fiction
+                    - generic [ref=f2e387]:
+                      - generic [ref=f2e389]:
+                        - generic [ref=f2e390]: "Best Writing Tools for Fiction Authors (2026): AI and Beyond"
+                        - generic [ref=f2e391]: 2026年3月13日 — Sudowrite is one of the most popular AI fiction writing tool...
+                      - generic [ref=f2e393]:
+                        - generic [ref=f2e396]: Laterpress
+                        - button [ref=f2e402] [cursor=pointer]
+                - listitem [ref=f2e408]:
+                  - generic [ref=f2e409]:
+                    - link [ref=f2e410] [cursor=pointer]:
+                      - /url: https://sudowrite.com/blog/best-10-ai-writing-tools-of-2026/
+                    - generic [ref=f2e411]:
+                      - generic [ref=f2e413]:
+                        - generic [ref=f2e414]: Best 10 AI Writing Tools of 2026
+                        - generic [ref=f2e415]: 2025年7月20日 — Sudowrite and Novelcrafter are both writing tools for author...
+                      - generic [ref=f2e417]:
+                        - generic [ref=f2e420]: Sudowrite
+                        - button [ref=f2e426] [cursor=pointer]
+              - button [ref=f2e432] [cursor=pointer]:
+                - generic [ref=f2e433]: 全部显示
+        - button "显示更多 AI 概览" [ref=f2e437]:
+          - generic [ref=f2e438] [cursor=pointer]: 展开
+      - main [ref=f2e445]:
+        - generic [ref=f2e449]:
+          - generic [ref=f2e452]:
+            - heading "Web results" [level=2] [ref=f2e453]
+            - generic [ref=f2e454]:
+              - generic [ref=f2e457]:
+                - 'link "Novelcrafter: Your Novel Writing Software Novelcrafter https://www.novelcrafter.com" [ref=f2e459] [cursor=pointer]':
+                  - /url: https://www.novelcrafter.com/
+                  - 'heading "Novelcrafter: Your Novel Writing Software" [level=3] [ref=f2e460]'
+                  - generic [ref=f2e466]:
+                    - generic [ref=f2e467]: Novelcrafter
+                    - generic [ref=f2e469]: https://www.novelcrafter.com
+                - generic [ref=f2e471]:
+                  - generic [ref=f2e472]: ·
+                  - link "翻译此页" [ref=f2e473] [cursor=pointer]:
+                    - /url: https://translate.google.com/translate?u=https://www.novelcrafter.com/&hl=zh-CN&sl=en&tl=zh-CN&client=search
+                - button "关于这条结果的详细信息" [ref=f2e476] [cursor=pointer]
+              - generic [ref=f2e483]:
+                - emphasis [ref=f2e484]: Novelcrafter is your writing platform
+                - text: for all genres, forms and styles, whether you're dipping your quills or are a published author.
+          - generic [ref=f2e488]:
+            - generic [ref=f2e491]:
+              - link "Read Customer Service Reviews of app.novelcrafter.com Trustpilot https://www.trustpilot.com › review › app.n..." [ref=f2e493] [cursor=pointer]:
+                - /url: https://www.trustpilot.com/review/app.novelcrafter.com
+                - heading "Read Customer Service Reviews of app.novelcrafter.com" [level=3] [ref=f2e494]
+                - generic [ref=f2e500]:
+                  - generic [ref=f2e501]: Trustpilot
+                  - generic [ref=f2e503]: https://www.trustpilot.com › review › app.n...
+              - generic [ref=f2e505]:
+                - generic [ref=f2e506]: ·
+                - link "翻译此页" [ref=f2e507] [cursor=pointer]:
+                  - /url: https://translate.google.com/translate?u=https://www.trustpilot.com/review/app.novelcrafter.com&hl=zh-CN&sl=en&tl=zh-CN&client=search
+              - button "关于这条结果的详细信息" [ref=f2e510] [cursor=pointer]
+            - generic [ref=f2e516]:
+              - generic [ref=f2e517]: 2025年11月8日 —
+              - generic [ref=f2e518]:
+                - text: 2 people have already reviewed App
+                - emphasis [ref=f2e519]: Novelcrafter
+                - text: . Read about their experiences and share your own!
+            - img "评分为 3.5 星（最高 5 星）， (2) 条用户评价" [ref=f2e524]: 3.5(2)
+          - generic [ref=f2e531]:
+            - generic [ref=f2e534]:
+              - 'link "Best AI Novel Writer 2026: 8 Tools Tested with the Same ... Inkfluence AI https://www.inkfluenceai.com › Tools" [ref=f2e536] [cursor=pointer]':
+                - /url: https://www.inkfluenceai.com/best-ai-novel-writer-2026
+                - 'heading "Best AI Novel Writer 2026: 8 Tools Tested with the Same ..." [level=3] [ref=f2e537]'
+                - generic [ref=f2e543]:
+                  - generic [ref=f2e544]: Inkfluence AI
+                  - generic [ref=f2e546]: https://www.inkfluenceai.com › Tools
+              - generic [ref=f2e548]:
+                - generic [ref=f2e549]: ·
+                - link "翻译此页" [ref=f2e550] [cursor=pointer]:
+                  - /url: https://translate.google.com/translate?u=https://www.inkfluenceai.com/best-ai-novel-writer-2026&hl=zh-CN&sl=en&tl=zh-CN&client=search
+              - button "关于这条结果的详细信息" [ref=f2e553] [cursor=pointer]
+            - generic [ref=f2e559]:
+              - generic [ref=f2e560]: 2026年6月5日 —
+              - generic [ref=f2e561]:
+                - emphasis [ref=f2e562]: Sudowrite ($22/mo
+                - text: ) wins for literary-fiction prose craft but stops at DOCX, requiring two extra subscriptions for cover and audiobook.
+            - generic [ref=f2e565]:
+              - generic [ref=f2e566]:
+                - img "评分为 4.8 星（最高 5 星）， (150) 条用户评价" [ref=f2e567]: 4.8(150)
+                - text: ·
+              - text: 免费 · ‎iOS · ‎商业/生产力
+          - generic [ref=f2e574]:
+            - generic [ref=f2e577]:
+              - link "Sudowrite - AI Novel Writing - Google Play 上的应用 Google Play https://play.google.com › store › apps › details › id=com..." [ref=f2e579] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=com.humanplusplus.sudowrite&hl=zh
+                - heading "Sudowrite - AI Novel Writing - Google Play 上的应用" [level=3] [ref=f2e580]
+                - generic [ref=f2e586]:
+                  - generic [ref=f2e587]: Google Play
+                  - generic [ref=f2e589]: https://play.google.com › store › apps › details › id=com...
+              - button "关于这条结果的详细信息" [ref=f2e593] [cursor=pointer]
+            - generic [ref=f2e599]:
+              - generic [ref=f2e600]: 6天前 —
+              - generic [ref=f2e601]:
+                - emphasis [ref=f2e602]: Sudowrite是一款面向创意写作者的AI写作应用
+                - text: 。随时随地生成故事灵感、创作小说、谱写诗歌，并提升你的小说写作水平。 Sudowrite目前仅支持英文。AI ...
+            - generic [ref=f2e605]:
+              - generic [ref=f2e606]:
+                - img "评分为 4.0 星（最高 5 星）， (578) 条用户评价" [ref=f2e607]: 4.0(578)
+                - text: ·
+              - text: 免费 · ‎Android · ‎商业/生产力
+          - generic [ref=f2e617]:
+            - generic [ref=f2e620]:
+              - link "Sudowrite vs Novelcrafter (2026) - Which One Is BETTER? YouTube · Paperclick 1170+ 次观看 · 9个月前" [ref=f2e622] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=s9ZhzSAZMaA
+                - heading "Sudowrite vs Novelcrafter (2026) - Which One Is BETTER?" [level=3] [ref=f2e623]
+                - generic [ref=f2e629]:
+                  - generic [ref=f2e630]: YouTube · Paperclick
+                  - generic [ref=f2e632]: 1170+ 次观看 · 9个月前
+              - button "关于这条结果的详细信息" [ref=f2e636] [cursor=pointer]
+            - generic [ref=f2e641]:
+              - button "Sudowrite vs Novelcrafter (2026) - Which One Is BETTER?，由Paperclick上传到YouTube上. 在 Google 上播放. 1:34" [ref=f2e642] [cursor=pointer]:
+                - generic [ref=f2e643]: 1:34
+              - generic [ref=f2e656]: In this video, I compare Sudowrite vs Novelcrafter (2026) to help you decide which AI writing tool is the best choice for authors ...
+          - generic [ref=f2e661]:
+            - generic [ref=f2e664]:
+              - link "Best 10 AI Writing Tools of 2026 Sudowrite https://sudowrite.com › blog › best-10-ai-w..." [ref=f2e666] [cursor=pointer]:
+                - /url: https://sudowrite.com/blog/best-10-ai-writing-tools-of-2026/
+                - heading "Best 10 AI Writing Tools of 2026" [level=3] [ref=f2e667]
+                - generic [ref=f2e673]:
+                  - generic [ref=f2e674]: Sudowrite
+                  - generic [ref=f2e676]: https://sudowrite.com › blog › best-10-ai-w...
+              - generic [ref=f2e678]:
+                - generic [ref=f2e679]: ·
+                - link "翻译此页" [ref=f2e680] [cursor=pointer]:
+                  - /url: https://translate.google.com/translate?u=https://sudowrite.com/blog/best-10-ai-writing-tools-of-2026/&hl=zh-CN&sl=en&tl=zh-CN&client=search
+              - button "关于这条结果的详细信息" [ref=f2e683] [cursor=pointer]
+            - generic [ref=f2e689]:
+              - generic [ref=f2e690]: 2025年7月20日 —
+              - generic [ref=f2e691]:
+                - emphasis [ref=f2e692]: Novelcrafter
+                - text: is similar to
+                - emphasis [ref=f2e693]: Sudowrite
+                - text: in that it is a versatile writing tool for authors, but where
+                - emphasis [ref=f2e694]: Sudowrite
+                - text: is easier to navigate,
+                - emphasis [ref=f2e695]: Novelcrafter
+                - text: ...
+          - generic [ref=f2e699]:
+            - generic [ref=f2e702]:
+              - 'link "Best Writing Tools for Fiction Authors (2026): AI and Beyond Laterpress https://www.laterpress.com › craft-of-writing" [ref=f2e704] [cursor=pointer]':
+                - /url: https://www.laterpress.com/craft-of-writing/best-ai-writing-tools-for-fiction
+                - 'heading "Best Writing Tools for Fiction Authors (2026): AI and Beyond" [level=3] [ref=f2e705]'
+                - generic [ref=f2e711]:
+                  - generic [ref=f2e712]: Laterpress
+                  - generic [ref=f2e714]: https://www.laterpress.com › craft-of-writing
+              - generic [ref=f2e716]:
+                - generic [ref=f2e717]: ·
+                - link "翻译此页" [ref=f2e718] [cursor=pointer]:
+                  - /url: https://translate.google.com/translate?u=https://www.laterpress.com/craft-of-writing/best-ai-writing-tools-for-fiction&hl=zh-CN&sl=en&tl=zh-CN&client=search
+              - button "关于这条结果的详细信息" [ref=f2e721] [cursor=pointer]
+            - generic [ref=f2e727]:
+              - generic [ref=f2e728]: 2026年3月13日 —
+              - generic [ref=f2e729]:
+                - emphasis [ref=f2e730]: Sudowrite is one of the most popular AI fiction writing tools
+                - text: ", and its custom-trained Muse model is the headline feature. Muse is fine-tuned ..."
+          - generic [ref=f2e734]:
+            - generic [ref=f2e737]:
+              - 'link "Sudowrite is better than Novelcrafter : r/WritingWithAI Reddit · r/WritingWithAI 40+ 条评论 · 3个月前" [ref=f2e739] [cursor=pointer]':
+                - /url: https://www.reddit.com/r/WritingWithAI/comments/1sczcs4/sudowrite_is_better_than_novelcrafter/
+                - 'heading "Sudowrite is better than Novelcrafter : r/WritingWithAI" [level=3] [ref=f2e740]'
+                - generic [ref=f2e746]:
+                  - generic [ref=f2e747]: Reddit · r/WritingWithAI
+                  - generic [ref=f2e749]: 40+ 条评论 · 3个月前
+              - button "关于这条结果的详细信息" [ref=f2e753] [cursor=pointer]
+            - generic [ref=f2e760]:
+              - text: So I have been using Sudowrite and Novelcrafter. I have found that
+              - emphasis [ref=f2e761]: Sudowrite has a much more elegant workflow
+              - text: and the automation is far ...
+          - generic [ref=f2e765]:
+            - generic [ref=f2e768]:
+              - 'link "Sudowrite vs Novelcrafter: Which AI Writing Tool Is Better for ... Medium · Ilam Padmanabhan 20+ 个赞 · 2个月前" [ref=f2e770] [cursor=pointer]':
+                - /url: https://ilampadmanabhan.medium.com/sudowrite-vs-novelcrafter-which-ai-writing-tool-is-better-for-fiction-writers-bdc3f33ba95f
+                - 'heading "Sudowrite vs Novelcrafter: Which AI Writing Tool Is Better for ..." [level=3] [ref=f2e771]'
+                - generic [ref=f2e777]:
+                  - generic [ref=f2e778]: Medium · Ilam Padmanabhan
+                  - generic [ref=f2e780]: 20+ 个赞 · 2个月前
+              - button "关于这条结果的详细信息" [ref=f2e784] [cursor=pointer]
+            - generic [ref=f2e791]:
+              - emphasis [ref=f2e792]: Sudowrite
+              - text: is the easier
+              - emphasis [ref=f2e793]: AI
+              - text: writing tool to begin with. It wants to be your creative partner. It nudges you through story structure, helps with ...
+        - generic [ref=f2e795]:
+          - generic [ref=f2e800]:
+            - heading "用户还搜索了" [level=2] [ref=f2e802]
+            - generic [ref=f2e804]:
+              - generic [ref=f2e805]:
+                - link "Sudowrite 官网" [ref=f2e809] [cursor=pointer]:
+                  - /url: /search?sca_esv=114ce2f88324942a&q=Sudowrite+%E5%AE%98%E7%BD%91&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ1QJ6BAgzEAE
+                - link "Novelcrafter 教学" [ref=f2e823] [cursor=pointer]:
+                  - /url: /search?sca_esv=114ce2f88324942a&q=Novelcrafter+%E6%95%99%E5%AD%A6&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ1QJ6BAg4EAE
+                - link "Squibler" [ref=f2e837] [cursor=pointer]:
+                  - /url: /search?sca_esv=114ce2f88324942a&q=Squibler&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ1QJ6BAg3EAE
+                - link "Scrivner" [ref=f2e851] [cursor=pointer]:
+                  - /url: /search?sca_esv=114ce2f88324942a&q=Scrivner&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ1QJ6BAg2EAE
+              - generic [ref=f2e862]:
+                - link "Sudowrite 中文" [ref=f2e866] [cursor=pointer]:
+                  - /url: /search?sca_esv=114ce2f88324942a&q=Sudowrite+%E4%B8%AD%E6%96%87&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ1QJ6BAg1EAE
+                - link "Novelistai" [ref=f2e880] [cursor=pointer]:
+                  - /url: /search?sca_esv=114ce2f88324942a&q=Novelistai&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ1QJ6BAg0EAE
+                - link "Plottr" [ref=f2e894] [cursor=pointer]:
+                  - /url: /search?sca_esv=114ce2f88324942a&q=Plottr&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ1QJ6BAgxEAE
+                - link "Noveleasy" [ref=f2e908] [cursor=pointer]:
+                  - /url: /search?sca_esv=114ce2f88324942a&q=Noveleasy&sa=X&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ1QJ6BAgyEAE
+          - navigation [ref=f2e919]:
+            - heading "网页导航" [level=1] [ref=f2e920]
+            - text: "1"
+            - link "Page 2" [ref=f2e923] [cursor=pointer]:
+              - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&ei=QUJWaoHHFM2sur8PuY-2kQU&start=10&sa=N&sstk=AU9db-BcUnvvmjOFqPV5EXNTVmxc4QuVn1E-fMyOYYyWH53_szHgAfD1b8DCqgjmSxDyYTYURY-Jfd_Z-1CjjWCsXmzwMNQtNOIt8Q&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ8tMDegQIKhAE
+              - text: "2"
+            - link "Page 3" [ref=f2e925] [cursor=pointer]:
+              - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&ei=QUJWaoHHFM2sur8PuY-2kQU&start=20&sa=N&sstk=AU9db-BcUnvvmjOFqPV5EXNTVmxc4QuVn1E-fMyOYYyWH53_szHgAfD1b8DCqgjmSxDyYTYURY-Jfd_Z-1CjjWCsXmzwMNQtNOIt8Q&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ8tMDegQIKhAG
+              - text: "3"
+            - link "Page 4" [ref=f2e927] [cursor=pointer]:
+              - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&ei=QUJWaoHHFM2sur8PuY-2kQU&start=30&sa=N&sstk=AU9db-BcUnvvmjOFqPV5EXNTVmxc4QuVn1E-fMyOYYyWH53_szHgAfD1b8DCqgjmSxDyYTYURY-Jfd_Z-1CjjWCsXmzwMNQtNOIt8Q&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ8tMDegQIKhAI
+              - text: "4"
+            - link "Page 5" [ref=f2e929] [cursor=pointer]:
+              - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&ei=QUJWaoHHFM2sur8PuY-2kQU&start=40&sa=N&sstk=AU9db-BcUnvvmjOFqPV5EXNTVmxc4QuVn1E-fMyOYYyWH53_szHgAfD1b8DCqgjmSxDyYTYURY-Jfd_Z-1CjjWCsXmzwMNQtNOIt8Q&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ8tMDegQIKhAK
+              - text: "5"
+            - link "Page 6" [ref=f2e931] [cursor=pointer]:
+              - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&ei=QUJWaoHHFM2sur8PuY-2kQU&start=50&sa=N&sstk=AU9db-BcUnvvmjOFqPV5EXNTVmxc4QuVn1E-fMyOYYyWH53_szHgAfD1b8DCqgjmSxDyYTYURY-Jfd_Z-1CjjWCsXmzwMNQtNOIt8Q&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ8tMDegQIKhAM
+              - text: "6"
+            - link "Page 7" [ref=f2e933] [cursor=pointer]:
+              - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&ei=QUJWaoHHFM2sur8PuY-2kQU&start=60&sa=N&sstk=AU9db-BcUnvvmjOFqPV5EXNTVmxc4QuVn1E-fMyOYYyWH53_szHgAfD1b8DCqgjmSxDyYTYURY-Jfd_Z-1CjjWCsXmzwMNQtNOIt8Q&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ8tMDegQIKhAO
+              - text: "7"
+            - link "Page 8" [ref=f2e935] [cursor=pointer]:
+              - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&ei=QUJWaoHHFM2sur8PuY-2kQU&start=70&sa=N&sstk=AU9db-BcUnvvmjOFqPV5EXNTVmxc4QuVn1E-fMyOYYyWH53_szHgAfD1b8DCqgjmSxDyYTYURY-Jfd_Z-1CjjWCsXmzwMNQtNOIt8Q&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ8tMDegQIKhAQ
+              - text: "8"
+            - link "Page 9" [ref=f2e937] [cursor=pointer]:
+              - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&ei=QUJWaoHHFM2sur8PuY-2kQU&start=80&sa=N&sstk=AU9db-BcUnvvmjOFqPV5EXNTVmxc4QuVn1E-fMyOYYyWH53_szHgAfD1b8DCqgjmSxDyYTYURY-Jfd_Z-1CjjWCsXmzwMNQtNOIt8Q&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ8tMDegQIKhAS
+              - text: "9"
+            - link "Page 10" [ref=f2e939] [cursor=pointer]:
+              - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&ei=QUJWaoHHFM2sur8PuY-2kQU&start=90&sa=N&sstk=AU9db-BcUnvvmjOFqPV5EXNTVmxc4QuVn1E-fMyOYYyWH53_szHgAfD1b8DCqgjmSxDyYTYURY-Jfd_Z-1CjjWCsXmzwMNQtNOIt8Q&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ8tMDegQIKhAU
+              - text: "10"
+            - heading [level=2] [ref=f2e941]:
+              - link "下一页" [ref=f2e942] [cursor=pointer]:
+                - /url: /search?q=%E6%88%90%E7%86%9F+AI+%E5%B0%8F%E8%AF%B4%E5%86%99%E4%BD%9C+%E5%B7%A5%E4%BD%9C%E6%B5%81+Obsidian+Novelcrafter+Sudowrite+2026&sca_esv=114ce2f88324942a&ei=QUJWaoHHFM2sur8PuY-2kQU&start=10&sa=N&sstk=AU9db-BcUnvvmjOFqPV5EXNTVmxc4QuVn1E-fMyOYYyWH53_szHgAfD1b8DCqgjmSxDyYTYURY-Jfd_Z-1CjjWCsXmzwMNQtNOIt8Q&ved=2ahUKEwjB6-Wjq9KVAxVNlu4BHbmHLVIQ8NMDegQIKhAW
+        - navigation
+    - contentinfo [ref=f2e945]:
+      - heading "页脚链接" [level=1] [ref=f2e946]
+      - generic [ref=f2e950]:
+        - generic [ref=f2e954]:
+          - button "洛杉矶 加利福尼亚 - 是根据您的 IP 地址推断出来的" [ref=f2e956] [cursor=pointer]:
+            - generic [ref=f2e957]: 洛杉矶 加利福尼亚
+            - generic [ref=f2e959]:
+              - text: "-"
+              - generic [ref=f2e960]: 是根据您的 IP 地址推断出来的
+          - text: "-"
+          - button "更新位置信息" [ref=f2e962] [cursor=pointer]
+        - generic [ref=f2e965]:
+          - link "帮助" [ref=f2e966] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=zh-CN&fg=1
+          - link "发送反馈" [ref=f2e967] [cursor=pointer]:
+            - /url: "#"
+          - link "隐私权" [ref=f2e968] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=zh-CN&fg=1
+          - link "条款" [ref=f2e969] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=zh-CN&fg=1

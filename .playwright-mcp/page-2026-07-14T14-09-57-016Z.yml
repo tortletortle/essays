@@ -1,0 +1,715 @@
+- generic [ref=f21e2]:
+  - generic [ref=f21e3]:
+    - link "Skip to content" [ref=f21e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=f21e6]:
+      - heading "Navigation Menu" [level=2] [ref=f21e7]
+      - generic [ref=f21e8]:
+        - link "Homepage" [ref=f21e10] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f21e13]:
+          - navigation "Global" [ref=f21e16]:
+            - list [ref=f21e17]:
+              - listitem [ref=f21e18]:
+                - button "Platform" [ref=f21e20] [cursor=pointer]
+              - listitem [ref=f21e23]:
+                - button "Solutions" [ref=f21e25] [cursor=pointer]
+              - listitem [ref=f21e28]:
+                - button "Resources" [ref=f21e30] [cursor=pointer]
+              - listitem [ref=f21e33]:
+                - button "Open Source" [ref=f21e35] [cursor=pointer]
+              - listitem [ref=f21e38]:
+                - button "Enterprise" [ref=f21e40] [cursor=pointer]
+              - listitem [ref=f21e43]:
+                - link "Pricing" [ref=f21e44] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=f21e46]:
+            - button "Search or jump to…" [ref=f21e49] [cursor=pointer]
+            - link "Sign in" [ref=f21e54] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fwzxsph%2FNovel-Claude
+            - link "Sign up" [ref=f21e55] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=wzxsph%2FNovel-Claude
+            - button "Appearance settings" [ref=f21e58] [cursor=pointer]
+  - main [ref=f21e62]:
+    - generic [ref=f21e63]:
+      - generic [ref=f21e64]:
+        - generic [ref=f21e66]:
+          - link "wzxsph" [ref=f21e70] [cursor=pointer]:
+            - /url: /wzxsph
+          - generic [ref=f21e71]: /
+          - strong [ref=f21e72]:
+            - link "Novel-Claude" [ref=f21e73] [cursor=pointer]:
+              - /url: /wzxsph/Novel-Claude
+          - generic [ref=f21e74]: Public
+        - generic [ref=f21e75]:
+          - list:
+            - listitem [ref=f21e76]:
+              - link "You must be signed in to change notification settings" [ref=f21e77] [cursor=pointer]:
+                - /url: /login?return_to=%2Fwzxsph%2FNovel-Claude
+                - text: Notifications
+            - listitem [ref=f21e80]:
+              - link "Fork 1" [ref=f21e81] [cursor=pointer]:
+                - /url: /login?return_to=%2Fwzxsph%2FNovel-Claude
+                - text: Fork
+                - generic "1" [ref=f21e84]
+            - listitem [ref=f21e85]:
+              - link "You must be signed in to star a repository" [ref=f21e87] [cursor=pointer]:
+                - /url: /login?return_to=%2Fwzxsph%2FNovel-Claude
+                - text: Star
+                - generic "11 users starred this repository" [ref=f21e90]: "11"
+      - navigation "Repository" [ref=f21e91]:
+        - list [ref=f21e92]:
+          - listitem [ref=f21e93]:
+            - link "Code" [ref=f21e94] [cursor=pointer]:
+              - /url: /wzxsph/Novel-Claude
+          - listitem [ref=f21e98]:
+            - link "Issues" [ref=f21e99] [cursor=pointer]:
+              - /url: /wzxsph/Novel-Claude/issues
+          - listitem [ref=f21e104]:
+            - link "Pull requests" [ref=f21e105] [cursor=pointer]:
+              - /url: /wzxsph/Novel-Claude/pulls
+          - listitem [ref=f21e109]:
+            - link "Actions" [ref=f21e110] [cursor=pointer]:
+              - /url: /wzxsph/Novel-Claude/actions
+          - listitem [ref=f21e114]:
+            - link "Projects" [ref=f21e115] [cursor=pointer]:
+              - /url: /wzxsph/Novel-Claude/projects
+          - listitem [ref=f21e119]:
+            - link "Security and quality" [ref=f21e120] [cursor=pointer]:
+              - /url: /wzxsph/Novel-Claude/security
+          - listitem [ref=f21e124]:
+            - link "Insights" [ref=f21e125] [cursor=pointer]:
+              - /url: /wzxsph/Novel-Claude/pulse
+    - generic [ref=f21e141]:
+      - heading "wzxsph/Novel-Claude" [level=1] [ref=f21e143]
+      - generic [ref=f21e144]:
+        - generic [ref=f21e147]:
+          - generic [ref=f21e148]:
+            - generic [ref=f21e149]:
+              - button "main branch" [ref=f21e151] [cursor=pointer]:
+                - generic [ref=f21e152]: main
+              - generic [ref=f21e160]:
+                - link "Go to Branches page" [ref=f21e161] [cursor=pointer]:
+                  - /url: /wzxsph/Novel-Claude/branches
+                - link "Go to Tags page" [ref=f21e164] [cursor=pointer]:
+                  - /url: /wzxsph/Novel-Claude/tags
+            - generic [ref=f21e167]:
+              - combobox "Go to file" [ref=f21e175]
+              - button "Code" [ref=f21e176] [cursor=pointer]
+          - generic [ref=f21e179]:
+            - generic [ref=f21e180]:
+              - heading "Folders and files" [level=2] [ref=f21e181]
+              - table "Folders and files" [ref=f21e182]:
+                - rowgroup:
+                  - row "Name Last commit message Last commit date":
+                    - columnheader "Name"
+                    - columnheader "Last commit message"
+                    - columnheader "Last commit date"
+                - rowgroup [ref=f21e183]:
+                  - row [ref=f21e184]:
+                    - cell "Latest commit History 27 Commits" [ref=f21e185]:
+                      - generic [ref=f21e186]:
+                        - heading "Latest commit" [level=2] [ref=f21e187]
+                        - generic [ref=f21e190]:
+                          - heading "History" [level=2] [ref=f21e191]
+                          - link "27 Commits" [ref=f21e192] [cursor=pointer]:
+                            - /url: /wzxsph/Novel-Claude/commits/main/
+                  - row "cli, (Directory)" [ref=f21e195]:
+                    - cell [ref=f21e196]:
+                      - link "cli, (Directory)" [ref=f21e203] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/tree/main/cli
+                        - text: cli
+                    - cell [ref=f21e204]
+                    - cell [ref=f21e206]
+                  - row "core, (Directory)" [ref=f21e209]:
+                    - cell [ref=f21e210]:
+                      - link "core, (Directory)" [ref=f21e217] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/tree/main/core
+                        - text: core
+                    - cell [ref=f21e218]
+                    - cell [ref=f21e220]
+                  - row "docs, (Directory)" [ref=f21e223]:
+                    - cell [ref=f21e224]:
+                      - link "docs, (Directory)" [ref=f21e231] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/tree/main/docs
+                        - text: docs
+                    - cell [ref=f21e232]
+                    - cell [ref=f21e234]
+                  - row "prompts, (Directory)" [ref=f21e237]:
+                    - cell [ref=f21e238]:
+                      - link "prompts, (Directory)" [ref=f21e245] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/tree/main/prompts
+                        - text: prompts
+                    - cell [ref=f21e246]
+                    - cell [ref=f21e248]
+                  - row "skills, (Directory)" [ref=f21e251]:
+                    - cell [ref=f21e252]:
+                      - link "skills, (Directory)" [ref=f21e259] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/tree/main/skills
+                        - text: skills
+                    - cell [ref=f21e260]
+                    - cell [ref=f21e262]
+                  - row "utils, (Directory)" [ref=f21e265]:
+                    - cell [ref=f21e266]:
+                      - link "utils, (Directory)" [ref=f21e273] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/tree/main/utils
+                        - text: utils
+                    - cell [ref=f21e274]
+                    - cell [ref=f21e276]
+                  - row ".gitignore, (File)" [ref=f21e279]:
+                    - cell [ref=f21e280]:
+                      - link ".gitignore, (File)" [ref=f21e287] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/.gitignore
+                        - text: .gitignore
+                    - cell [ref=f21e288]
+                    - cell [ref=f21e290]
+                  - row "CLAUDE.md, (File)" [ref=f21e293]:
+                    - cell [ref=f21e294]:
+                      - link "CLAUDE.md, (File)" [ref=f21e301] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/CLAUDE.md
+                        - text: CLAUDE.md
+                    - cell [ref=f21e302]
+                    - cell [ref=f21e304]
+                  - row "LICENSE, (File)" [ref=f21e307]:
+                    - cell [ref=f21e308]:
+                      - link "LICENSE, (File)" [ref=f21e315] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/LICENSE
+                        - text: LICENSE
+                    - cell [ref=f21e316]
+                    - cell [ref=f21e318]
+                  - row "README.md, (File)" [ref=f21e321]:
+                    - cell [ref=f21e322]:
+                      - link "README.md, (File)" [ref=f21e329] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/README.md
+                        - text: README.md
+                    - cell [ref=f21e330]
+                    - cell [ref=f21e332]
+                  - row "README_EN.md, (File)" [ref=f21e335]:
+                    - cell [ref=f21e336]:
+                      - link "README_EN.md, (File)" [ref=f21e343] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/README_EN.md
+                        - text: README_EN.md
+                    - cell [ref=f21e344]
+                    - cell [ref=f21e346]
+                  - row "README_JP.md, (File)" [ref=f21e349]:
+                    - cell [ref=f21e350]:
+                      - link "README_JP.md, (File)" [ref=f21e357] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/README_JP.md
+                        - text: README_JP.md
+                    - cell [ref=f21e358]
+                    - cell [ref=f21e360]
+                  - row "cli.py, (File)" [ref=f21e363]:
+                    - cell [ref=f21e364]:
+                      - link "cli.py, (File)" [ref=f21e371] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/cli.py
+                        - text: cli.py
+                    - cell [ref=f21e372]
+                    - cell [ref=f21e374]
+                  - row "config.json, (File)" [ref=f21e377]:
+                    - cell [ref=f21e378]:
+                      - link "config.json, (File)" [ref=f21e385] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/config.json
+                        - text: config.json
+                    - cell [ref=f21e386]
+                    - cell [ref=f21e388]
+                  - row "requirements.txt, (File)" [ref=f21e391]:
+                    - cell [ref=f21e392]:
+                      - link "requirements.txt, (File)" [ref=f21e399] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/requirements.txt
+                        - text: requirements.txt
+                    - cell [ref=f21e400]
+                    - cell [ref=f21e402]
+                  - row "scene_writer.py, (File)" [ref=f21e405]:
+                    - cell [ref=f21e406]:
+                      - link "scene_writer.py, (File)" [ref=f21e413] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/scene_writer.py
+                        - text: scene_writer.py
+                    - cell [ref=f21e414]
+                    - cell [ref=f21e416]
+                  - row "volume_planner.py, (File)" [ref=f21e419]:
+                    - cell [ref=f21e420]:
+                      - link "volume_planner.py, (File)" [ref=f21e427] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/volume_planner.py
+                        - text: volume_planner.py
+                    - cell [ref=f21e428]
+                    - cell [ref=f21e430]
+                  - row "world_builder.py, (File)" [ref=f21e433]:
+                    - cell [ref=f21e434]:
+                      - link "world_builder.py, (File)" [ref=f21e441] [cursor=pointer]:
+                        - /url: /wzxsph/Novel-Claude/blob/main/world_builder.py
+                        - text: world_builder.py
+                    - cell [ref=f21e442]
+                    - cell [ref=f21e444]
+            - generic [ref=f21e448]:
+              - generic [ref=f21e449]:
+                - heading "Repository files navigation" [level=2] [ref=f21e450]
+                - navigation "Repository files" [ref=f21e451]:
+                  - list [ref=f21e452]:
+                    - listitem [ref=f21e453]:
+                      - link "README" [ref=f21e454] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=f21e459]:
+                      - link "GPL-3.0 license" [ref=f21e460] [cursor=pointer]:
+                        - /url: "#"
+                - button "Outline" [ref=f21e465] [cursor=pointer]
+              - article [ref=f21e469]:
+                - generic [ref=f21e470]:
+                  - 'heading "🚀 Novel-Claude V3: Agentic Novel Generation Framework" [level=1] [ref=f21e471]'
+                  - 'link "Permalink: 🚀 Novel-Claude V3: Agentic Novel Generation Framework" [ref=f21e472] [cursor=pointer]':
+                    - /url: "#-novel-claude-v3-agentic-novel-generation-framework"
+                - paragraph [ref=f21e475]:
+                  - link "简体中文" [ref=f21e476] [cursor=pointer]:
+                    - /url: /wzxsph/Novel-Claude/blob/main/README.md
+                  - text: "|"
+                  - link "English" [ref=f21e477] [cursor=pointer]:
+                    - /url: /wzxsph/Novel-Claude/blob/main/README_EN.md
+                  - text: "|"
+                  - link "日本語" [ref=f21e478] [cursor=pointer]:
+                    - /url: /wzxsph/Novel-Claude/blob/main/README_JP.md
+                - generic [ref=f21e479]:
+                  - paragraph [ref=f21e480]: Warning
+                  - paragraph [ref=f21e483]:
+                    - strong [ref=f21e484]: 本项目还处于测试阶段，还有诸多功能不完善，请谨慎使用。
+                - paragraph [ref=f21e485]:
+                  - text: Novel-Claude 是一个基于大语言模型（如智谱 GLM-4）构建的全自动长篇小说生成管线。在 V3 版本中，它从传统的线性脚本流水线彻底进化为具有极高扩展性的
+                  - strong [ref=f21e486]: 微内核 + 插件生态架构 (Microkernel & Plugin Architecture)
+                  - text: 。
+                - paragraph [ref=f21e487]:
+                  - text: 通过底层的
+                  - code [ref=f21e488]: EventBus
+                  - text: 事件引擎与动态
+                  - code [ref=f21e489]: PluginManager
+                  - text: ，它支持极其复杂的社区插件生态（Skills）以及基于 ReAct 多轮交互的复杂智能体（Agents）。
+                - generic [ref=f21e490]:
+                  - heading "✨ 核心特性" [level=2] [ref=f21e491]
+                  - 'link "Permalink: ✨ 核心特性" [ref=f21e492] [cursor=pointer]':
+                    - /url: "#-核心特性"
+                - list [ref=f21e495]:
+                  - listitem [ref=f21e496]:
+                    - strong [ref=f21e497]: 微内核插件系统 (Microkernel & Plugin Ecosystem)
+                    - text: ": 所有的附加功能（如动态检索记忆 RAG、战斗合理性检测等）被剥离为主时间线之外的插件（Skills）。支持热重载（Hot-Reload）与错误护航隔离，单个插件崩溃不影响数小时的生成进程。"
+                  - listitem [ref=f21e498]:
+                    - strong [ref=f21e499]: 复杂智能体支撑 (Complex Agents)
+                    - text: ":"
+                    - list [ref=f21e500]:
+                      - listitem [ref=f21e501]:
+                        - text: 🖋️
+                        - strong [ref=f21e502]: Editor Agent (毒舌主编智能体)
+                        - text: ": 在章节生成末尾挂载，启用 ReAct 多轮循环思考对草稿进行严格审稿，自动修复视角跳跃和上下文割裂。"
+                      - listitem [ref=f21e503]:
+                        - text: 🤖
+                        - strong [ref=f21e504]: Skill Builder Agent (元生成器)
+                        - text: ": 系统级别的 Meta-Generation。在 CLI 中输入一行自然语言，系统将"
+                        - strong [ref=f21e505]: 自动撰写并编译合法外挂插件 (Skills)
+                        - text: 落盘生效。
+                  - listitem [ref=f21e506]:
+                    - strong [ref=f21e507]: 降本提效 (Batch API)
+                    - text: ": 原生支持智谱/OpenAI 格式的 Batch API 提交流水线，支持离线 5 折并发生成海量章节，并自动拼接、回调。"
+                - separator [ref=f21e508]
+                - generic [ref=f21e509]:
+                  - heading "🏗️ 架构总览" [level=2] [ref=f21e510]
+                  - 'link "Permalink: 🏗️ 架构总览" [ref=f21e511] [cursor=pointer]':
+                    - /url: "#️-架构总览"
+                - paragraph [ref=f21e514]:
+                  - text: 整个生成管线被切分为三大核心引擎，引擎之间通过
+                  - code [ref=f21e515]: NovelContext
+                  - text: 共享白板及
+                  - code [ref=f21e516]: EventBus
+                  - text: 广播串行：
+                - list [ref=f21e517]:
+                  - listitem [ref=f21e518]:
+                    - code [ref=f21e519]: world_builder.py
+                    - text: "(世界观造物主): 根据一句话创意（Logline），构建严格 JSON 格式的背景设定、阵营、人物列表。"
+                  - listitem [ref=f21e520]:
+                    - code [ref=f21e521]: volume_planner.py
+                    - text: "(分卷派单员): 定制 10 卷纲要，并将大段卷纲拆解为精准到场景的小说打点（Beats），且通过算法强制归一化控制为每章 5000 字精确产出。"
+                  - listitem [ref=f21e522]:
+                    - code [ref=f21e523]: scene_writer.py
+                    - text: "(执笔车间): 孵化 Subagents 无死角执行场景任务，并交由 Director Agent 进行定稿。"
+                - generic [ref=f21e524]:
+                  - code [ref=f21e526]: "novel_claude/ ├── core/ # 发动机微内核 │ ├── event_bus.py # 全局事件总线（Fault Tolerance） │ ├── plugin_manager.py # 动态插件扫描与加载器 │ ├── base_skill.py # V3 标准化插件基类 │ ├── novel_context.py # 共享生命周期上下文 │ └── agents/ # 复杂推理智能体 │ ├── editor_agent.py # 毒舌主编 ReAct Agent │ └── skill_builder_agent.py # Meta-Generation 元生成器 ├── skills/ # 插件挂载文件夹（放入即生效） │ └── core_memory_rag/ # 原生的 RAG 记忆流媒体检索插件 ├── world_builder.py # 核心引擎一：设定构建 ├── volume_planner.py # 核心引擎二：分卷与场景切分 ├── scene_writer.py # 核心引擎三：片段执笔与合并 ├── cli.py # 终端入口 └── utils/ # 配置文件与 LLM 客户端 API 层"
+                  - button "Copy code to clipboard" [ref=f21e528] [cursor=pointer]
+                - separator [ref=f21e532]
+                - generic [ref=f21e533]:
+                  - heading "🛠️ 安装与使用" [level=2] [ref=f21e534]
+                  - 'link "Permalink: 🛠️ 安装与使用" [ref=f21e535] [cursor=pointer]':
+                    - /url: "#️-安装与使用"
+                - generic [ref=f21e538]:
+                  - heading "1. 环境准备" [level=3] [ref=f21e539]
+                  - 'link "Permalink: 1. 环境准备" [ref=f21e540] [cursor=pointer]':
+                    - /url: "#1-环境准备"
+                - paragraph [ref=f21e543]: 确保您的 Python >= 3.10。
+                - generic [ref=f21e544]:
+                  - generic [ref=f21e545]:
+                    - generic [ref=f21e546]: "# 激活环境后安装依赖"
+                    - text: uv pip install -r requirements.txt
+                  - button "Copy code to clipboard" [ref=f21e548] [cursor=pointer]
+                - generic [ref=f21e552]:
+                  - heading "2. CLI 快速使用" [level=3] [ref=f21e553]
+                  - 'link "Permalink: 2. CLI 快速使用" [ref=f21e554] [cursor=pointer]':
+                    - /url: "#2-cli-快速使用"
+                - generic [ref=f21e557]:
+                  - heading "基础生成流程" [level=4] [ref=f21e558]
+                  - 'link "Permalink: 基础生成流程" [ref=f21e559] [cursor=pointer]':
+                    - /url: "#基础生成流程"
+                - generic [ref=f21e562]:
+                  - generic [ref=f21e563]:
+                    - generic [ref=f21e564]: "# 阶段 1：一句话初始化世界观"
+                    - text: uv run python cli.py init
+                    - generic [ref=f21e565]: "\"一个在修真界利用赛博插件强开灵根的科幻转玄幻故事\""
+                    - generic [ref=f21e566]: "# 阶段 2：规划宏观 10 卷的主线大纲"
+                    - text: uv run python cli.py plan
+                    - generic [ref=f21e567]: "# 阶段 2.5：为第 1 卷生成细分到微观单元的 50 章 Scene Beats"
+                    - text: uv run python cli.py plan --volume 1
+                    - generic [ref=f21e568]: "# 阶段 3：召唤执笔集群实时码字生成第 1 卷 1 到 5 章"
+                    - text: uv run python cli.py write --volume 1 --chapters
+                    - generic [ref=f21e569]: "\"1-5\""
+                    - generic [ref=f21e570]: "# 阶段 4：使用 AI 进行局部审阅与多文件关联修改"
+                    - text: uv run python cli.py review -f
+                    - generic [ref=f21e571]: "\".novel/factions.json\""
+                    - text: "-f"
+                    - generic [ref=f21e572]: "\".novel/power_levels.json\""
+                    - text: "-i"
+                    - generic [ref=f21e573]: "\"将金丹期统一改为结丹期\""
+                  - button "Copy code to clipboard" [ref=f21e575] [cursor=pointer]
+                - generic [ref=f21e579]:
+                  - heading "Batch API 批量写作" [level=4] [ref=f21e580]
+                  - 'link "Permalink: Batch API 批量写作" [ref=f21e581] [cursor=pointer]':
+                    - /url: "#batch-api-批量写作"
+                - generic [ref=f21e584]:
+                  - generic [ref=f21e585]:
+                    - generic [ref=f21e586]: "# 构建 JSONL 请求文件"
+                    - text: uv run python cli.py batch-build --volume 1 --chapters
+                    - generic [ref=f21e587]: "\"1-50\""
+                    - generic [ref=f21e588]: "# 提交异步任务（会返回 Batch ID，请妥善保存）"
+                    - text: uv run python cli.py batch-submit .batch/vol_01_ch_1_50_req.jsonl
+                    - generic [ref=f21e589]: "# 同步合并成稿（轮询状态并自动下载合并）"
+                    - text: uv run python cli.py batch-sync <batch_id>
+                  - button "Copy code to clipboard" [ref=f21e591] [cursor=pointer]
+                - generic [ref=f21e595]:
+                  - heading "V3 插件管理命令" [level=4] [ref=f21e596]
+                  - 'link "Permalink: V3 插件管理命令" [ref=f21e597] [cursor=pointer]':
+                    - /url: "#v3-插件管理命令"
+                - generic [ref=f21e600]:
+                  - generic [ref=f21e601]:
+                    - generic [ref=f21e602]: "# 列出所有插件（包含已加载、已禁用、报错）"
+                    - text: uv run python cli.py skills list
+                    - generic [ref=f21e603]: "# 禁用/启用某个插件"
+                    - text: uv run python cli.py skills disable ext_gold_finger uv run python cli.py skills enable ext_gold_finger
+                    - generic [ref=f21e604]: "# 重载全部插件（修改代码后使之生效）"
+                    - text: uv run python cli.py skills reload
+                    - generic [ref=f21e605]: "# 用自然语言让 AI 自动生成一个插件！"
+                    - text: uv run python cli.py skills build
+                    - generic [ref=f21e606]: "\"帮我写一个Skill，在每次生成前注入一句主角很帅\""
+                  - button "Copy code to clipboard" [ref=f21e608] [cursor=pointer]
+                - separator [ref=f21e612]
+                - generic [ref=f21e613]:
+                  - heading "🔌 V3 插件与外挂生态" [level=2] [ref=f21e614]
+                  - 'link "Permalink: 🔌 V3 插件与外挂生态" [ref=f21e615] [cursor=pointer]':
+                    - /url: "#-v3-插件与外挂生态"
+                - paragraph [ref=f21e618]:
+                  - text: V3 引擎的精髓在于无穷无尽的功能扩展。所有的扩展统称为
+                  - code [ref=f21e619]: Skill
+                  - text: ，必须继承
+                  - code [ref=f21e620]: BaseSkill
+                  - text: 基类。插件会被
+                  - code [ref=f21e621]: PluginManager
+                  - text: 动态接管并拦截底层
+                  - code [ref=f21e622]: EventBus
+                  - text: 各个周期的发信事件。
+                - generic [ref=f21e623]:
+                  - heading "快速上手：手动创建插件" [level=3] [ref=f21e624]
+                  - 'link "Permalink: 快速上手：手动创建插件" [ref=f21e625] [cursor=pointer]':
+                    - /url: "#快速上手手动创建插件"
+                - list [ref=f21e628]:
+                  - listitem [ref=f21e629]:
+                    - text: 在
+                    - code [ref=f21e630]: skills/
+                    - text: 目录下创建文件夹，如
+                    - code [ref=f21e631]: skills/my_awesome_skill/
+                  - listitem [ref=f21e632]:
+                    - text: 在其中创建
+                    - code [ref=f21e633]: skill.py
+                    - text: ：
+                - generic [ref=f21e634]:
+                  - generic [ref=f21e635]:
+                    - text: "from core.base_skill import BaseSkill class MyAwesomeSkill(BaseSkill): def __init__(self, context): super().__init__(context) self.name = \"MyAwesomeSkill\" def on_init(self): print("
+                    - generic [ref=f21e636]:
+                      - text: f"[
+                      - generic [ref=f21e637]: "{self.name}"
+                      - text: "] 插件已初始化！\""
+                    - text: ") def on_before_scene_write(self, prompt_payload, beat_data): # 在每次写作前注入自定义提示 prompt_payload.append("
+                    - generic [ref=f21e638]: "\"\\n[系统注入] 注意：主角的表现需要冷酷且理智。\""
+                    - text: ) return prompt_payload
+                  - button "Copy code to clipboard" [ref=f21e640] [cursor=pointer]
+                - list [ref=f21e644]:
+                  - listitem [ref=f21e645]:
+                    - text: 保存后执行
+                    - code [ref=f21e646]: uv run python cli.py skills reload
+                - generic [ref=f21e647]:
+                  - heading "生命周期钩子一览" [level=3] [ref=f21e648]
+                  - 'link "Permalink: 生命周期钩子一览" [ref=f21e649] [cursor=pointer]':
+                    - /url: "#生命周期钩子一览"
+                - table [ref=f21e653]:
+                  - rowgroup [ref=f21e654]:
+                    - row [ref=f21e655]:
+                      - columnheader "钩子方法" [ref=f21e656]
+                      - columnheader "触发时机" [ref=f21e657]
+                      - columnheader "用途" [ref=f21e658]
+                  - rowgroup [ref=f21e659]:
+                    - row [ref=f21e660]:
+                      - cell [ref=f21e661]:
+                        - code [ref=f21e662]: on_init()
+                      - cell "插件加载后" [ref=f21e663]
+                      - cell "初始化资源" [ref=f21e664]
+                    - row [ref=f21e665]:
+                      - cell [ref=f21e666]:
+                        - code [ref=f21e667]: on_volume_planning()
+                      - cell "分卷规划时" [ref=f21e668]
+                      - cell "干预/修改大纲" [ref=f21e669]
+                    - row [ref=f21e670]:
+                      - cell [ref=f21e671]:
+                        - code [ref=f21e672]: on_before_scene_write()
+                      - cell "写作生成前" [ref=f21e673]
+                      - cell "注入记忆/设定" [ref=f21e674]
+                    - row [ref=f21e675]:
+                      - cell [ref=f21e676]:
+                        - code [ref=f21e677]: on_after_scene_write()
+                      - cell "写作生成后" [ref=f21e678]
+                      - cell "统计/入库" [ref=f21e679]
+                    - row [ref=f21e680]:
+                      - cell [ref=f21e681]:
+                        - code [ref=f21e682]: on_chapter_render()
+                      - cell "章节终渲染时" [ref=f21e683]
+                      - cell "替换占位符" [ref=f21e684]
+                    - row [ref=f21e685]:
+                      - cell [ref=f21e686]:
+                        - code [ref=f21e687]: get_llm_tools()
+                      - cell "LLM 调用时" [ref=f21e688]
+                      - cell "注册工具" [ref=f21e689]
+                - generic [ref=f21e690]:
+                  - heading "主动工具调用 (Active Tool Calling)" [level=3] [ref=f21e691]
+                  - 'link "Permalink: 主动工具调用 (Active Tool Calling)" [ref=f21e692] [cursor=pointer]':
+                    - /url: "#主动工具调用-active-tool-calling"
+                - paragraph [ref=f21e695]:
+                  - text: V3 插件不仅可以被动注入上下文，还可以为 AI 提供
+                  - strong [ref=f21e696]: 主动操作
+                  - text: 的工具箱。继承
+                  - code [ref=f21e697]: BaseSkill
+                  - text: 后，可以覆写：
+                - list [ref=f21e698]:
+                  - listitem [ref=f21e699]:
+                    - code [ref=f21e700]: get_llm_tools()
+                    - text: ": 返回 OpenAI 格式的 JSON Schema 工具定义。"
+                  - listitem [ref=f21e701]:
+                    - code [ref=f21e702]: execute_tool(tool_name, kwargs)
+                    - text: ": 处理 AI 的调用逻辑并返回字符串结果。"
+                - paragraph [ref=f21e703]:
+                  - strong [ref=f21e704]: 示例：Gold Finger (金手指系统面板)
+                  - text: 在
+                  - code [ref=f21e705]: skills/ext_gold_finger/
+                  - text: 中，我们实现了一个典型的"主角面板"插件：
+                - list [ref=f21e706]:
+                  - listitem [ref=f21e707]:
+                    - strong [ref=f21e708]: 被动
+                    - text: ：每章开始前将主角的等级、金钱、技能熟练度注入 Prompt。
+                  - listitem [ref=f21e709]:
+                    - strong [ref=f21e710]: 主动
+                    - text: ：提供
+                    - code [ref=f21e711]: simplify_skill
+                    - text: 工具，AI 可以在剧情中决定花费"碎银"来"简化"功法。
+                - generic [ref=f21e712]:
+                  - heading "插件开关机制" [level=3] [ref=f21e713]
+                  - 'link "Permalink: 插件开关机制" [ref=f21e714] [cursor=pointer]':
+                    - /url: "#插件开关机制"
+                - paragraph [ref=f21e717]:
+                  - text: 系统通过在插件文件夹下生成
+                  - code [ref=f21e718]: .disabled
+                  - text: 标记文件来实现开关逻辑，通过 CLI
+                  - code [ref=f21e719]: skills enable/disable
+                  - text: 切换。
+                - generic [ref=f21e720]:
+                  - heading "自动创建插件 (Meta-Generation)" [level=3] [ref=f21e721]
+                  - 'link "Permalink: 自动创建插件 (Meta-Generation)" [ref=f21e722] [cursor=pointer]':
+                    - /url: "#自动创建插件-meta-generation"
+                - paragraph [ref=f21e725]: 运行以下命令让大模型自动生成插件代码：
+                - generic [ref=f21e726]:
+                  - generic [ref=f21e727]:
+                    - text: uv run python cli.py skills build
+                    - generic [ref=f21e728]: "\"帮我写一个检测战斗描写合理性的插件\""
+                  - button "Copy code to clipboard" [ref=f21e730] [cursor=pointer]
+                - paragraph [ref=f21e734]:
+                  - text: 系统会自动调用大模型，按照开发规范生成合法代码，落盘到
+                  - code [ref=f21e735]: skills/
+                  - text: 目录并热重载生效。
+                - separator [ref=f21e736]
+                - generic [ref=f21e737]:
+                  - heading "📂 目录结构说明" [level=2] [ref=f21e738]
+                  - 'link "Permalink: 📂 目录结构说明" [ref=f21e739] [cursor=pointer]':
+                    - /url: "#-目录结构说明"
+                - table [ref=f21e743]:
+                  - rowgroup [ref=f21e744]:
+                    - row [ref=f21e745]:
+                      - columnheader "目录/文件" [ref=f21e746]
+                      - columnheader "说明" [ref=f21e747]
+                  - rowgroup [ref=f21e748]:
+                    - row [ref=f21e749]:
+                      - cell [ref=f21e750]:
+                        - code [ref=f21e751]: cli.py
+                      - cell "CLI 终端入口，所有命令的入口" [ref=f21e752]
+                    - row [ref=f21e753]:
+                      - cell [ref=f21e754]:
+                        - code [ref=f21e755]: world_builder.py
+                      - cell "世界观初始化引擎" [ref=f21e756]
+                    - row [ref=f21e757]:
+                      - cell [ref=f21e758]:
+                        - code [ref=f21e759]: volume_planner.py
+                      - cell "分卷大纲规划引擎" [ref=f21e760]
+                    - row [ref=f21e761]:
+                      - cell [ref=f21e762]:
+                        - code [ref=f21e763]: scene_writer.py
+                      - cell "场景写作与合并引擎" [ref=f21e764]
+                    - row [ref=f21e765]:
+                      - cell [ref=f21e766]:
+                        - code [ref=f21e767]: core/
+                      - cell "微内核核心模块" [ref=f21e768]
+                    - row [ref=f21e769]:
+                      - cell [ref=f21e770]:
+                        - code [ref=f21e771]: core/agents/
+                      - cell "智能体实现" [ref=f21e772]
+                    - row [ref=f21e773]:
+                      - cell [ref=f21e774]:
+                        - code [ref=f21e775]: skills/
+                      - cell "插件目录，放入即生效" [ref=f21e776]
+                    - row [ref=f21e777]:
+                      - cell [ref=f21e778]:
+                        - code [ref=f21e779]: utils/
+                      - cell "工具模块（LLM客户端、配置等）" [ref=f21e780]
+                    - row [ref=f21e781]:
+                      - cell [ref=f21e782]:
+                        - code [ref=f21e783]: docs/CLI_COMMANDS.md
+                      - cell "完整 CLI 命令文档" [ref=f21e784]
+                - separator [ref=f21e785]
+                - generic [ref=f21e786]:
+                  - heading "📜 内置插件" [level=2] [ref=f21e787]
+                  - 'link "Permalink: 📜 内置插件" [ref=f21e788] [cursor=pointer]':
+                    - /url: "#-内置插件"
+                - table [ref=f21e792]:
+                  - rowgroup [ref=f21e793]:
+                    - row [ref=f21e794]:
+                      - columnheader "插件" [ref=f21e795]
+                      - columnheader "说明" [ref=f21e796]
+                  - rowgroup [ref=f21e797]:
+                    - row [ref=f21e798]:
+                      - cell [ref=f21e799]:
+                        - code [ref=f21e800]: ext_gold_finger
+                      - cell "金手指插件" [ref=f21e801]
+                    - row [ref=f21e802]:
+                      - cell [ref=f21e803]:
+                        - code [ref=f21e804]: ext_world_highlight_system
+                      - cell "世界高亮系统" [ref=f21e805]
+                    - row [ref=f21e806]:
+                      - cell [ref=f21e807]:
+                        - code [ref=f21e808]: ext_handsome_protagonist
+                      - cell "主角光环插件" [ref=f21e809]
+                    - row [ref=f21e810]:
+                      - cell [ref=f21e811]:
+                        - code [ref=f21e812]: core_memory_rag
+                      - cell "核心记忆 RAG 系统" [ref=f21e813]
+        - generic [ref=f21e817]:
+          - generic [ref=f21e820]:
+            - heading "About" [level=2] [ref=f21e821]
+            - paragraph [ref=f21e822]: 🚀 工业级 AI 长篇网文生成框架 | An industrial-grade AI web novel generation framework based on a microkernel and plugin architecture, featuring context isolation, RAG memory, and MCP-inspired skills for writing million-word stories.
+            - heading "Topics" [level=3] [ref=f21e823]
+            - generic [ref=f21e825]:
+              - link "agent" [ref=f21e826] [cursor=pointer]:
+                - /url: /topics/agent
+              - link "ai" [ref=f21e827] [cursor=pointer]:
+                - /url: /topics/ai
+              - link "mcp" [ref=f21e828] [cursor=pointer]:
+                - /url: /topics/mcp
+              - link "web-novel" [ref=f21e829] [cursor=pointer]:
+                - /url: /topics/web-novel
+              - link "story-generation" [ref=f21e830] [cursor=pointer]:
+                - /url: /topics/story-generation
+              - link "rag" [ref=f21e831] [cursor=pointer]:
+                - /url: /topics/rag
+              - link "llm" [ref=f21e832] [cursor=pointer]:
+                - /url: /topics/llm
+              - link "ai-writer" [ref=f21e833] [cursor=pointer]:
+                - /url: /topics/ai-writer
+            - heading "Resources" [level=3] [ref=f21e834]
+            - link "Readme" [ref=f21e836] [cursor=pointer]:
+              - /url: "#readme-ov-file"
+            - heading "License" [level=3] [ref=f21e839]
+            - link "GPL-3.0 license" [ref=f21e841] [cursor=pointer]:
+              - /url: "#GPL-3.0-1-ov-file"
+            - link "Activity" [ref=f21e845] [cursor=pointer]:
+              - /url: /wzxsph/Novel-Claude/activity
+            - heading "Stars" [level=3] [ref=f21e848]
+            - generic [ref=f21e850]:
+              - strong [ref=f21e853]: "11"
+              - text: stars
+            - heading "Watchers" [level=3] [ref=f21e854]
+            - generic [ref=f21e856]:
+              - strong [ref=f21e859]: "0"
+              - text: watching
+            - heading "Forks" [level=3] [ref=f21e860]
+            - link [ref=f21e862] [cursor=pointer]:
+              - /url: /wzxsph/Novel-Claude/forks
+              - strong [ref=f21e865]: "1"
+              - text: fork
+            - link "Report repository" [ref=f21e867] [cursor=pointer]:
+              - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fwzxsph%2FNovel-Claude&report=wzxsph+%28user%29
+          - generic "Loading contributors" [ref=f21e870]:
+            - generic:
+              - heading [level=2] [ref=f21e871]:
+                - link "Contributors" [ref=f21e872] [cursor=pointer]:
+                  - /url: /wzxsph/Novel-Claude/graphs/contributors
+              - list [ref=f21e873]:
+                - listitem [ref=f21e874]
+                - listitem [ref=f21e876]
+                - listitem [ref=f21e878]
+          - generic [ref=f21e881]:
+            - heading "Languages" [level=2] [ref=f21e882]
+            - list [ref=f21e886]:
+              - listitem [ref=f21e887]:
+                - link "Python 100.0%" [ref=f21e888] [cursor=pointer]:
+                  - /url: /wzxsph/Novel-Claude/search?l=python
+                  - generic [ref=f21e891]: Python
+                  - generic [ref=f21e892]: 100.0%
+  - contentinfo [ref=f21e894]:
+    - heading "Footer" [level=2] [ref=f21e895]
+    - generic [ref=f21e896]:
+      - generic [ref=f21e897]:
+        - link "GitHub Homepage" [ref=f21e898] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=f21e901]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f21e902]:
+        - heading "Footer navigation" [level=3] [ref=f21e903]
+        - list "Footer navigation" [ref=f21e904]:
+          - listitem [ref=f21e905]:
+            - link "Terms" [ref=f21e906] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f21e907]:
+            - link "Privacy" [ref=f21e908] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f21e909]:
+            - link "Security" [ref=f21e910] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f21e911]:
+            - link "Status" [ref=f21e912] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f21e913]:
+            - link "Community" [ref=f21e914] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f21e915]:
+            - link "Docs" [ref=f21e916] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f21e917]:
+            - link "Contact" [ref=f21e918] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f21e919]:
+            - button "Manage cookies" [ref=f21e921] [cursor=pointer]
+          - listitem [ref=f21e922]:
+            - button "Do not share my personal information" [ref=f21e924] [cursor=pointer]

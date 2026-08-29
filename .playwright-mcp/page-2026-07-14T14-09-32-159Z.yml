@@ -1,0 +1,1183 @@
+- generic [ref=f16e2]:
+  - generic [ref=f16e3]:
+    - link "Skip to content" [ref=f16e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=f16e6]:
+      - heading "Navigation Menu" [level=2] [ref=f16e7]
+      - generic [ref=f16e8]:
+        - link "Homepage" [ref=f16e10] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f16e13]:
+          - navigation "Global" [ref=f16e16]:
+            - list [ref=f16e17]:
+              - listitem [ref=f16e18]:
+                - button "Platform" [ref=f16e20] [cursor=pointer]
+              - listitem [ref=f16e23]:
+                - button "Solutions" [ref=f16e25] [cursor=pointer]
+              - listitem [ref=f16e28]:
+                - button "Resources" [ref=f16e30] [cursor=pointer]
+              - listitem [ref=f16e33]:
+                - button "Open Source" [ref=f16e35] [cursor=pointer]
+              - listitem [ref=f16e38]:
+                - button "Enterprise" [ref=f16e40] [cursor=pointer]
+              - listitem [ref=f16e43]:
+                - link "Pricing" [ref=f16e44] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=f16e46]:
+            - button "Search or jump to…" [ref=f16e49] [cursor=pointer]
+            - link "Sign in" [ref=f16e54] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FXINGANLIU%2Fweb-novel-writing-skill
+            - link "Sign up" [ref=f16e55] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=XINGANLIU%2Fweb-novel-writing-skill
+            - button "Appearance settings" [ref=f16e58] [cursor=pointer]
+  - main [ref=f16e62]:
+    - generic [ref=f16e63]:
+      - generic [ref=f16e64]:
+        - generic [ref=f16e66]:
+          - link "XINGANLIU" [ref=f16e70] [cursor=pointer]:
+            - /url: /XINGANLIU
+          - generic [ref=f16e71]: /
+          - strong [ref=f16e72]:
+            - link "web-novel-writing-skill" [ref=f16e73] [cursor=pointer]:
+              - /url: /XINGANLIU/web-novel-writing-skill
+          - generic [ref=f16e74]: Public
+        - generic [ref=f16e75]:
+          - list:
+            - listitem [ref=f16e76]:
+              - link "You must be signed in to change notification settings" [ref=f16e77] [cursor=pointer]:
+                - /url: /login?return_to=%2FXINGANLIU%2Fweb-novel-writing-skill
+                - text: Notifications
+            - listitem [ref=f16e80]:
+              - link "Fork 0" [ref=f16e81] [cursor=pointer]:
+                - /url: /login?return_to=%2FXINGANLIU%2Fweb-novel-writing-skill
+                - text: Fork
+                - generic "0" [ref=f16e84]
+            - listitem [ref=f16e85]:
+              - link "You must be signed in to star a repository" [ref=f16e87] [cursor=pointer]:
+                - /url: /login?return_to=%2FXINGANLIU%2Fweb-novel-writing-skill
+                - text: Star
+                - generic "2 users starred this repository" [ref=f16e90]: "2"
+      - navigation "Repository" [ref=f16e91]:
+        - list [ref=f16e92]:
+          - listitem [ref=f16e93]:
+            - link "Code" [ref=f16e94] [cursor=pointer]:
+              - /url: /XINGANLIU/web-novel-writing-skill
+          - listitem [ref=f16e98]:
+            - link "Issues" [ref=f16e99] [cursor=pointer]:
+              - /url: /XINGANLIU/web-novel-writing-skill/issues
+          - listitem [ref=f16e104]:
+            - link "Pull requests" [ref=f16e105] [cursor=pointer]:
+              - /url: /XINGANLIU/web-novel-writing-skill/pulls
+          - listitem [ref=f16e109]:
+            - link "Actions" [ref=f16e110] [cursor=pointer]:
+              - /url: /XINGANLIU/web-novel-writing-skill/actions
+          - listitem [ref=f16e114]:
+            - link "Projects" [ref=f16e115] [cursor=pointer]:
+              - /url: /XINGANLIU/web-novel-writing-skill/projects
+          - listitem [ref=f16e119]:
+            - link "Security and quality" [ref=f16e120] [cursor=pointer]:
+              - /url: /XINGANLIU/web-novel-writing-skill/security
+          - listitem [ref=f16e124]:
+            - link "Insights" [ref=f16e125] [cursor=pointer]:
+              - /url: /XINGANLIU/web-novel-writing-skill/pulse
+    - generic [ref=f16e141]:
+      - heading "XINGANLIU/web-novel-writing-skill" [level=1] [ref=f16e143]
+      - generic [ref=f16e144]:
+        - generic [ref=f16e147]:
+          - generic [ref=f16e148]:
+            - generic [ref=f16e149]:
+              - button "main branch" [ref=f16e151] [cursor=pointer]:
+                - generic [ref=f16e152]: main
+              - generic [ref=f16e160]:
+                - link "Go to Branches page" [ref=f16e161] [cursor=pointer]:
+                  - /url: /XINGANLIU/web-novel-writing-skill/branches
+                - link "Go to Tags page" [ref=f16e164] [cursor=pointer]:
+                  - /url: /XINGANLIU/web-novel-writing-skill/tags
+            - generic [ref=f16e167]:
+              - combobox "Go to file" [ref=f16e175]
+              - button "Code" [ref=f16e176] [cursor=pointer]
+          - generic [ref=f16e179]:
+            - generic [ref=f16e180]:
+              - heading "Folders and files" [level=2] [ref=f16e181]
+              - table "Folders and files" [ref=f16e182]:
+                - rowgroup:
+                  - row "Name Last commit message Last commit date":
+                    - columnheader "Name"
+                    - columnheader "Last commit message"
+                    - columnheader "Last commit date"
+                - rowgroup [ref=f16e183]:
+                  - row [ref=f16e184]:
+                    - 'cell "Latest commit XINGANLIU commits by XINGANLIU Major normalization: fix paths, unify personality model, add resume p… Open commit details Commit 308ae72 · Jun 11, 2026last month History 3 Commits" [ref=f16e185]':
+                      - generic [ref=f16e186]:
+                        - heading "Latest commit" [level=2] [ref=f16e187]
+                        - generic [ref=f16e188]:
+                          - generic [ref=f16e190]:
+                            - link [ref=f16e191] [cursor=pointer]:
+                              - /url: /XINGANLIU
+                              - img "XINGANLIU" [ref=f16e192]
+                            - link "commits by XINGANLIU" [ref=f16e193] [cursor=pointer]:
+                              - /url: /XINGANLIU/web-novel-writing-skill/commits?author=XINGANLIU
+                              - text: XINGANLIU
+                          - generic [ref=f16e194]:
+                            - 'link "Major normalization: fix paths, unify personality model, add resume p…" [ref=f16e197] [cursor=pointer]':
+                              - /url: /XINGANLIU/web-novel-writing-skill/commit/308ae728abf1c5526cfc533cde47904ff1f63584
+                            - button "Open commit details" [ref=f16e198] [cursor=pointer]
+                        - generic [ref=f16e201]:
+                          - generic [ref=f16e203]:
+                            - link "Commit 308ae72" [ref=f16e204] [cursor=pointer]:
+                              - /url: /XINGANLIU/web-novel-writing-skill/commit/308ae728abf1c5526cfc533cde47904ff1f63584
+                              - text: 308ae72
+                            - text: ·
+                            - generic "Jun 11, 2026, 22:47 GMT+8" [ref=f16e205]: Jun 11, 2026last month
+                          - generic [ref=f16e206]:
+                            - heading "History" [level=2] [ref=f16e207]
+                            - link "3 Commits" [ref=f16e208] [cursor=pointer]:
+                              - /url: /XINGANLIU/web-novel-writing-skill/commits/main/
+                  - row [ref=f16e211]:
+                    - cell [ref=f16e212]:
+                      - link ".cursor/rules, (Directory)" [ref=f16e219] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/tree/main/.cursor/rules
+                        - text: .cursor/rules
+                    - cell [ref=f16e220]:
+                      - 'link "Initial commit: Release NovelForge AI Web Novel Writing Skill" [ref=f16e223] [cursor=pointer]':
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/5b99d5dbd1115c0be59c43f50d7ad5fedafc9c09
+                    - cell "Jun 5, 2026last month" [ref=f16e224]
+                  - row [ref=f16e226]:
+                    - cell [ref=f16e227]:
+                      - link "assets, (Directory)" [ref=f16e234] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/tree/main/assets
+                        - text: assets
+                    - cell [ref=f16e235]:
+                      - link "Rename project to web-novel-writing-skill and update README layout" [ref=f16e238] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/73920a45ad51bc0399553b87132657b55bd3f65c
+                    - cell "Jun 5, 2026last month" [ref=f16e239]
+                  - row [ref=f16e241]:
+                    - cell [ref=f16e242]:
+                      - link "references, (Directory)" [ref=f16e249] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/tree/main/references
+                        - text: references
+                    - cell [ref=f16e250]:
+                      - 'link "Major normalization: fix paths, unify personality model, add resume p…" [ref=f16e253] [cursor=pointer]':
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/308ae728abf1c5526cfc533cde47904ff1f63584
+                    - cell "Jun 11, 2026last month" [ref=f16e254]
+                  - row [ref=f16e256]:
+                    - cell [ref=f16e257]:
+                      - link "skills, (Directory)" [ref=f16e264] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/tree/main/skills
+                        - text: skills
+                    - cell [ref=f16e265]:
+                      - 'link "Major normalization: fix paths, unify personality model, add resume p…" [ref=f16e268] [cursor=pointer]':
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/308ae728abf1c5526cfc533cde47904ff1f63584
+                    - cell "Jun 11, 2026last month" [ref=f16e269]
+                  - row [ref=f16e271]:
+                    - cell [ref=f16e272]:
+                      - link ".cursorrules, (File)" [ref=f16e279] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/blob/main/.cursorrules
+                        - text: .cursorrules
+                    - cell [ref=f16e280]:
+                      - 'link "Initial commit: Release NovelForge AI Web Novel Writing Skill" [ref=f16e283] [cursor=pointer]':
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/5b99d5dbd1115c0be59c43f50d7ad5fedafc9c09
+                    - cell "Jun 5, 2026last month" [ref=f16e284]
+                  - row [ref=f16e286]:
+                    - cell [ref=f16e287]:
+                      - link "AGENTS.md, (File)" [ref=f16e294] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/blob/main/AGENTS.md
+                        - text: AGENTS.md
+                    - cell [ref=f16e295]:
+                      - 'link "Initial commit: Release NovelForge AI Web Novel Writing Skill" [ref=f16e298] [cursor=pointer]':
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/5b99d5dbd1115c0be59c43f50d7ad5fedafc9c09
+                    - cell "Jun 5, 2026last month" [ref=f16e299]
+                  - row [ref=f16e301]:
+                    - cell [ref=f16e302]:
+                      - link "CLAUDE.md, (File)" [ref=f16e309] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/blob/main/CLAUDE.md
+                        - text: CLAUDE.md
+                    - cell [ref=f16e310]:
+                      - 'link "Initial commit: Release NovelForge AI Web Novel Writing Skill" [ref=f16e313] [cursor=pointer]':
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/5b99d5dbd1115c0be59c43f50d7ad5fedafc9c09
+                    - cell "Jun 5, 2026last month" [ref=f16e314]
+                  - row [ref=f16e316]:
+                    - cell [ref=f16e317]:
+                      - link "CONTRIBUTING.md, (File)" [ref=f16e324] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/blob/main/CONTRIBUTING.md
+                        - text: CONTRIBUTING.md
+                    - cell [ref=f16e325]:
+                      - 'link "Initial commit: Release NovelForge AI Web Novel Writing Skill" [ref=f16e328] [cursor=pointer]':
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/5b99d5dbd1115c0be59c43f50d7ad5fedafc9c09
+                    - cell "Jun 5, 2026last month" [ref=f16e329]
+                  - row [ref=f16e331]:
+                    - cell [ref=f16e332]:
+                      - link "LICENSE, (File)" [ref=f16e339] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/blob/main/LICENSE
+                        - text: LICENSE
+                    - cell [ref=f16e340]:
+                      - 'link "Initial commit: Release NovelForge AI Web Novel Writing Skill" [ref=f16e343] [cursor=pointer]':
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/5b99d5dbd1115c0be59c43f50d7ad5fedafc9c09
+                    - cell "Jun 5, 2026last month" [ref=f16e344]
+                  - row [ref=f16e346]:
+                    - cell [ref=f16e347]:
+                      - link "README.md, (File)" [ref=f16e354] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/blob/main/README.md
+                        - text: README.md
+                    - cell [ref=f16e355]:
+                      - 'link "Major normalization: fix paths, unify personality model, add resume p…" [ref=f16e358] [cursor=pointer]':
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/308ae728abf1c5526cfc533cde47904ff1f63584
+                    - cell "Jun 11, 2026last month" [ref=f16e359]
+                  - row [ref=f16e361]:
+                    - cell [ref=f16e362]:
+                      - link "plugin.json, (File)" [ref=f16e369] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/blob/main/plugin.json
+                        - text: plugin.json
+                    - cell [ref=f16e370]:
+                      - link "Rename project to web-novel-writing-skill and update README layout" [ref=f16e373] [cursor=pointer]:
+                        - /url: /XINGANLIU/web-novel-writing-skill/commit/73920a45ad51bc0399553b87132657b55bd3f65c
+                    - cell "Jun 5, 2026last month" [ref=f16e374]
+            - generic [ref=f16e377]:
+              - generic [ref=f16e378]:
+                - heading "Repository files navigation" [level=2] [ref=f16e379]
+                - navigation "Repository files" [ref=f16e380]:
+                  - list [ref=f16e381]:
+                    - listitem [ref=f16e382]:
+                      - link "README" [ref=f16e383] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=f16e388]:
+                      - link "Contributing" [ref=f16e389] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=f16e394]:
+                      - link "MIT license" [ref=f16e395] [cursor=pointer]:
+                        - /url: "#"
+                - button "Outline" [ref=f16e400] [cursor=pointer]
+              - article [ref=f16e404]:
+                - paragraph [ref=f16e405]:
+                  - link [ref=f16e406] [cursor=pointer]:
+                    - /url: /XINGANLIU/web-novel-writing-skill/blob/main/assets/banner.svg
+                    - img "Web Novel Writing Skill Banner" [ref=f16e407]
+                - generic [ref=f16e408]:
+                  - heading "📖 Web Novel Writing Skill" [level=1] [ref=f16e409]
+                  - 'link "Permalink: 📖 Web Novel Writing Skill" [ref=f16e410] [cursor=pointer]':
+                    - /url: "#-web-novel-writing-skill"
+                - paragraph [ref=f16e413]:
+                  - strong [ref=f16e414]: AI 驱动的中文网络小说创作技能框架
+                  - strong [ref=f16e415]: AI-Powered Chinese Web Novel Writing Skill
+                - paragraph [ref=f16e416]:
+                  - link "🇺🇸 English" [ref=f16e417] [cursor=pointer]:
+                    - /url: "#english-documentation"
+                  - text: "|"
+                  - link "🇨🇳 简体中文" [ref=f16e418] [cursor=pointer]:
+                    - /url: "#中文文档"
+                - paragraph [ref=f16e419]:
+                  - link [ref=f16e420] [cursor=pointer]:
+                    - /url: "#-快速开始"
+                    - img "Quick Start" [ref=f16e421]
+                  - link [ref=f16e422] [cursor=pointer]:
+                    - /url: "#-工作流概览"
+                    - img "Features" [ref=f16e423]
+                  - link [ref=f16e424] [cursor=pointer]:
+                    - /url: "#-部署到ai助手"
+                    - img "Deployment" [ref=f16e425]
+                - paragraph [ref=f16e426]:
+                  - link [ref=f16e427] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/7013272bd27ece47364536a221edb554cd69683b68a46fc0ee96881174c4214c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667
+                    - img "License" [ref=f16e428]
+                  - link [ref=f16e429] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/dd0b24c1e6776719edb2c273548a510d6490d8d25269a043dfabbd38419905da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667
+                    - img "PRs Welcome" [ref=f16e430]
+                  - link [ref=f16e431] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/1469b87acfcf3ee21473ab1d0e637375d39e6f8b58ceb8624881885bfa99bddb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c617564655f436f64652d737570706f727465642d6f72616e67653f6c6f676f3d616e7468726f706963
+                    - img "Claude Code" [ref=f16e432]
+                  - link [ref=f16e433] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/248a405fab805bd861eb2190fc5a3b0e475918bcf71e2714bf146f8c4ee61266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f437572736f722d737570706f727465642d626c75653f6c6f676f3d637572736f72
+                    - img "Cursor" [ref=f16e434]
+                  - link [ref=f16e435] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/2cb7163a7db32f02eff110847fcf09e79d11f23b5097568b2aa3a8256cc2866a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465782d737570706f727465642d677265656e3f6c6f676f3d6f70656e6169
+                    - img "Codex" [ref=f16e436]
+                  - link [ref=f16e437] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/322893f39d80f5bd6647260be7f93ce1b68a077ee3a18d32d76799bd32c966d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47656d696e692d737570706f727465642d707572706c653f6c6f676f3d676f6f676c65
+                    - img "Gemini" [ref=f16e438]
+                - separator [ref=f16e439]
+                - generic [ref=f16e440]:
+                  - heading "🇨🇳 中文文档" [level=1] [ref=f16e441]
+                  - 'link "Permalink: 🇨🇳 中文文档" [ref=f16e442] [cursor=pointer]':
+                    - /url: "#-中文文档"
+                - blockquote [ref=f16e445]:
+                  - paragraph [ref=f16e446]:
+                    - strong [ref=f16e447]: 将你的 AI 编程助手变成专业的中文网络小说写作搭档
+                  - paragraph [ref=f16e448]:
+                    - strong [ref=f16e449]: Web Novel Writing Skill
+                    - text: 不是一个简单的提示词（Prompt），而是一套完整的
+                    - strong [ref=f16e450]: AI 辅助长篇网络小说创作技能框架
+                    - text: 。它通过
+                    - strong [ref=f16e451]: 10 阶段流水线
+                    - text: 、
+                    - strong [ref=f16e452]: 7 种专家角色
+                    - text: 、
+                    - strong [ref=f16e453]: 4 层防幻觉机制
+                    - text: 和
+                    - strong [ref=f16e454]: 题材专属模板
+                    - text: ，将任何 AI 编程助手变成你的网文创作搭档。
+                - generic [ref=f16e455]:
+                  - heading "📖 项目简介" [level=2] [ref=f16e456]
+                  - 'link "Permalink: 📖 项目简介" [ref=f16e457] [cursor=pointer]':
+                    - /url: "#-项目简介"
+                - generic [ref=f16e460]:
+                  - heading "核心解决的问题" [level=3] [ref=f16e461]
+                  - 'link "Permalink: 核心解决的问题" [ref=f16e462] [cursor=pointer]':
+                    - /url: "#核心解决的问题"
+                - table [ref=f16e466]:
+                  - rowgroup [ref=f16e467]:
+                    - row [ref=f16e468]:
+                      - columnheader "痛点" [ref=f16e469]
+                      - columnheader "解决方案" [ref=f16e470]
+                  - rowgroup [ref=f16e471]:
+                    - row [ref=f16e472]:
+                      - cell "AI 写着写着忘了前面的剧情" [ref=f16e473]
+                      - cell "4 层记忆系统 + \"章节提交\" 机制" [ref=f16e474]
+                    - row [ref=f16e475]:
+                      - cell "人物性格前后不一致" [ref=f16e476]
+                      - cell "五维性格 DNA + 行为红线机制" [ref=f16e477]
+                    - row [ref=f16e478]:
+                      - cell "AI 写出来的文字一股\"AI味\"" [ref=f16e479]
+                      - cell "全面的反 AI 痕迹规则库" [ref=f16e480]
+                    - row [ref=f16e481]:
+                      - cell "后期节奏越写越乱" [ref=f16e482]
+                      - cell "3:1 节奏法则 + 情绪曲线设计" [ref=f16e483]
+                    - row [ref=f16e484]:
+                      - cell "剧情逻辑 Bug 频出" [ref=f16e485]
+                      - cell "每章 8 维度质量审查" [ref=f16e486]
+                    - row [ref=f16e487]:
+                      - cell "伏笔埋了就忘" [ref=f16e488]
+                      - cell "专属伏笔追踪器 + 超期提醒" [ref=f16e489]
+                    - row [ref=f16e490]:
+                      - cell "开篇留不住读者" [ref=f16e491]
+                      - cell "黄金三章策略" [ref=f16e492]
+                    - row [ref=f16e493]:
+                      - cell "不同题材缺乏针对性" [ref=f16e494]
+                      - cell "玄幻/都市/言情/科幻 专属指南" [ref=f16e495]
+                - separator [ref=f16e496]
+                - generic [ref=f16e497]:
+                  - heading "🚀 快速开始" [level=2] [ref=f16e498]
+                  - 'link "Permalink: 🚀 快速开始" [ref=f16e499] [cursor=pointer]':
+                    - /url: "#-快速开始"
+                - generic [ref=f16e502]:
+                  - heading "第一步：克隆仓库" [level=3] [ref=f16e503]
+                  - 'link "Permalink: 第一步：克隆仓库" [ref=f16e504] [cursor=pointer]':
+                    - /url: "#第一步克隆仓库"
+                - generic [ref=f16e507]:
+                  - generic [ref=f16e508]: git clone https://github.com/XINGANLIU/web-novel-writing-skill.git
+                  - button "Copy code to clipboard" [ref=f16e510] [cursor=pointer]
+                - generic [ref=f16e514]:
+                  - heading "第二步：部署到你的 AI 助手" [level=3] [ref=f16e515]
+                  - 'link "Permalink: 第二步：部署到你的 AI 助手" [ref=f16e516] [cursor=pointer]':
+                    - /url: "#第二步部署到你的-ai-助手"
+                - generic [ref=f16e519]:
+                  - heading "Claude Code 部署" [level=4] [ref=f16e520]
+                  - 'link "Permalink: Claude Code 部署" [ref=f16e521] [cursor=pointer]':
+                    - /url: "#claude-code-部署"
+                - generic [ref=f16e524]:
+                  - generic [ref=f16e525]: cd 你的小说项目目录 git clone https://github.com/XINGANLIU/web-novel-writing-skill.git .novelforge cp .novelforge/CLAUDE.md ./CLAUDE.md
+                  - button "Copy code to clipboard" [ref=f16e527] [cursor=pointer]
+                - generic [ref=f16e531]:
+                  - heading "Cursor 部署" [level=4] [ref=f16e532]
+                  - 'link "Permalink: Cursor 部署" [ref=f16e533] [cursor=pointer]':
+                    - /url: "#cursor-部署"
+                - generic [ref=f16e536]:
+                  - generic [ref=f16e537]: cd 你的小说项目目录 git clone https://github.com/XINGANLIU/web-novel-writing-skill.git .novelforge cp .novelforge/.cursorrules ./.cursorrules
+                  - button "Copy code to clipboard" [ref=f16e539] [cursor=pointer]
+                - generic [ref=f16e543]:
+                  - heading "Codex CLI 部署" [level=4] [ref=f16e544]
+                  - 'link "Permalink: Codex CLI 部署" [ref=f16e545] [cursor=pointer]':
+                    - /url: "#codex-cli-部署"
+                - generic [ref=f16e548]:
+                  - generic [ref=f16e549]: cd 你的小说项目目录 git clone https://github.com/XINGANLIU/web-novel-writing-skill.git .novelforge cp .novelforge/AGENTS.md ./AGENTS.md
+                  - button "Copy code to clipboard" [ref=f16e551] [cursor=pointer]
+                - generic [ref=f16e555]:
+                  - heading "Gemini Code Assist 部署" [level=4] [ref=f16e556]
+                  - 'link "Permalink: Gemini Code Assist 部署" [ref=f16e557] [cursor=pointer]':
+                    - /url: "#gemini-code-assist-部署"
+                - generic [ref=f16e560]:
+                  - generic [ref=f16e561]: cp -r web-novel-writing-skill ~/.gemini/config/plugins/web-novel-writing-skill-plugin
+                  - button "Copy code to clipboard" [ref=f16e563] [cursor=pointer]
+                - generic [ref=f16e567]:
+                  - heading "第三步：开始创作！" [level=3] [ref=f16e568]
+                  - 'link "Permalink: 第三步：开始创作！" [ref=f16e569] [cursor=pointer]':
+                    - /url: "#第三步开始创作"
+                - paragraph [ref=f16e572]: 在 AI 助手中输入：
+                - generic [ref=f16e573]:
+                  - code [ref=f16e575]: /novel-new 我想写一本赛博朋克修仙小说，主角是一个在虚拟世界中觉醒了真气的程序员
+                  - button "Copy code to clipboard" [ref=f16e577] [cursor=pointer]
+                - paragraph [ref=f16e581]: AI 将自动进入 Phase 1（灵感捕捉），引导你一步步完成整个创作流程。
+                - separator [ref=f16e582]
+                - generic [ref=f16e583]:
+                  - heading "🎯 工作流概览" [level=2] [ref=f16e584]
+                  - 'link "Permalink: 🎯 工作流概览" [ref=f16e585] [cursor=pointer]':
+                    - /url: "#-工作流概览"
+                - region "mermaid rendered output container" [ref=f16e588]:
+                  - generic [ref=f16e589]:
+                    - generic [ref=f16e590]:
+                      - group [ref=f16e591]:
+                        - button "Open dialog" [ref=f16e592] [cursor=pointer]
+                      - button "Copy mermaid code" [ref=f16e595] [cursor=pointer]
+                    - iframe [ref=f16e600]:
+                      - generic [ref=f17e1]:
+                        - document [ref=f17e5]:
+                          - generic [ref=f17e7]:
+                            - generic [ref=f17e16]:
+                              - paragraph [ref=f17e22]: 生成细纲
+                              - paragraph [ref=f17e28]: 🔴 发现致命问题
+                              - paragraph [ref=f17e34]: ✅ 审查通过
+                              - paragraph [ref=f17e40]: 还有剩余细纲
+                              - paragraph [ref=f17e46]: 本批细纲耗尽
+                            - generic [ref=f17e47]:
+                              - paragraph [ref=f17e54]: "Phase 1: 💡 灵感捕捉"
+                              - paragraph [ref=f17e61]: "Phase 2: 🌍 世界观构建"
+                              - paragraph [ref=f17e68]: "Phase 3: 👤 人物塑造"
+                              - paragraph [ref=f17e75]: "Phase 4: 📐 全局大纲"
+                              - paragraph [ref=f17e82]: "Phase 5: 📖 分卷规划"
+                              - paragraph [ref=f17e89]: "Phase 6: 🎬 章节细纲"
+                              - paragraph [ref=f17e96]: "Phase 7: ✍️ 正文生成"
+                              - paragraph [ref=f17e103]: "Phase 8: 🔍 质量审查"
+                              - paragraph [ref=f17e110]: "Phase 10: 🔄 迭代修订"
+                              - paragraph [ref=f17e117]: "Phase 9: 🧠 记忆落盘"
+                        - generic [ref=f17e118]:
+                          - button "Zoom in" [ref=f17e119] [cursor=pointer]
+                          - button "Zoom out" [ref=f17e123] [cursor=pointer]
+                          - button "Reset view" [ref=f17e127] [cursor=pointer]
+                          - button "Pan up" [ref=f17e130] [cursor=pointer]
+                          - button "Pan down" [ref=f17e133] [cursor=pointer]
+                          - button "Pan left" [ref=f17e136] [cursor=pointer]
+                          - button "Pan right" [ref=f17e139] [cursor=pointer]
+                - paragraph [ref=f16e601]:
+                  - strong [ref=f16e602]: 核心原则
+                  - text: ：
+                - list [ref=f16e603]:
+                  - listitem [ref=f16e604]:
+                    - strong [ref=f16e605]: 阶段推进，不跳步
+                    - text: — 每个阶段必须经过用户确认才能进入下一阶段
+                  - listitem [ref=f16e606]:
+                    - strong [ref=f16e607]: 大纲即法律
+                    - text: —
+                    - code [ref=f16e608]: rules.md
+                    - text: 中的规则是 AI 写作时不可违背的"合同"
+                  - listitem [ref=f16e609]:
+                    - strong [ref=f16e610]: 一次一章
+                    - text: — 正文生成每次只写一章，避免上下文溢出
+                  - listitem [ref=f16e611]:
+                    - strong [ref=f16e612]: 写后必审
+                    - text: — 每章生成后自动进行 8 维度质量审查
+                  - listitem [ref=f16e613]:
+                    - strong [ref=f16e614]: 审后必存
+                    - text: — 审查通过后自动更新全局状态和角色卡
+                - separator [ref=f16e615]
+                - generic [ref=f16e616]:
+                  - heading "🛡️ 四层防幻觉机制" [level=2] [ref=f16e617]
+                  - 'link "Permalink: 🛡️ 四层防幻觉机制" [ref=f16e618] [cursor=pointer]':
+                    - /url: "#️-四层防幻觉机制"
+                - paragraph [ref=f16e621]: 这是本框架的核心创新——四道防线确保 AI 不会"胡编乱造"：
+                - paragraph [ref=f16e622]:
+                  - strong [ref=f16e623]: 第一层：写前约束
+                - list [ref=f16e624]:
+                  - listitem [ref=f16e625]:
+                    - text: "\"合同系统\"："
+                    - code [ref=f16e626]: rules.md
+                    - text: 明确定义了世界观中"什么是不可能的"
+                  - listitem [ref=f16e627]: 强制上下文注入：写作前必须读取角色卡、前章状态、伏笔表
+                - paragraph [ref=f16e628]:
+                  - strong [ref=f16e629]: 第二层：写中引导
+                - list [ref=f16e630]:
+                  - listitem [ref=f16e631]: Beat Sheet 贴合：严格按照章节细纲的节拍点写作
+                  - listitem [ref=f16e632]: 反 AI 模式清单：禁用"不禁"、"竟然"、"一股力量涌上心头"等 AI 典型用语
+                - paragraph [ref=f16e633]:
+                  - strong [ref=f16e634]: 第三层：写后审查
+                - list [ref=f16e635]:
+                  - listitem [ref=f16e636]: 8 维度质量评分：设定一致性🔴 人物一致性🔴 时间线🟠 伏笔🟠 节奏🟡 文笔🟡 密度🟢 钩子🟢
+                  - listitem [ref=f16e637]: 致命问题自动阻断：发现 🔴 级问题时禁止继续写下一章
+                - paragraph [ref=f16e638]:
+                  - strong [ref=f16e639]: 第四层：长期记忆
+                - list [ref=f16e640]:
+                  - listitem [ref=f16e641]: "\"章节提交\"：每完成一章后提取状态变更，更新到全局快照"
+                  - listitem [ref=f16e642]: 角色卡热更新：角色的实力、关系、物品等信息实时更新
+                - region "mermaid rendered output container" [ref=f16e643]:
+                  - generic [ref=f16e644]:
+                    - generic [ref=f16e645]:
+                      - group [ref=f16e646]:
+                        - button "Open dialog" [ref=f16e647] [cursor=pointer]
+                      - button "Copy mermaid code" [ref=f16e650] [cursor=pointer]
+                    - iframe [ref=f16e655]:
+                      - generic [ref=f18e1]:
+                        - document [ref=f18e5]:
+                          - generic [ref=f18e7]:
+                            - generic [ref=f18e8]:
+                              - paragraph [ref=f18e15]: "第四层: 长期记忆"
+                              - paragraph [ref=f18e22]: "第三层: 写后审查"
+                              - paragraph [ref=f18e29]: "第二层: 写中引导"
+                              - paragraph [ref=f18e36]: "第一层: 写前约束"
+                            - generic [ref=f18e46]:
+                              - paragraph [ref=f18e52]: 失败
+                              - paragraph [ref=f18e58]: 通过
+                              - paragraph [ref=f18e64]: 更新
+                              - paragraph [ref=f18e70]: 更新
+                            - generic [ref=f18e71]:
+                              - paragraph [ref=f18e78]: 📜 规则合同
+                              - paragraph [ref=f18e85]: 写作提示词
+                              - paragraph [ref=f18e92]: 👤 角色卡
+                              - paragraph [ref=f18e99]: 🧠 状态快照
+                              - paragraph [ref=f18e106]: ✍️ 遵循 Beat Sheet
+                              - paragraph [ref=f18e113]: 🚫 反 AI 词汇过滤
+                              - paragraph [ref=f18e120]: 🔍 8维度审查
+                              - paragraph [ref=f18e127]: 🔄 Phase 10 修订
+                              - paragraph [ref=f18e134]: 📦 章节状态落盘
+                        - generic [ref=f18e135]:
+                          - button "Zoom in" [ref=f18e136] [cursor=pointer]
+                          - button "Zoom out" [ref=f18e140] [cursor=pointer]
+                          - button "Reset view" [ref=f18e144] [cursor=pointer]
+                          - button "Pan up" [ref=f18e147] [cursor=pointer]
+                          - button "Pan down" [ref=f18e150] [cursor=pointer]
+                          - button "Pan left" [ref=f18e153] [cursor=pointer]
+                          - button "Pan right" [ref=f18e156] [cursor=pointer]
+                - separator [ref=f16e656]
+                - generic [ref=f16e657]:
+                  - heading "📚 支持的题材" [level=2] [ref=f16e658]
+                  - 'link "Permalink: 📚 支持的题材" [ref=f16e659] [cursor=pointer]':
+                    - /url: "#-支持的题材"
+                - table [ref=f16e663]:
+                  - rowgroup [ref=f16e664]:
+                    - row [ref=f16e665]:
+                      - columnheader "题材" [ref=f16e666]
+                      - columnheader "文件" [ref=f16e667]
+                      - columnheader "覆盖内容" [ref=f16e668]
+                  - rowgroup [ref=f16e669]:
+                    - row [ref=f16e670]:
+                      - cell "⚔️ 玄幻/修仙" [ref=f16e671]
+                      - cell [ref=f16e672]:
+                        - code [ref=f16e673]: genre-guides/xuanhuan.md
+                      - cell "修炼体系、境界划分、宗门体系、经典套路、爽点设计" [ref=f16e674]
+                    - row [ref=f16e675]:
+                      - cell "🏙️ 都市" [ref=f16e676]
+                      - cell [ref=f16e677]:
+                        - code [ref=f16e678]: genre-guides/urban.md
+                      - cell "异能/商战/医术、身份揭露、财富碾压、多线交织" [ref=f16e679]
+                    - row [ref=f16e680]:
+                      - cell "💕 言情" [ref=f16e681]
+                      - cell [ref=f16e682]:
+                        - code [ref=f16e683]: genre-guides/romance.md
+                      - cell "情感曲线、人设互补、甜虐节奏、经典桥段" [ref=f16e684]
+                    - row [ref=f16e685]:
+                      - cell "🚀 科幻" [ref=f16e686]
+                      - cell [ref=f16e687]:
+                        - code [ref=f16e688]: genre-guides/scifi.md
+                      - cell "科技树、文明等级、星际政治、硬核设定展示" [ref=f16e689]
+                - separator [ref=f16e690]
+                - generic [ref=f16e691]:
+                  - heading "🇺🇸 English Documentation" [level=1] [ref=f16e692]
+                  - 'link "Permalink: 🇺🇸 English Documentation" [ref=f16e693] [cursor=pointer]':
+                    - /url: "#-english-documentation"
+                - blockquote [ref=f16e696]:
+                  - paragraph [ref=f16e697]:
+                    - strong [ref=f16e698]: Transform your AI coding assistant into a professional Chinese web novel co-author.
+                  - paragraph [ref=f16e699]:
+                    - text: Web Novel Writing Skill is not just a prompt — it's a complete
+                    - strong [ref=f16e700]: 10-phase pipeline
+                    - text: with
+                    - strong [ref=f16e701]: 7 expert agents
+                    - text: ","
+                    - strong [ref=f16e702]: 4 anti-hallucination safeguards
+                    - text: ", and"
+                    - strong [ref=f16e703]: genre-specific templates
+                    - text: that turns any AI coding agent into a world-class web novel writing partner.
+                - separator [ref=f16e704]
+                - generic [ref=f16e705]:
+                  - heading "✨ Features" [level=2] [ref=f16e706]
+                  - 'link "Permalink: ✨ Features" [ref=f16e707] [cursor=pointer]':
+                    - /url: "#-features"
+                - generic [ref=f16e710]:
+                  - heading "🏗️ 10-Phase Writing Pipeline" [level=3] [ref=f16e711]
+                  - 'link "Permalink: 🏗️ 10-Phase Writing Pipeline" [ref=f16e712] [cursor=pointer]':
+                    - /url: "#️-10-phase-writing-pipeline"
+                - paragraph [ref=f16e715]: "A structured workflow that guides you from initial spark to polished chapter:"
+                - region "mermaid rendered output container" [ref=f16e716]:
+                  - generic [ref=f16e717]:
+                    - generic [ref=f16e718]:
+                      - group [ref=f16e719]:
+                        - button "Open dialog" [ref=f16e720] [cursor=pointer]
+                      - button "Copy mermaid code" [ref=f16e723] [cursor=pointer]
+                    - iframe [ref=f16e728]:
+                      - generic [ref=f19e1]:
+                        - document [ref=f19e5]:
+                          - generic [ref=f19e7]:
+                            - generic [ref=f19e16]:
+                              - paragraph [ref=f19e22]: Batch 3-5 Outlines
+                              - paragraph [ref=f19e28]: 🔴 Fatal Issue
+                              - paragraph [ref=f19e34]: ✅ Pass
+                              - paragraph [ref=f19e40]: More outlines left
+                              - paragraph [ref=f19e46]: Batch complete
+                            - generic [ref=f19e47]:
+                              - paragraph [ref=f19e54]: "Phase 1: 💡 Idea / Inspiration"
+                              - paragraph [ref=f19e61]: "Phase 2: 🌍 Worldbuilding"
+                              - paragraph [ref=f19e68]: "Phase 3: 👤 Characters"
+                              - paragraph [ref=f19e75]: "Phase 4: 📐 Master Outline"
+                              - paragraph [ref=f19e82]: "Phase 5: 📖 Volume Planning"
+                              - paragraph [ref=f19e89]: "Phase 6: 🎬 Chapter Beats"
+                              - paragraph [ref=f19e96]: "Phase 7: ✍️ Write Prose"
+                              - paragraph [ref=f19e103]: "Phase 8: 🔍 Quality Review"
+                              - paragraph [ref=f19e110]: "Phase 10: 🔄 Revise"
+                              - paragraph [ref=f19e117]: "Phase 9: 🧠 State Sync"
+                        - generic [ref=f19e118]:
+                          - button "Zoom in" [ref=f19e119] [cursor=pointer]
+                          - button "Zoom out" [ref=f19e123] [cursor=pointer]
+                          - button "Reset view" [ref=f19e127] [cursor=pointer]
+                          - button "Pan up" [ref=f19e130] [cursor=pointer]
+                          - button "Pan down" [ref=f19e133] [cursor=pointer]
+                          - button "Pan left" [ref=f19e136] [cursor=pointer]
+                          - button "Pan right" [ref=f19e139] [cursor=pointer]
+                - table [ref=f16e730]:
+                  - rowgroup [ref=f16e731]:
+                    - row [ref=f16e732]:
+                      - columnheader "Phase" [ref=f16e733]
+                      - columnheader "Name" [ref=f16e734]
+                      - columnheader "What It Does" [ref=f16e735]
+                  - rowgroup [ref=f16e736]:
+                    - row [ref=f16e737]:
+                      - cell "1" [ref=f16e738]
+                      - cell [ref=f16e739]:
+                        - strong [ref=f16e740]: Inspiration Capture
+                      - cell "Genre positioning, market analysis, core selling point extraction" [ref=f16e741]
+                    - row [ref=f16e742]:
+                      - cell "2" [ref=f16e743]
+                      - cell [ref=f16e744]:
+                        - strong [ref=f16e745]: Worldbuilding Workshop
+                      - cell "Power systems, geography, factions, hard rules (\"Contract System\")" [ref=f16e746]
+                    - row [ref=f16e747]:
+                      - cell "3" [ref=f16e748]
+                      - cell [ref=f16e749]:
+                        - strong [ref=f16e750]: Character Forge
+                      - cell "5D personality DNA, behavior red lines, relationship networks" [ref=f16e751]
+                    - row [ref=f16e752]:
+                      - cell "4" [ref=f16e753]
+                      - cell [ref=f16e754]:
+                        - strong [ref=f16e755]: Master Outline
+                      - cell "Story skeleton, emotion curves, foreshadow layout" [ref=f16e756]
+                    - row [ref=f16e757]:
+                      - cell "5" [ref=f16e758]
+                      - cell [ref=f16e759]:
+                        - strong [ref=f16e760]: Volume Planning
+                      - cell "Pacing design (3:1 rule), Golden Three Chapters strategy" [ref=f16e761]
+                    - row [ref=f16e762]:
+                      - cell "6" [ref=f16e763]
+                      - cell [ref=f16e764]:
+                        - strong [ref=f16e765]: Chapter Beats
+                      - cell "Beat sheets, scene design, chapter-end hooks" [ref=f16e766]
+                    - row [ref=f16e767]:
+                      - cell "7" [ref=f16e768]
+                      - cell [ref=f16e769]:
+                        - strong [ref=f16e770]: Prose Generation
+                      - cell "Style-aware writing with anti-AI-pattern enforcement" [ref=f16e771]
+                    - row [ref=f16e772]:
+                      - cell "8" [ref=f16e773]
+                      - cell [ref=f16e774]:
+                        - strong [ref=f16e775]: Quality Review
+                      - cell "8-dimension audit (setting, character, timeline, foreshadow...)" [ref=f16e776]
+                    - row [ref=f16e777]:
+                      - cell "9" [ref=f16e778]
+                      - cell [ref=f16e779]:
+                        - strong [ref=f16e780]: State Sync
+                      - cell "\"Chapter commit\" — memory persistence across chapters" [ref=f16e781]
+                    - row [ref=f16e782]:
+                      - cell "10" [ref=f16e783]
+                      - cell [ref=f16e784]:
+                        - strong [ref=f16e785]: Revision
+                      - cell "Incremental fixes, adversarial editing, version tracking" [ref=f16e786]
+                - generic [ref=f16e787]:
+                  - heading "🎭 7 Expert Agent Roles" [level=3] [ref=f16e788]
+                  - 'link "Permalink: 🎭 7 Expert Agent Roles" [ref=f16e789] [cursor=pointer]':
+                    - /url: "#-7-expert-agent-roles"
+                - paragraph [ref=f16e792]: "The AI seamlessly switches between specialized roles:"
+                - table [ref=f16e794]:
+                  - rowgroup [ref=f16e795]:
+                    - row [ref=f16e796]:
+                      - columnheader "Agent" [ref=f16e797]
+                      - columnheader "Role" [ref=f16e798]
+                      - columnheader "Phases" [ref=f16e799]
+                  - rowgroup [ref=f16e800]:
+                    - row [ref=f16e801]:
+                      - cell "🌍" [ref=f16e802]
+                      - cell [ref=f16e803]:
+                        - strong [ref=f16e804]: Worldbuilder Architect
+                        - text: — Designs worlds, defines laws
+                      - cell "1-2" [ref=f16e805]
+                    - row [ref=f16e806]:
+                      - cell "👤" [ref=f16e807]
+                      - cell [ref=f16e808]:
+                        - strong [ref=f16e809]: Character Psychologist
+                        - text: — Creates living, consistent characters
+                      - cell "3" [ref=f16e810]
+                    - row [ref=f16e811]:
+                      - cell "📐" [ref=f16e812]
+                      - cell [ref=f16e813]:
+                        - strong [ref=f16e814]: Structure Engineer
+                        - text: — Plans story arcs, controls pacing
+                      - cell "4-5" [ref=f16e815]
+                    - row [ref=f16e816]:
+                      - cell "🎭" [ref=f16e817]
+                      - cell [ref=f16e818]:
+                        - strong [ref=f16e819]: Plot Playwright
+                        - text: — Crafts scene-by-scene beat sheets
+                      - cell "6" [ref=f16e820]
+                    - row [ref=f16e821]:
+                      - cell "✍️" [ref=f16e822]
+                      - cell [ref=f16e823]:
+                        - strong [ref=f16e824]: Literary Renderer
+                        - text: — Writes vivid, web-novel-style prose
+                      - cell "7, 10" [ref=f16e825]
+                    - row [ref=f16e826]:
+                      - cell "🔍" [ref=f16e827]
+                      - cell [ref=f16e828]:
+                        - strong [ref=f16e829]: Quality Inspector
+                        - text: — 8-dimension quality audit
+                      - cell "8" [ref=f16e830]
+                    - row [ref=f16e831]:
+                      - cell "🧠" [ref=f16e832]
+                      - cell [ref=f16e833]:
+                        - strong [ref=f16e834]: Memory Keeper
+                        - text: — Manages state, tracks foreshadowing
+                      - cell "9" [ref=f16e835]
+                - generic [ref=f16e836]:
+                  - heading "🛡️ 4-Layer Anti-Hallucination Shield" [level=3] [ref=f16e837]
+                  - 'link "Permalink: 🛡️ 4-Layer Anti-Hallucination Shield" [ref=f16e838] [cursor=pointer]':
+                    - /url: "#️-4-layer-anti-hallucination-shield"
+                - paragraph [ref=f16e841]: "The core innovation that prevents AI from \"going off-script\" in long-form fiction:"
+                - region "mermaid rendered output container" [ref=f16e842]:
+                  - generic [ref=f16e843]:
+                    - generic [ref=f16e844]:
+                      - group [ref=f16e845]:
+                        - button "Open dialog" [ref=f16e846] [cursor=pointer]
+                      - button "Copy mermaid code" [ref=f16e849] [cursor=pointer]
+                    - iframe [ref=f16e854]:
+                      - generic [ref=f20e1]:
+                        - document [ref=f20e5]:
+                          - generic [ref=f20e7]:
+                            - generic [ref=f20e8]:
+                              - paragraph [ref=f20e15]: "Layer 4: Long-Term Memory"
+                              - paragraph [ref=f20e22]: "Layer 3: Post-Write Review"
+                              - paragraph [ref=f20e29]: "Layer 2: During-Write Guidance"
+                              - paragraph [ref=f20e36]: "Layer 1: Pre-Write Constraints"
+                            - generic [ref=f20e46]:
+                              - paragraph [ref=f20e52]: Fail
+                              - paragraph [ref=f20e58]: Pass
+                              - paragraph [ref=f20e64]: Update
+                              - paragraph [ref=f20e70]: Update
+                            - generic [ref=f20e71]:
+                              - paragraph [ref=f20e78]: 📜 rules.md
+                              - paragraph [ref=f20e85]: System Prompt
+                              - paragraph [ref=f20e92]: 👤 Character Cards
+                              - paragraph [ref=f20e99]: 🧠 State Snapshot
+                              - paragraph [ref=f20e106]: ✍️ Beat Sheet Adherence
+                              - paragraph [ref=f20e113]: 🚫 Anti-AI Pattern Filter
+                              - paragraph [ref=f20e120]: 🔍 8-Dim Audit
+                              - paragraph [ref=f20e127]: 🔄 Phase 10 Revise
+                              - paragraph [ref=f20e134]: 📦 Chapter Commit
+                        - generic [ref=f20e135]:
+                          - button "Zoom in" [ref=f20e136] [cursor=pointer]
+                          - button "Zoom out" [ref=f20e140] [cursor=pointer]
+                          - button "Reset view" [ref=f20e144] [cursor=pointer]
+                          - button "Pan up" [ref=f20e147] [cursor=pointer]
+                          - button "Pan down" [ref=f20e150] [cursor=pointer]
+                          - button "Pan left" [ref=f20e153] [cursor=pointer]
+                          - button "Pan right" [ref=f20e156] [cursor=pointer]
+                - generic [ref=f16e855]:
+                  - heading "📚 Genre Templates" [level=3] [ref=f16e856]
+                  - 'link "Permalink: 📚 Genre Templates" [ref=f16e857] [cursor=pointer]':
+                    - /url: "#-genre-templates"
+                - paragraph [ref=f16e860]: "Built-in guides for the most popular Chinese web novel genres:"
+                - table [ref=f16e862]:
+                  - rowgroup [ref=f16e863]:
+                    - row [ref=f16e864]:
+                      - columnheader "Genre" [ref=f16e865]
+                      - columnheader "Key Elements" [ref=f16e866]
+                  - rowgroup [ref=f16e867]:
+                    - row [ref=f16e868]:
+                      - cell [ref=f16e869]:
+                        - text: ⚔️
+                        - strong [ref=f16e870]: Xuanhuan / Xianxia
+                      - cell "Cultivation systems, sect hierarchies, power breakthroughs" [ref=f16e871]
+                    - row [ref=f16e872]:
+                      - cell [ref=f16e873]:
+                        - text: 🏙️
+                        - strong [ref=f16e874]: Urban Fantasy
+                      - cell "Hidden powers in modern world, identity reveals, wealth" [ref=f16e875]
+                    - row [ref=f16e876]:
+                      - cell [ref=f16e877]:
+                        - text: 💕
+                        - strong [ref=f16e878]: Romance
+                      - cell "Emotional arcs, relationship tension curves, sweet moments" [ref=f16e879]
+                    - row [ref=f16e880]:
+                      - cell [ref=f16e881]:
+                        - text: 🚀
+                        - strong [ref=f16e882]: Sci-Fi
+                      - cell "Tech trees, civilization tiers, cosmic exploration" [ref=f16e883]
+                - separator [ref=f16e884]
+                - generic [ref=f16e885]:
+                  - heading "🚀 Quick Start" [level=2] [ref=f16e886]
+                  - 'link "Permalink: 🚀 Quick Start" [ref=f16e887] [cursor=pointer]':
+                    - /url: "#-quick-start"
+                - generic [ref=f16e890]:
+                  - heading "Prerequisites" [level=3] [ref=f16e891]
+                  - 'link "Permalink: Prerequisites" [ref=f16e892] [cursor=pointer]':
+                    - /url: "#prerequisites"
+                - list [ref=f16e895]:
+                  - listitem [ref=f16e896]: An AI coding agent (Claude Code, Cursor, Codex, or Gemini Code Assist)
+                  - listitem [ref=f16e897]: A workspace/project directory for your novel
+                - generic [ref=f16e898]:
+                  - 'heading "Step 1: Clone the Repository" [level=3] [ref=f16e899]'
+                  - 'link "Permalink: Step 1: Clone the Repository" [ref=f16e900] [cursor=pointer]':
+                    - /url: "#step-1-clone-the-repository"
+                - generic [ref=f16e903]:
+                  - generic [ref=f16e904]: git clone https://github.com/XINGANLIU/web-novel-writing-skill.git
+                  - button "Copy code to clipboard" [ref=f16e906] [cursor=pointer]
+                - generic [ref=f16e910]:
+                  - 'heading "Step 2: Deploy to Your AI Agent" [level=3] [ref=f16e911]'
+                  - 'link "Permalink: Step 2: Deploy to Your AI Agent" [ref=f16e912] [cursor=pointer]':
+                    - /url: "#step-2-deploy-to-your-ai-agent"
+                - paragraph [ref=f16e915]:
+                  - text: Choose your agent and follow the instructions below in the
+                  - strong [ref=f16e916]: Deployment
+                  - text: section.
+                - generic [ref=f16e917]:
+                  - 'heading "Step 3: Start Writing!" [level=3] [ref=f16e918]'
+                  - 'link "Permalink: Step 3: Start Writing!" [ref=f16e919] [cursor=pointer]':
+                    - /url: "#step-3-start-writing"
+                - paragraph [ref=f16e922]: "Open your AI agent and type:"
+                - generic [ref=f16e923]:
+                  - code [ref=f16e925]: /novel-new 我想写一本赛博朋克修仙小说
+                  - button "Copy code to clipboard" [ref=f16e927] [cursor=pointer]
+                - paragraph [ref=f16e931]: The AI will guide you through the entire pipeline, starting from Phase 1.
+                - separator [ref=f16e932]
+                - generic [ref=f16e933]:
+                  - heading "📦 Deployment" [level=2] [ref=f16e934]
+                  - 'link "Permalink: 📦 Deployment" [ref=f16e935] [cursor=pointer]':
+                    - /url: "#-deployment"
+                - generic [ref=f16e938]:
+                  - heading "Claude Code" [level=3] [ref=f16e939]:
+                    - link [ref=f16e940] [cursor=pointer]:
+                      - /url: https://camo.githubusercontent.com/40366a63235cf8fbf575af7d56aa129cadab56565599a752498c8fa14e050a89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436c617564655f436f64652d6f72616e67653f6c6f676f3d616e7468726f706963266c6f676f436f6c6f723d7768697465
+                    - text: Claude Code
+                  - 'link "Permalink: Claude Code" [ref=f16e942] [cursor=pointer]':
+                    - /url: "#-claude-code"
+                - paragraph [ref=f16e945]:
+                  - text: Claude Code uses a
+                  - code [ref=f16e946]: CLAUDE.md
+                  - text: file in the project root for custom instructions.
+                - paragraph [ref=f16e947]:
+                  - strong [ref=f16e948]: "Option A: Direct Use (Recommended)"
+                - generic [ref=f16e949]:
+                  - generic [ref=f16e950]:
+                    - generic [ref=f16e951]: "# Clone into your novel project directory"
+                    - text: cd your-novel-project git clone https://github.com/XINGANLIU/web-novel-writing-skill.git .novelforge
+                    - generic [ref=f16e952]: "# Copy the Claude Code adapter"
+                    - text: cp .novelforge/CLAUDE.md ./CLAUDE.md
+                  - button "Copy code to clipboard" [ref=f16e954] [cursor=pointer]
+                - paragraph [ref=f16e958]:
+                  - strong [ref=f16e959]: "Option B: Global Installation"
+                - generic [ref=f16e960]:
+                  - generic [ref=f16e961]:
+                    - generic [ref=f16e962]: "# Copy to your home directory for global access"
+                    - text: cp CLAUDE.md ~/.claude/CLAUDE.md
+                  - button "Copy code to clipboard" [ref=f16e964] [cursor=pointer]
+                - paragraph [ref=f16e968]:
+                  - text: Then open Claude Code in your project directory and start with
+                  - code [ref=f16e969]: /novel-new
+                  - text: .
+                - separator [ref=f16e970]
+                - generic [ref=f16e971]:
+                  - heading "Cursor" [level=3] [ref=f16e972]:
+                    - link [ref=f16e973] [cursor=pointer]:
+                      - /url: https://camo.githubusercontent.com/08161badee26d63685743e21e10b63f7c473169346ee25c07f801f1d7baf1397/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437572736f722d626c75653f6c6f676f3d637572736f72266c6f676f436f6c6f723d7768697465
+                    - text: Cursor
+                  - 'link "Permalink: Cursor" [ref=f16e975] [cursor=pointer]':
+                    - /url: "#-cursor"
+                - paragraph [ref=f16e978]:
+                  - text: Cursor uses
+                  - code [ref=f16e979]: .cursorrules
+                  - text: or
+                  - code [ref=f16e980]: .cursor/rules/
+                  - text: for project-level instructions.
+                - paragraph [ref=f16e981]:
+                  - strong [ref=f16e982]: "Option A: Single Rules File"
+                - generic [ref=f16e983]:
+                  - generic [ref=f16e984]:
+                    - text: cd your-novel-project git clone https://github.com/XINGANLIU/web-novel-writing-skill.git .novelforge
+                    - generic [ref=f16e985]: "# Copy the Cursor adapter"
+                    - text: cp .novelforge/.cursorrules ./.cursorrules
+                  - button "Copy code to clipboard" [ref=f16e987] [cursor=pointer]
+                - paragraph [ref=f16e991]:
+                  - strong [ref=f16e992]: "Option B: Rules Directory (Cursor 0.45+)"
+                - generic [ref=f16e993]:
+                  - generic [ref=f16e994]: mkdir -p .cursor/rules cp .novelforge/.cursor/rules/novelforge.mdc .cursor/rules/
+                  - button "Copy code to clipboard" [ref=f16e996] [cursor=pointer]
+                - paragraph [ref=f16e1000]: Restart Cursor, and the skill is automatically loaded.
+                - separator [ref=f16e1001]
+                - generic [ref=f16e1002]:
+                  - heading "OpenAI Codex CLI" [level=3] [ref=f16e1003]:
+                    - link [ref=f16e1004] [cursor=pointer]:
+                      - /url: https://camo.githubusercontent.com/532a70582dcc0aa96d6f07d6a7113e1f4af02a1f0bae9a71db7781d1bb34993f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f6465785f434c492d677265656e3f6c6f676f3d6f70656e6169266c6f676f436f6c6f723d7768697465
+                    - text: OpenAI Codex CLI
+                  - 'link "Permalink: OpenAI Codex CLI" [ref=f16e1006] [cursor=pointer]':
+                    - /url: "#-openai-codex-cli"
+                - paragraph [ref=f16e1009]:
+                  - text: Codex uses
+                  - code [ref=f16e1010]: AGENTS.md
+                  - text: for agent instructions.
+                - generic [ref=f16e1011]:
+                  - generic [ref=f16e1012]:
+                    - text: cd your-novel-project git clone https://github.com/XINGANLIU/web-novel-writing-skill.git .novelforge
+                    - generic [ref=f16e1013]: "# Copy the Codex adapter"
+                    - text: cp .novelforge/AGENTS.md ./AGENTS.md
+                  - button "Copy code to clipboard" [ref=f16e1015] [cursor=pointer]
+                - paragraph [ref=f16e1019]: "Then run:"
+                - generic [ref=f16e1020]:
+                  - generic [ref=f16e1021]:
+                    - text: codex
+                    - generic [ref=f16e1022]: "\"开始创建一本新的网络小说\""
+                  - button "Copy code to clipboard" [ref=f16e1024] [cursor=pointer]
+                - separator [ref=f16e1028]
+                - generic [ref=f16e1029]:
+                  - heading "Gemini Code Assist (Antigravity)" [level=3] [ref=f16e1030]:
+                    - link [ref=f16e1031] [cursor=pointer]:
+                      - /url: https://camo.githubusercontent.com/5603e16a2f23380816df8074f212f2decb4e186e0c7cd63d4b2e0978a1cbea9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d47656d696e695f436f64655f4173736973742d707572706c653f6c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465
+                    - text: Gemini Code Assist (Antigravity)
+                  - 'link "Permalink: Gemini Code Assist (Antigravity)" [ref=f16e1033] [cursor=pointer]':
+                    - /url: "#-gemini-code-assist-antigravity"
+                - paragraph [ref=f16e1036]: Gemini uses a plugin/skill structure.
+                - paragraph [ref=f16e1037]:
+                  - strong [ref=f16e1038]: "Method: Install as Plugin"
+                - list [ref=f16e1039]:
+                  - listitem [ref=f16e1040]: "Copy the entire directory to your Gemini plugins folder:"
+                - generic [ref=f16e1041]:
+                  - generic [ref=f16e1042]: cp -r web-novel-writing-skill ~/.gemini/config/plugins/web-novel-writing-skill-plugin
+                  - button "Copy code to clipboard" [ref=f16e1044] [cursor=pointer]
+                - list [ref=f16e1048]:
+                  - listitem [ref=f16e1049]: "Ensure the directory structure matches:"
+                - generic [ref=f16e1050]:
+                  - code [ref=f16e1052]: ~/.gemini/config/plugins/web-novel-writing-skill-plugin/ ├── plugin.json └── skills/ ├── SKILL.md └── references/ └── ...
+                  - button "Copy code to clipboard" [ref=f16e1054] [cursor=pointer]
+                - list [ref=f16e1058]:
+                  - listitem [ref=f16e1059]: Restart Gemini Code Assist. The skill will appear as available.
+                - separator [ref=f16e1060]
+                - generic [ref=f16e1061]:
+                  - heading "📂 Project Structure" [level=2] [ref=f16e1062]
+                  - 'link "Permalink: 📂 Project Structure" [ref=f16e1063] [cursor=pointer]':
+                    - /url: "#-project-structure"
+                - generic [ref=f16e1066]:
+                  - code [ref=f16e1068]: "web-novel-writing-skill/ ├── README.md # This file (bilingual) ├── LICENSE # MIT License ├── SKILL.md # 🎯 Main skill entry point ├── CLAUDE.md # Claude Code adapter ├── AGENTS.md # Codex adapter ├── .cursorrules # Cursor adapter ├── assets/ │ └── banner.svg # Project banner └── references/ ├── phases/ # 10 pipeline phase instructions ├── agents/ # 7 expert agent definitions ├── templates/ # Fill-in templates ├── quality-gates/ # Quality assurance └── genre-guides/ # Genre-specific guides"
+                  - button "Copy code to clipboard" [ref=f16e1070] [cursor=pointer]
+                - separator [ref=f16e1074]
+                - generic [ref=f16e1075]:
+                  - heading "🎮 Commands" [level=2] [ref=f16e1076]
+                  - 'link "Permalink: 🎮 Commands" [ref=f16e1077] [cursor=pointer]':
+                    - /url: "#-commands"
+                - table [ref=f16e1081]:
+                  - rowgroup [ref=f16e1082]:
+                    - row [ref=f16e1083]:
+                      - columnheader "Command" [ref=f16e1084]
+                      - columnheader "Description" [ref=f16e1085]
+                  - rowgroup [ref=f16e1086]:
+                    - row [ref=f16e1087]:
+                      - cell [ref=f16e1088]:
+                        - code [ref=f16e1089]: /novel-new
+                      - cell "Start a new novel project (Phase 1)" [ref=f16e1090]
+                    - row [ref=f16e1091]:
+                      - cell [ref=f16e1092]:
+                        - code [ref=f16e1093]: /novel-world
+                      - cell "Enter/edit worldbuilding (Phase 2)" [ref=f16e1094]
+                    - row [ref=f16e1095]:
+                      - cell [ref=f16e1096]:
+                        - code [ref=f16e1097]: /novel-characters
+                      - cell "Enter/edit character design (Phase 3)" [ref=f16e1098]
+                    - row [ref=f16e1099]:
+                      - cell [ref=f16e1100]:
+                        - code [ref=f16e1101]: /novel-outline
+                      - cell "Edit master outline (Phase 4)" [ref=f16e1102]
+                    - row [ref=f16e1103]:
+                      - cell [ref=f16e1104]:
+                        - code [ref=f16e1105]: /novel-volume [N]
+                      - cell "Plan volume N (Phase 5)" [ref=f16e1106]
+                    - row [ref=f16e1107]:
+                      - cell [ref=f16e1108]:
+                        - code [ref=f16e1109]: /novel-plan [N]
+                      - cell "Generate outlines for next N chapters (Phase 6)" [ref=f16e1110]
+                    - row [ref=f16e1111]:
+                      - cell [ref=f16e1112]:
+                        - code [ref=f16e1113]: /novel-write [N]
+                      - cell "Write chapter N (Phase 7)" [ref=f16e1114]
+                    - row [ref=f16e1115]:
+                      - cell [ref=f16e1116]:
+                        - code [ref=f16e1117]: /novel-review [N]
+                      - cell "Review chapter N quality (Phase 8)" [ref=f16e1118]
+                    - row [ref=f16e1119]:
+                      - cell [ref=f16e1120]:
+                        - code [ref=f16e1121]: /novel-revise [N]
+                      - cell "Revise chapter N (Phase 10)" [ref=f16e1122]
+                    - row [ref=f16e1123]:
+                      - cell [ref=f16e1124]:
+                        - code [ref=f16e1125]: /novel-resume
+                      - cell "Resume writing after a break (cold start recovery)" [ref=f16e1126]
+                    - row [ref=f16e1127]:
+                      - cell [ref=f16e1128]:
+                        - code [ref=f16e1129]: /novel-status
+                      - cell "View global state snapshot" [ref=f16e1130]
+                    - row [ref=f16e1131]:
+                      - cell [ref=f16e1132]:
+                        - code [ref=f16e1133]: /novel-dashboard
+                      - cell "Project overview (progress, stats, foreshadows)" [ref=f16e1134]
+                    - row [ref=f16e1135]:
+                      - cell [ref=f16e1136]:
+                        - code [ref=f16e1137]: /novel-foreshadow
+                      - cell "View all foreshadow status" [ref=f16e1138]
+                    - row [ref=f16e1139]:
+                      - cell [ref=f16e1140]:
+                        - code [ref=f16e1141]: /novel-character [name]
+                      - cell "View/update a character's status" [ref=f16e1142]
+                - separator [ref=f16e1143]
+                - generic [ref=f16e1144]:
+                  - heading "🤝 Contributing" [level=2] [ref=f16e1145]
+                  - 'link "Permalink: 🤝 Contributing" [ref=f16e1146] [cursor=pointer]':
+                    - /url: "#-contributing"
+                - paragraph [ref=f16e1149]: "Contributions are welcome! Here are some ways you can help:"
+                - list [ref=f16e1150]:
+                  - listitem [ref=f16e1151]:
+                    - text: 🐛
+                    - strong [ref=f16e1152]: Bug Reports
+                    - text: — Found an issue with a template or instruction? Open an issue!
+                  - listitem [ref=f16e1153]:
+                    - text: 📝
+                    - strong [ref=f16e1154]: New Genre Guides
+                    - text: — Write a guide for a genre not yet covered
+                  - listitem [ref=f16e1155]:
+                    - text: 🌍
+                    - strong [ref=f16e1156]: Translations
+                    - text: — Help translate templates to other languages
+                  - listitem [ref=f16e1157]:
+                    - text: 🔧
+                    - strong [ref=f16e1158]: Agent Adapters
+                    - text: — Add support for more AI coding agents
+                  - listitem [ref=f16e1159]:
+                    - text: 💡
+                    - strong [ref=f16e1160]: Improvements
+                    - text: — Better prompts, new quality checks, refined templates
+                - paragraph [ref=f16e1161]:
+                  - text: Please read
+                  - link "CONTRIBUTING.md" [ref=f16e1162] [cursor=pointer]:
+                    - /url: /XINGANLIU/web-novel-writing-skill/blob/main/CONTRIBUTING.md
+                  - text: before submitting a PR.
+                - separator [ref=f16e1163]
+                - generic [ref=f16e1164]:
+                  - heading "📜 License" [level=2] [ref=f16e1165]
+                  - 'link "Permalink: 📜 License" [ref=f16e1166] [cursor=pointer]':
+                    - /url: "#-license"
+                - paragraph [ref=f16e1169]:
+                  - text: This project is licensed under the MIT License — see the
+                  - link "LICENSE" [ref=f16e1170] [cursor=pointer]:
+                    - /url: /XINGANLIU/web-novel-writing-skill/blob/main/LICENSE
+                  - text: file for details.
+        - generic [ref=f16e1174]:
+          - generic [ref=f16e1177]:
+            - heading "About" [level=2] [ref=f16e1178]
+            - paragraph [ref=f16e1179]: An agentic workflow for long-form fiction writing. Features state-sync memory, golden-three-chapters strategy, and anti-AI-pattern quality gates./面向长篇小说创作的 Agentic 工作流，内置记忆落盘、黄金三章策略与反 AI 痕迹质检系统。
+            - heading "Topics" [level=3] [ref=f16e1180]
+            - generic [ref=f16e1182]:
+              - link "writing" [ref=f16e1183] [cursor=pointer]:
+                - /url: /topics/writing
+              - link "webnovel" [ref=f16e1184] [cursor=pointer]:
+                - /url: /topics/webnovel
+              - link "ai-tools" [ref=f16e1185] [cursor=pointer]:
+                - /url: /topics/ai-tools
+              - link "codex-skill" [ref=f16e1186] [cursor=pointer]:
+                - /url: /topics/codex-skill
+              - link "skill-md" [ref=f16e1187] [cursor=pointer]:
+                - /url: /topics/skill-md
+              - link "claudecode-skills" [ref=f16e1188] [cursor=pointer]:
+                - /url: /topics/claudecode-skills
+            - heading "Resources" [level=3] [ref=f16e1189]
+            - link "Readme" [ref=f16e1191] [cursor=pointer]:
+              - /url: "#readme-ov-file"
+            - heading "License" [level=3] [ref=f16e1194]
+            - link "MIT license" [ref=f16e1196] [cursor=pointer]:
+              - /url: "#MIT-1-ov-file"
+            - heading "Contributing" [level=3] [ref=f16e1199]
+            - link "Contributing" [ref=f16e1201] [cursor=pointer]:
+              - /url: "#contributing-ov-file"
+            - link "Activity" [ref=f16e1205] [cursor=pointer]:
+              - /url: /XINGANLIU/web-novel-writing-skill/activity
+            - heading "Stars" [level=3] [ref=f16e1208]
+            - generic [ref=f16e1210]:
+              - strong [ref=f16e1213]: "2"
+              - text: stars
+            - heading "Watchers" [level=3] [ref=f16e1214]
+            - generic [ref=f16e1216]:
+              - strong [ref=f16e1219]: "0"
+              - text: watching
+            - heading "Forks" [level=3] [ref=f16e1220]
+            - link [ref=f16e1222] [cursor=pointer]:
+              - /url: /XINGANLIU/web-novel-writing-skill/forks
+              - strong [ref=f16e1225]: "0"
+              - text: forks
+            - link "Report repository" [ref=f16e1227] [cursor=pointer]:
+              - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FXINGANLIU%2Fweb-novel-writing-skill&report=XINGANLIU+%28user%29
+          - generic [ref=f16e1229]:
+            - heading [level=2] [ref=f16e1230]:
+              - link "Releases" [ref=f16e1231] [cursor=pointer]:
+                - /url: /XINGANLIU/web-novel-writing-skill/releases
+            - generic [ref=f16e1232]: No releases published
+          - generic [ref=f16e1234]:
+            - heading [level=2] [ref=f16e1235]:
+              - link "Packages" [ref=f16e1236] [cursor=pointer]:
+                - /url: /users/XINGANLIU/packages?repo_name=web-novel-writing-skill
+            - generic [ref=f16e1237]: No packages published
+          - generic [ref=f16e1239]:
+            - heading [level=2] [ref=f16e1240]:
+              - link "Contributors 1" [ref=f16e1241] [cursor=pointer]:
+                - /url: /XINGANLIU/web-novel-writing-skill/graphs/contributors
+                - text: Contributors
+                - generic "1" [ref=f16e1242]
+            - list [ref=f16e1243]:
+              - listitem [ref=f16e1244]:
+                - link [ref=f16e1245] [cursor=pointer]:
+                  - /url: https://github.com/XINGANLIU
+                  - img "@XINGANLIU" [ref=f16e1246]
+                - link [ref=f16e1248] [cursor=pointer]:
+                  - /url: https://github.com/XINGANLIU
+                  - strong [ref=f16e1249]: XINGANLIU
+  - contentinfo [ref=f16e1251]:
+    - heading "Footer" [level=2] [ref=f16e1252]
+    - generic [ref=f16e1253]:
+      - generic [ref=f16e1254]:
+        - link "GitHub Homepage" [ref=f16e1255] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=f16e1258]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f16e1259]:
+        - heading "Footer navigation" [level=3] [ref=f16e1260]
+        - list "Footer navigation" [ref=f16e1261]:
+          - listitem [ref=f16e1262]:
+            - link "Terms" [ref=f16e1263] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f16e1264]:
+            - link "Privacy" [ref=f16e1265] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f16e1266]:
+            - link "Security" [ref=f16e1267] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f16e1268]:
+            - link "Status" [ref=f16e1269] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f16e1270]:
+            - link "Community" [ref=f16e1271] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f16e1272]:
+            - link "Docs" [ref=f16e1273] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f16e1274]:
+            - link "Contact" [ref=f16e1275] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f16e1276]:
+            - button "Manage cookies" [ref=f16e1278] [cursor=pointer]
+          - listitem [ref=f16e1279]:
+            - button "Do not share my personal information" [ref=f16e1281] [cursor=pointer]

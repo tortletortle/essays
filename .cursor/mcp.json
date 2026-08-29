@@ -1,0 +1,34 @@
+{
+  "mcpServers": {
+    "qtwx-mcp-1": {
+      "command": "node",
+      "args": [
+        "c:/Users/tortl/AppData/Roaming/Cursor/User/workspaceStorage/70856a0c56e67b363d994d3ae5c9e3bb/QingTian.qingtian-v2/runtime/mcp-server/index.mjs"
+      ],
+      "env": {
+        "QINGTIAN_SESSION": "1",
+        "QINGTIAN_QUEUE_ROOT": "c:/Users/tortl/AppData/Roaming/Cursor/User/workspaceStorage/70856a0c56e67b363d994d3ae5c9e3bb/QingTian.qingtian-v2/runtime/messages"
+      }
+    },
+    "qtwx-mcp-2": {
+      "command": "node",
+      "args": [
+        "c:/Users/tortl/AppData/Roaming/Cursor/User/workspaceStorage/70856a0c56e67b363d994d3ae5c9e3bb/QingTian.qingtian-v2/runtime/mcp-server/index.mjs"
+      ],
+      "env": {
+        "QINGTIAN_SESSION": "2",
+        "QINGTIAN_QUEUE_ROOT": "c:/Users/tortl/AppData/Roaming/Cursor/User/workspaceStorage/70856a0c56e67b363d994d3ae5c9e3bb/QingTian.qingtian-v2/runtime/messages"
+      }
+    },
+    "qtwx-mcp-3": {
+      "command": "node",
+      "args": [
+        "c:/Users/tortl/AppData/Roaming/Cursor/User/workspaceStorage/70856a0c56e67b363d994d3ae5c9e3bb/QingTian.qingtian-v2/runtime/mcp-server/index.mjs"
+      ],
+      "env": {
+        "QINGTIAN_SESSION": "3",
+        "QINGTIAN_QUEUE_ROOT": "c:/Users/tortl/AppData/Roaming/Cursor/User/workspaceStorage/70856a0c56e67b363d994d3ae5c9e3bb/QingTian.qingtian-v2/runtime/messages"
+      }
+    }
+  }
+}

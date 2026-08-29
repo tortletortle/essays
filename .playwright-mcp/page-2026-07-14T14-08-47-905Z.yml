@@ -1,0 +1,281 @@
+- generic [active] [ref=f12e1]:
+  - generic:
+    - generic:
+      - link "跳到主要内容" [ref=f12e2] [cursor=pointer]
+      - link "无障碍功能帮助" [ref=f12e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=zh-CN
+  - generic [ref=f12e8]:
+    - search [ref=f12e9]:
+      - generic [ref=f12e11]:
+        - link [ref=f12e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=zh-CN&ictx=2&sa=X&ved=0ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQPQgK
+          - img "2026 年世界杯：蝎子摆尾绝技" [ref=f12e14]
+        - generic [ref=f12e15]:
+          - generic [ref=f12e16]:
+            - combobox "搜索" [ref=f12e19]: site:github.com (小说 OR novel) (CLAUDE.md OR AGENTS.md) AI writing framework site:github.com (小说 OR novel) (CLAUDE.md OR AGENTS.md) AI writing framework
+            - generic [ref=f12e20]:
+              - button "清除" [ref=f12e22] [cursor=pointer]
+              - generic [ref=f12e27]:
+                - button "按语音搜索" [ref=f12e28] [cursor=pointer]
+                - button "按图搜索" [ref=f12e31] [cursor=pointer]
+          - button "搜索" [ref=f12e34] [cursor=pointer]
+    - generic [ref=f12e39]:
+      - button "设置" [ref=f12e41] [cursor=pointer]
+      - button "分享" [ref=f12e47] [cursor=pointer]
+      - generic [ref=f12e53]:
+        - button "Google 应用" [ref=f12e55] [cursor=pointer]
+        - link "登录" [ref=f12e60] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=zh-CN&passive=true&continue=https://www.google.com/search%3Fq%3Dsite%253Agithub.com%2B%2528%25E5%25B0%258F%25E8%25AF%25B4%2BOR%2Bnovel%2529%2B%2528CLAUDE.md%2BOR%2BAGENTS.md%2529%2BAI%2Bwriting%2Bframework&ec=futura_srp_og_si_72236_p
+  - generic [ref=f12e62]:
+    - navigation [ref=f12e68]:
+      - generic [ref=f12e74]:
+        - list [ref=f12e75]:
+          - listitem [ref=f12e76]:
+            - link "AI 模式" [ref=f12e79] [cursor=pointer]:
+              - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&udm=50&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQpv5LPctXgqlwZihvLnsMCISDpDYQv18Oyw3Kg-dY-wYHDUFVJs6GUZmU5Ix74Nm0SFTs6XbDWmem4_Jrl9_8Gf7x7ovNggBZYmYpADMD05bluwN9v1AzRz-SPcDXo2452HbmFL_kn6lXm_6rAbITN7rCE6tFw&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ2J8OegQIDxAD
+          - listitem [ref=f12e83]:
+            - link "全部" [disabled] [ref=f12e84]
+          - listitem [ref=f12e87]:
+            - link "图片" [ref=f12e88] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=2&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQpv5LPctXgqlwZihvLnsMCISDpDYQv18Oyw3Kg-dY-wYHDUFVJs6GUZmU5Ix74Nm0SFTs6XbDWmem4_Jrl9_8Gf7x7ovNggBZYmYpADMD05bluwN9v1AzRz-SPcDXo2452HbmFL_kn6lXm_6rAbITN7rCE6tFw&q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sa=X&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQtKgLegQIFRAB
+          - listitem [ref=f12e91]:
+            - link "视频" [ref=f12e92] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=7&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQpv5LPctXgqlwZihvLnsMCISDpDYQv18Oyw3Kg-dY-wYHDUFVJs6GUZmU5Ix74Nm0SFTs6XbDWmem4_Jrl9_8Gf7x7ovNggBZYmYpADMD05bluwN9v1AzRz-SPcDXo2452HbmFL_kn6lXm_6rAbITN7rCE6tFw&q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sa=X&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQtKgLegQIFBAB
+          - listitem [ref=f12e95]:
+            - link "短视频" [ref=f12e96] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=39&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQpv5LPctXgqlwZihvLnsMCISDpDYQv18Oyw3Kg-dY-wYHDUFVJs6GUZmU5Ix74Nm0SFTs6XbDWmem4_Jrl9_8Gf7x7ovNggBZYmYpADMD05bluwN9v1AzRz-SPcDXo2452HbmFL_kn6lXm_6rAbITN7rCE6tFw&q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sa=X&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQs6gLegQIExAB
+          - listitem [ref=f12e99]:
+            - link "购物" [ref=f12e100] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&udm=28&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQpv5LPctXgqlwZihvLnsMCISDpDYQv18Oyw3Kg-dY-wYHDUFVJs6GUZmU5Ix74Nm0SFTs6XbDWmem4_Jrl9_8Gf7x7ovNggBZYmYpADMD05bluwN9v1AzRz-SPcDXo2452HbmFL_kn6lXm_6rAbITN7rCE6tFw&q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&ved=1t:220175&ictx=111
+          - listitem [ref=f12e103]:
+            - link "新闻" [ref=f12e104] [cursor=pointer]:
+              - /url: /search?sca_esv=114ce2f88324942a&q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&tbm=nws&source=lnms&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQpv5LPctXgqlwZihvLnsMCISDpDYQv18Oyw3Kg-dY-wYHDUFVJs6GUZmU5Ix74Nm0SFTs6XbDWmem4_Jrl9_8Gf7x7ovNggBZYmYpADMD05bluwN9v1AzRz-SPcDXo2452HbmFL_kn6lXm_6rAbITN7rCE6tFw&sa=X&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ0pQJegQIERAB
+          - listitem [ref=f12e107]:
+            - button [ref=f12e108] [cursor=pointer]:
+              - generic "更多过滤条件" [ref=f12e109]: 更多
+        - button "工具" [ref=f12e116] [cursor=pointer]
+    - heading "搜索结果" [level=1] [ref=f12e123]
+    - main [ref=f12e129]:
+      - generic [ref=f12e133]:
+        - generic [ref=f12e136]:
+          - heading "Web results" [level=2] [ref=f12e137]
+          - generic [ref=f12e138]:
+            - generic [ref=f12e141]:
+              - link "bedwards/novel GitHub https://github.com › bedwards › novel" [ref=f12e143] [cursor=pointer]:
+                - /url: https://github.com/bedwards/novel
+                - heading "bedwards/novel" [level=3] [ref=f12e144]
+                - generic [ref=f12e150]:
+                  - generic [ref=f12e151]: GitHub
+                  - generic [ref=f12e153]: https://github.com › bedwards › novel
+              - generic [ref=f12e155]:
+                - generic [ref=f12e156]: ·
+                - link "翻译此页" [ref=f12e157] [cursor=pointer]:
+                  - /url: https://github.com/bedwards/novel
+              - button "关于这条结果的详细信息" [ref=f12e160] [cursor=pointer]
+            - generic [ref=f12e167]:
+              - text: It's a
+              - emphasis [ref=f12e168]: structured methodology and file organization system
+              - text: "for writing novels with Claude AI as your creative partner. Think of it as: Scrivener's organization ..."
+        - generic [ref=f12e172]:
+          - generic [ref=f12e175]:
+            - link "Claude-Code-Novel-Writer/README.md at main GitHub https://github.com › forsonny › blob › REA..." [ref=f12e177] [cursor=pointer]:
+              - /url: https://github.com/forsonny/Claude-Code-Novel-Writer/blob/main/README.md
+              - heading "Claude-Code-Novel-Writer/README.md at main" [level=3] [ref=f12e178]
+              - generic [ref=f12e184]:
+                - generic [ref=f12e185]: GitHub
+                - generic [ref=f12e187]: https://github.com › forsonny › blob › REA...
+            - generic [ref=f12e189]:
+              - generic [ref=f12e190]: ·
+              - link "翻译此页" [ref=f12e191] [cursor=pointer]:
+                - /url: https://github.com/forsonny/Claude-Code-Novel-Writer/blob/main/README.md
+            - button "关于这条结果的详细信息" [ref=f12e194] [cursor=pointer]
+          - generic [ref=f12e201]:
+            - text: The Fantasy Novel Writing System v3.1 is a breakthrough
+            - emphasis [ref=f12e202]: intelligent autonomous writing platform
+            - text: that generates complete 100,000-word fantasy novels with ...
+        - generic [ref=f12e206]:
+          - generic [ref=f12e209]:
+            - 'link "[Spike]Add `AGENTS.md` (with `CLAUDE.md` symlink) to ... GitHub https://github.com › kedro › issues" [ref=f12e211] [cursor=pointer]':
+              - /url: https://github.com/kedro-org/kedro/issues/5408
+              - 'heading "[Spike]Add `AGENTS.md` (with `CLAUDE.md` symlink) to ..." [level=3] [ref=f12e212]'
+              - generic [ref=f12e218]:
+                - generic [ref=f12e219]: GitHub
+                - generic [ref=f12e221]: https://github.com › kedro › issues
+            - generic [ref=f12e223]:
+              - generic [ref=f12e224]: ·
+              - link "翻译此页" [ref=f12e225] [cursor=pointer]:
+                - /url: https://github.com/kedro-org/kedro/issues/5408
+            - button "关于这条结果的详细信息" [ref=f12e228] [cursor=pointer]
+          - generic [ref=f12e234]:
+            - generic [ref=f12e235]: 2026年2月27日 —
+            - generic [ref=f12e236]:
+              - text: This gives
+              - emphasis [ref=f12e237]: AI
+              - text: coding agents like Claude Code, GitHub Copilot, Cursor, Codex, Gemini CLI, and others the project context they need to work with ...
+        - generic [ref=f12e241]:
+          - generic [ref=f12e244]:
+            - link "web-novel-writing-skill/AGENTS.md at main GitHub https://github.com › XINGANLIU › blob" [ref=f12e246] [cursor=pointer]:
+              - /url: https://github.com/XINGANLIU/web-novel-writing-skill/blob/main/AGENTS.md
+              - heading "web-novel-writing-skill/AGENTS.md at main" [level=3] [ref=f12e247]
+              - generic [ref=f12e253]:
+                - generic [ref=f12e254]: GitHub
+                - generic [ref=f12e256]: https://github.com › XINGANLIU › blob
+            - generic [ref=f12e258]:
+              - generic [ref=f12e259]: ·
+              - link "翻译此页" [ref=f12e260] [cursor=pointer]:
+                - /url: https://github.com/XINGANLIU/web-novel-writing-skill/blob/main/AGENTS.md
+            - button "关于这条结果的详细信息" [ref=f12e263] [cursor=pointer]
+          - generic [ref=f12e270]:
+            - text: An agentic workflow for long-form fiction
+            - emphasis [ref=f12e271]: writing
+            - text: . Features state-sync memory, golden-three-chapters strategy, and anti-
+            - emphasis [ref=f12e272]: AI
+            - text: "-pattern quality gates."
+        - generic [ref=f12e276]:
+          - generic [ref=f12e279]:
+            - link "AGENTS.md - Supreme-Ultimate/novel-to-script-team GitHub https://github.com › novel-to-script-team › blob › main" [ref=f12e281] [cursor=pointer]:
+              - /url: https://github.com/Supreme-Ultimate/novel-to-script-team/blob/main/AGENTS.md
+              - heading "AGENTS.md - Supreme-Ultimate/novel-to-script-team" [level=3] [ref=f12e282]
+              - generic [ref=f12e288]:
+                - generic [ref=f12e289]: GitHub
+                - generic [ref=f12e291]: https://github.com › novel-to-script-team › blob › main
+            - button "关于这条结果的详细信息" [ref=f12e295] [cursor=pointer]
+          - generic [ref=f12e302]:
+            - text: Platform-neutral operating guide for any coding or
+            - emphasis [ref=f12e303]: AI
+            - text: agent working in this repository. Claude Code can read
+            - emphasis [ref=f12e304]: CLAUDE.md
+            - text: ; Codex and many other agents can ...
+        - generic [ref=f12e308]:
+          - generic [ref=f12e311]:
+            - 'link "lordjabez/story-framework: A structured approach to writing ... GitHub https://github.com › lordjabez › story-frame..." [ref=f12e313] [cursor=pointer]':
+              - /url: https://github.com/lordjabez/story-framework
+              - 'heading "lordjabez/story-framework: A structured approach to writing ..." [level=3] [ref=f12e314]'
+              - generic [ref=f12e320]:
+                - generic [ref=f12e321]: GitHub
+                - generic [ref=f12e323]: https://github.com › lordjabez › story-frame...
+            - generic [ref=f12e325]:
+              - generic [ref=f12e326]: ·
+              - link "翻译此页" [ref=f12e327] [cursor=pointer]:
+                - /url: https://github.com/lordjabez/story-framework
+            - button "关于这条结果的详细信息" [ref=f12e330] [cursor=pointer]
+          - generic [ref=f12e337]:
+            - emphasis [ref=f12e338]: Story Framework
+            - text: . A structured approach to writing fiction with AI assistance, using markdown files and git for version control. Getting Started.
+        - generic [ref=f12e342]:
+          - generic [ref=f12e345]:
+            - link "Novel-Claude/CLAUDE.md at main · wzxsph/Novel-Claude GitHub https://github.com › wzxsph › Novel-Claude › blob › CL..." [ref=f12e347] [cursor=pointer]:
+              - /url: https://github.com/wzxsph/Novel-Claude/blob/main/CLAUDE.md
+              - heading "Novel-Claude/CLAUDE.md at main · wzxsph/Novel-Claude" [level=3] [ref=f12e348]
+              - generic [ref=f12e354]:
+                - generic [ref=f12e355]: GitHub
+                - generic [ref=f12e357]: https://github.com › wzxsph › Novel-Claude › blob › CL...
+            - button "关于这条结果的详细信息" [ref=f12e361] [cursor=pointer]
+          - generic [ref=f12e368]:
+            - emphasis [ref=f12e369]: 工业级AI 长篇网文生成框架
+            - text: "| An industrial-grade AI web novel generation framework based on a microkernel and plugin architecture, featuring context isolation ..."
+        - generic [ref=f12e373]:
+          - generic [ref=f12e376]:
+            - 'link "ThomasHoussin/Claude-Book: A Multi-Agent Framework ... GitHub https://github.com › ThomasHoussin › Claud..." [ref=f12e378] [cursor=pointer]':
+              - /url: https://github.com/ThomasHoussin/Claude-Book
+              - 'heading "ThomasHoussin/Claude-Book: A Multi-Agent Framework ..." [level=3] [ref=f12e379]'
+              - generic [ref=f12e385]:
+                - generic [ref=f12e386]: GitHub
+                - generic [ref=f12e388]: https://github.com › ThomasHoussin › Claud...
+            - generic [ref=f12e390]:
+              - generic [ref=f12e391]: ·
+              - link "翻译此页" [ref=f12e392] [cursor=pointer]:
+                - /url: https://github.com/ThomasHoussin/Claude-Book
+            - button "关于这条结果的详细信息" [ref=f12e395] [cursor=pointer]
+          - generic [ref=f12e402]:
+            - emphasis [ref=f12e403]: A multi-agent framework for writing novels with Claude Code
+            - text: ". Structure. ├── CLAUDE.md # Orchestrator instructions ├── .claude/skills/ # ..."
+        - generic [ref=f12e407]:
+          - generic [ref=f12e410]:
+            - 'link "kyegomez/PROMPTS.md: Understanding CLAUDE. ... GitHub https://github.com › kyegomez › PROMPTS" [ref=f12e412] [cursor=pointer]':
+              - /url: https://github.com/kyegomez/PROMPTS.md
+              - 'heading "kyegomez/PROMPTS.md: Understanding CLAUDE. ..." [level=3] [ref=f12e413]'
+              - generic [ref=f12e419]:
+                - generic [ref=f12e420]: GitHub
+                - generic [ref=f12e422]: https://github.com › kyegomez › PROMPTS
+            - generic [ref=f12e424]:
+              - generic [ref=f12e425]: ·
+              - link "翻译此页" [ref=f12e426] [cursor=pointer]:
+                - /url: https://github.com/kyegomez/PROMPTS.md
+            - button "关于这条结果的详细信息" [ref=f12e429] [cursor=pointer]
+          - generic [ref=f12e436]:
+            - text: Unlike
+            - emphasis [ref=f12e437]: CLAUDE.md
+            - text: (which is project-scoped), MEMORY.md tends to be user-scoped or agent-scoped — it captures what the
+            - emphasis [ref=f12e438]: AI
+            - text: has learned about you or your context ...
+        - generic [ref=f12e442]:
+          - generic [ref=f12e445]:
+            - link "CLAUDE.md — Novel-OS 小說創作框架 GitHub https://github.com › blob › main › CLA..." [ref=f12e447] [cursor=pointer]:
+              - /url: https://github.com/zz465213/ai-novel-creator/blob/main/CLAUDE.md
+              - heading "CLAUDE.md — Novel-OS 小說創作框架" [level=3] [ref=f12e448]
+              - generic [ref=f12e454]:
+                - generic [ref=f12e455]: GitHub
+                - generic [ref=f12e457]: https://github.com › blob › main › CLA...
+            - generic [ref=f12e459]:
+              - generic [ref=f12e460]: ·
+              - link "转为简体网页" [ref=f12e461] [cursor=pointer]:
+                - /url: https://github.com/zz465213/ai-novel-creator/blob/main/CLAUDE.md
+            - button "关于这条结果的详细信息" [ref=f12e464] [cursor=pointer]
+          - generic [ref=f12e471]:
+            - emphasis [ref=f12e472]: 基於Novel-OS 調整為agent skill方式撰寫的結構化工作流系統
+            - text: ，旨在為AI 提供創作小說所需的背景資訊（Context），其核心運作依賴於由淺入深的三層上下文結構：寫作 ...
+      - navigation [ref=f12e475]:
+        - heading "网页导航" [level=1] [ref=f12e476]
+        - text: "1"
+        - link "Page 2" [ref=f12e479] [cursor=pointer]:
+          - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&ei=70JWaqbkI9HKkPIPp5vp2Ao&start=10&sa=N&sstk=AU9db-C_WQxw1Msn1qte-nl3mX5shpaqOeU0rFoEvuamIscNH3GaFz8QPcYEisd_pTf0Kj5XRreneOi6SoMgeoyiDqV1iFFmiiI1Pw&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ8tMDegQIKBAE
+          - text: "2"
+        - link "Page 3" [ref=f12e481] [cursor=pointer]:
+          - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&ei=70JWaqbkI9HKkPIPp5vp2Ao&start=20&sa=N&sstk=AU9db-C_WQxw1Msn1qte-nl3mX5shpaqOeU0rFoEvuamIscNH3GaFz8QPcYEisd_pTf0Kj5XRreneOi6SoMgeoyiDqV1iFFmiiI1Pw&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ8tMDegQIKBAG
+          - text: "3"
+        - link "Page 4" [ref=f12e483] [cursor=pointer]:
+          - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&ei=70JWaqbkI9HKkPIPp5vp2Ao&start=30&sa=N&sstk=AU9db-C_WQxw1Msn1qte-nl3mX5shpaqOeU0rFoEvuamIscNH3GaFz8QPcYEisd_pTf0Kj5XRreneOi6SoMgeoyiDqV1iFFmiiI1Pw&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ8tMDegQIKBAI
+          - text: "4"
+        - link "Page 5" [ref=f12e485] [cursor=pointer]:
+          - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&ei=70JWaqbkI9HKkPIPp5vp2Ao&start=40&sa=N&sstk=AU9db-C_WQxw1Msn1qte-nl3mX5shpaqOeU0rFoEvuamIscNH3GaFz8QPcYEisd_pTf0Kj5XRreneOi6SoMgeoyiDqV1iFFmiiI1Pw&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ8tMDegQIKBAK
+          - text: "5"
+        - link "Page 6" [ref=f12e487] [cursor=pointer]:
+          - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&ei=70JWaqbkI9HKkPIPp5vp2Ao&start=50&sa=N&sstk=AU9db-C_WQxw1Msn1qte-nl3mX5shpaqOeU0rFoEvuamIscNH3GaFz8QPcYEisd_pTf0Kj5XRreneOi6SoMgeoyiDqV1iFFmiiI1Pw&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ8tMDegQIKBAM
+          - text: "6"
+        - link "Page 7" [ref=f12e489] [cursor=pointer]:
+          - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&ei=70JWaqbkI9HKkPIPp5vp2Ao&start=60&sa=N&sstk=AU9db-C_WQxw1Msn1qte-nl3mX5shpaqOeU0rFoEvuamIscNH3GaFz8QPcYEisd_pTf0Kj5XRreneOi6SoMgeoyiDqV1iFFmiiI1Pw&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ8tMDegQIKBAO
+          - text: "7"
+        - link "Page 8" [ref=f12e491] [cursor=pointer]:
+          - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&ei=70JWaqbkI9HKkPIPp5vp2Ao&start=70&sa=N&sstk=AU9db-C_WQxw1Msn1qte-nl3mX5shpaqOeU0rFoEvuamIscNH3GaFz8QPcYEisd_pTf0Kj5XRreneOi6SoMgeoyiDqV1iFFmiiI1Pw&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ8tMDegQIKBAQ
+          - text: "8"
+        - link "Page 9" [ref=f12e493] [cursor=pointer]:
+          - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&ei=70JWaqbkI9HKkPIPp5vp2Ao&start=80&sa=N&sstk=AU9db-C_WQxw1Msn1qte-nl3mX5shpaqOeU0rFoEvuamIscNH3GaFz8QPcYEisd_pTf0Kj5XRreneOi6SoMgeoyiDqV1iFFmiiI1Pw&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ8tMDegQIKBAS
+          - text: "9"
+        - link "Page 10" [ref=f12e495] [cursor=pointer]:
+          - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&ei=70JWaqbkI9HKkPIPp5vp2Ao&start=90&sa=N&sstk=AU9db-C_WQxw1Msn1qte-nl3mX5shpaqOeU0rFoEvuamIscNH3GaFz8QPcYEisd_pTf0Kj5XRreneOi6SoMgeoyiDqV1iFFmiiI1Pw&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ8tMDegQIKBAU
+          - text: "10"
+        - heading [level=2] [ref=f12e497]:
+          - link "下一页" [ref=f12e498] [cursor=pointer]:
+            - /url: /search?q=site:github.com+(%E5%B0%8F%E8%AF%B4+OR+novel)+(CLAUDE.md+OR+AGENTS.md)+AI+writing+framework&sca_esv=114ce2f88324942a&ei=70JWaqbkI9HKkPIPp5vp2Ao&start=10&sa=N&sstk=AU9db-C_WQxw1Msn1qte-nl3mX5shpaqOeU0rFoEvuamIscNH3GaFz8QPcYEisd_pTf0Kj5XRreneOi6SoMgeoyiDqV1iFFmiiI1Pw&ved=2ahUKEwjml_H2q9KVAxVRJUQIHadNGqsQ8NMDegQIKBAW
+      - navigation
+    - contentinfo [ref=f12e501]:
+      - heading "页脚链接" [level=1] [ref=f12e502]
+      - generic [ref=f12e506]:
+        - generic [ref=f12e510]:
+          - button "洛杉矶 加利福尼亚 - 是根据您的 IP 地址推断出来的" [ref=f12e512] [cursor=pointer]:
+            - generic [ref=f12e513]: 洛杉矶 加利福尼亚
+            - generic [ref=f12e515]:
+              - text: "-"
+              - generic [ref=f12e516]: 是根据您的 IP 地址推断出来的
+          - text: "-"
+          - button "更新位置信息" [ref=f12e518] [cursor=pointer]
+        - generic [ref=f12e521]:
+          - link "帮助" [ref=f12e522] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=zh-CN&fg=1
+          - link "发送反馈" [ref=f12e523] [cursor=pointer]:
+            - /url: "#"
+          - link "隐私权" [ref=f12e524] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=zh-CN&fg=1
+          - link "条款" [ref=f12e525] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=zh-CN&fg=1
